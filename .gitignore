@@ -264,10 +264,4 @@ __pycache__/
 *.pyc
 
 # Custom
-/Butterfly.Examples/InheritTest.cs
 *.ps1
-/Archive
-/DemoGif
-/Red
-/Butterfly.Example.Todo/reactnative
-/Butterfly.Example.Todo/aurelia/dist
