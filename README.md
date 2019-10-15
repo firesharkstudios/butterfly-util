@@ -4,12 +4,27 @@
 
 See [Butterfly.Util](https://firesharkstudios.github.io/Butterfly/Butterfly.Util) for API details.
 
-## Contributing
+# Getting Started
+
+## Install from Nuget
+
+| Name | Package | Install |
+| --- | --- | --- |
+| Butterfly.Util | [![nuget](https://img.shields.io/nuget/v/Butterfly.Util.svg)](https://www.nuget.org/packages/Butterfly.Util/) | `nuget install Butterfly.Util` |
+
+## Install from Source Code
+
+Get the source from [GitHub](https://github.com/firesharkstudios/butterfly-util).
+
+# API Documentation
+
+Available [here](http://htmlpreview.github.com/?https://github.com/firesharkstudios/butterfly-util/docs/index.html).
+
+# Contributing
 
 If you'd like to contribute, please fork the repository and use a feature
 branch. Pull requests are warmly welcome.
 
-## Licensing
+# Licensing
 
 The code is licensed under the [Mozilla Public License 2.0](http://mozilla.org/MPL/2.0/).  
-
