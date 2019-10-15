@@ -29,6 +29,7 @@ items:
     content: 'public class StructuredParser : object'
     content.vb: >-
       Public Class StructuredParser
+
           Inherits Object
   inheritance:
   - System.Object

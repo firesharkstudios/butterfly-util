@@ -48,7 +48,7 @@
         ]
       }
     ],
-    "dest": "../docs/docfx",
+    "dest": "../docs",
     "globalMetadata": {
       "_disableContribution": true,
       "_appTitle":  "Butterfly Util .NET API Documentation",

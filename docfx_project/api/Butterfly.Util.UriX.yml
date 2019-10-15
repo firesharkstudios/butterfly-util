@@ -26,6 +26,7 @@ items:
     content: 'public static class UriX : object'
     content.vb: >-
       Public Module UriX
+
           Inherits Object
   inheritance:
   - System.Object

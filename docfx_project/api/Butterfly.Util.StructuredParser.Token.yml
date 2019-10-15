@@ -29,6 +29,7 @@ items:
     content: 'public class Token : object'
     content.vb: >-
       Public Class Token
+
           Inherits Object
   inheritance:
   - System.Object

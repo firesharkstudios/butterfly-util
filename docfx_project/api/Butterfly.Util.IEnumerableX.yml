@@ -26,6 +26,7 @@ items:
     content: 'public static class IEnumerableX : object'
     content.vb: >-
       Public Module IEnumerableX
+
           Inherits Object
   inheritance:
   - System.Object

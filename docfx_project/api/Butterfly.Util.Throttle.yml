@@ -30,6 +30,7 @@ items:
     content: 'public class Throttle : object'
     content.vb: >-
       Public Class Throttle
+
           Inherits Object
   inheritance:
   - System.Object

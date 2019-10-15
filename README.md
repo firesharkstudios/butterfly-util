@@ -18,7 +18,7 @@ git clone https://github.com/firesharkstudios/butterfly-util
 
 # API Documentation
 
-Available [here](http://htmlpreview.github.com/?https://github.com/firesharkstudios/butterfly-util/blob/master/docs/index.html).
+Available [here](http://htmlpreview.github.io/?https://github.com/firesharkstudios/butterfly-util/blob/master/docs/api/Butterfly.Util.html).
 
 # Contributing
 

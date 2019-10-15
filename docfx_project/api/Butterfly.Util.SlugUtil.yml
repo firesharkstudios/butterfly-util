@@ -26,6 +26,7 @@ items:
     content: 'public static class SlugUtil : object'
     content.vb: >-
       Public Module SlugUtil
+
           Inherits Object
   inheritance:
   - System.Object

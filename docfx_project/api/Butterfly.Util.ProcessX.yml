@@ -31,6 +31,7 @@ items:
     content: 'public static class ProcessX : object'
     content.vb: >-
       Public Module ProcessX
+
           Inherits Object
   inheritance:
   - System.Object

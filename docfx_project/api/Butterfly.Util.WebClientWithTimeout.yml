@@ -28,6 +28,7 @@ items:
     content: 'public class WebClientWithTimeout : WebClient'
     content.vb: >-
       Public Class WebClientWithTimeout
+
           Inherits WebClient
   inheritance:
   - System.Object
