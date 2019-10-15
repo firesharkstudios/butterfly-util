@@ -1,0 +1,317 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.SafeUtil
+  commentId: T:Butterfly.Util.SafeUtil
+  id: SafeUtil
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.SafeUtil.FromSafeBase(System.String,System.String)
+  - Butterfly.Util.SafeUtil.FULL_SAFE_BASE_ALPHABET
+  - Butterfly.Util.SafeUtil.GetRandom(System.Int32,System.String)
+  - Butterfly.Util.SafeUtil.InvalidCharacterMatch(System.String,System.String)
+  - Butterfly.Util.SafeUtil.Scrub(System.String,System.String)
+  - Butterfly.Util.SafeUtil.ToSafeBase(System.UInt64,System.String)
+  langs:
+  - csharp
+  - vb
+  name: SafeUtil
+  nameWithType: SafeUtil
+  fullName: Butterfly.Util.SafeUtil
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+    id: SafeUtil
+    path: ../Butterfly.Util/SafeUtil.cs
+    startLine: 15
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public static class SafeUtil : object'
+    content.vb: >-
+      Public Module SafeUtil
+          Inherits Object
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - static
+  - class
+  modifiers.vb:
+  - Public
+  - Module
+- uid: Butterfly.Util.SafeUtil.FULL_SAFE_BASE_ALPHABET
+  commentId: F:Butterfly.Util.SafeUtil.FULL_SAFE_BASE_ALPHABET
+  id: FULL_SAFE_BASE_ALPHABET
+  parent: Butterfly.Util.SafeUtil
+  langs:
+  - csharp
+  - vb
+  name: FULL_SAFE_BASE_ALPHABET
+  nameWithType: SafeUtil.FULL_SAFE_BASE_ALPHABET
+  fullName: Butterfly.Util.SafeUtil.FULL_SAFE_BASE_ALPHABET
+  type: Field
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+    id: FULL_SAFE_BASE_ALPHABET
+    path: ../Butterfly.Util/SafeUtil.cs
+    startLine: 16
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public const string FULL_SAFE_BASE_ALPHABET = null
+    return:
+      type: System.String
+    content.vb: Public Const FULL_SAFE_BASE_ALPHABET As String = Nothing
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: Butterfly.Util.SafeUtil.GetRandom(System.Int32,System.String)
+  commentId: M:Butterfly.Util.SafeUtil.GetRandom(System.Int32,System.String)
+  id: GetRandom(System.Int32,System.String)
+  parent: Butterfly.Util.SafeUtil
+  langs:
+  - csharp
+  - vb
+  name: GetRandom(Int32, String)
+  nameWithType: SafeUtil.GetRandom(Int32, String)
+  fullName: Butterfly.Util.SafeUtil.GetRandom(System.Int32, System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+    id: GetRandom
+    path: ../Butterfly.Util/SafeUtil.cs
+    startLine: 18
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static string GetRandom(int length, string alphabet = null)
+    parameters:
+    - id: length
+      type: System.Int32
+    - id: alphabet
+      type: System.String
+    return:
+      type: System.String
+    content.vb: Public Shared Function GetRandom(length As Integer, alphabet As String = Nothing) As String
+  overload: Butterfly.Util.SafeUtil.GetRandom*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+- uid: Butterfly.Util.SafeUtil.ToSafeBase(System.UInt64,System.String)
+  commentId: M:Butterfly.Util.SafeUtil.ToSafeBase(System.UInt64,System.String)
+  id: ToSafeBase(System.UInt64,System.String)
+  parent: Butterfly.Util.SafeUtil
+  langs:
+  - csharp
+  - vb
+  name: ToSafeBase(UInt64, String)
+  nameWithType: SafeUtil.ToSafeBase(UInt64, String)
+  fullName: Butterfly.Util.SafeUtil.ToSafeBase(System.UInt64, System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+    id: ToSafeBase
+    path: ../Butterfly.Util/SafeUtil.cs
+    startLine: 28
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static string ToSafeBase(ulong number, string alphabet = null)
+    parameters:
+    - id: number
+      type: System.UInt64
+    - id: alphabet
+      type: System.String
+    return:
+      type: System.String
+    content.vb: Public Shared Function ToSafeBase(number As ULong, alphabet As String = Nothing) As String
+  overload: Butterfly.Util.SafeUtil.ToSafeBase*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+- uid: Butterfly.Util.SafeUtil.FromSafeBase(System.String,System.String)
+  commentId: M:Butterfly.Util.SafeUtil.FromSafeBase(System.String,System.String)
+  id: FromSafeBase(System.String,System.String)
+  parent: Butterfly.Util.SafeUtil
+  langs:
+  - csharp
+  - vb
+  name: FromSafeBase(String, String)
+  nameWithType: SafeUtil.FromSafeBase(String, String)
+  fullName: Butterfly.Util.SafeUtil.FromSafeBase(System.String, System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+    id: FromSafeBase
+    path: ../Butterfly.Util/SafeUtil.cs
+    startLine: 39
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static ulong FromSafeBase(string text, string alphabet = null)
+    parameters:
+    - id: text
+      type: System.String
+    - id: alphabet
+      type: System.String
+    return:
+      type: System.UInt64
+    content.vb: Public Shared Function FromSafeBase(text As String, alphabet As String = Nothing) As ULong
+  overload: Butterfly.Util.SafeUtil.FromSafeBase*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+- uid: Butterfly.Util.SafeUtil.Scrub(System.String,System.String)
+  commentId: M:Butterfly.Util.SafeUtil.Scrub(System.String,System.String)
+  id: Scrub(System.String,System.String)
+  parent: Butterfly.Util.SafeUtil
+  langs:
+  - csharp
+  - vb
+  name: Scrub(String, String)
+  nameWithType: SafeUtil.Scrub(String, String)
+  fullName: Butterfly.Util.SafeUtil.Scrub(System.String, System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+    id: Scrub
+    path: ../Butterfly.Util/SafeUtil.cs
+    startLine: 48
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static string Scrub(string raw, string alphabet = null)
+    parameters:
+    - id: raw
+      type: System.String
+    - id: alphabet
+      type: System.String
+    return:
+      type: System.String
+    content.vb: Public Shared Function Scrub(raw As String, alphabet As String = Nothing) As String
+  overload: Butterfly.Util.SafeUtil.Scrub*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+- uid: Butterfly.Util.SafeUtil.InvalidCharacterMatch(System.String,System.String)
+  commentId: M:Butterfly.Util.SafeUtil.InvalidCharacterMatch(System.String,System.String)
+  id: InvalidCharacterMatch(System.String,System.String)
+  parent: Butterfly.Util.SafeUtil
+  langs:
+  - csharp
+  - vb
+  name: InvalidCharacterMatch(String, String)
+  nameWithType: SafeUtil.InvalidCharacterMatch(String, String)
+  fullName: Butterfly.Util.SafeUtil.InvalidCharacterMatch(System.String, System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+    id: InvalidCharacterMatch
+    path: ../Butterfly.Util/SafeUtil.cs
+    startLine: 53
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static Match InvalidCharacterMatch(string raw, string alphabet = null)
+    parameters:
+    - id: raw
+      type: System.String
+    - id: alphabet
+      type: System.String
+    return:
+      type: Match
+    content.vb: Public Shared Function InvalidCharacterMatch(raw As String, alphabet As String = Nothing) As Match
+  overload: Butterfly.Util.SafeUtil.InvalidCharacterMatch*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: System.String
+  isExternal: true
+  name: String
+  nameWithType: String
+  fullName: System.String
+- uid: Butterfly.Util.SafeUtil.GetRandom*
+  commentId: Overload:Butterfly.Util.SafeUtil.GetRandom
+  name: GetRandom
+  nameWithType: SafeUtil.GetRandom
+  fullName: Butterfly.Util.SafeUtil.GetRandom
+- uid: System.Int32
+  isExternal: true
+  name: Int32
+  nameWithType: Int32
+  fullName: System.Int32
+- uid: Butterfly.Util.SafeUtil.ToSafeBase*
+  commentId: Overload:Butterfly.Util.SafeUtil.ToSafeBase
+  name: ToSafeBase
+  nameWithType: SafeUtil.ToSafeBase
+  fullName: Butterfly.Util.SafeUtil.ToSafeBase
+- uid: System.UInt64
+  isExternal: true
+  name: UInt64
+  nameWithType: UInt64
+  fullName: System.UInt64
+- uid: Butterfly.Util.SafeUtil.FromSafeBase*
+  commentId: Overload:Butterfly.Util.SafeUtil.FromSafeBase
+  name: FromSafeBase
+  nameWithType: SafeUtil.FromSafeBase
+  fullName: Butterfly.Util.SafeUtil.FromSafeBase
+- uid: Butterfly.Util.SafeUtil.Scrub*
+  commentId: Overload:Butterfly.Util.SafeUtil.Scrub
+  name: Scrub
+  nameWithType: SafeUtil.Scrub
+  fullName: Butterfly.Util.SafeUtil.Scrub
+- uid: Butterfly.Util.SafeUtil.InvalidCharacterMatch*
+  commentId: Overload:Butterfly.Util.SafeUtil.InvalidCharacterMatch
+  name: InvalidCharacterMatch
+  nameWithType: SafeUtil.InvalidCharacterMatch
+  fullName: Butterfly.Util.SafeUtil.InvalidCharacterMatch
+- uid: Match
+  isExternal: true
+  name: Match
+  nameWithType: Match
+  fullName: Match
+shouldSkipMarkup: true

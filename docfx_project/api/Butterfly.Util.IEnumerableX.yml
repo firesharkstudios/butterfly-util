@@ -1,0 +1,184 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.IEnumerableX
+  commentId: T:Butterfly.Util.IEnumerableX
+  id: IEnumerableX
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.IEnumerableX.HasSameElements``1(ICollection{``0},ICollection{``0})
+  langs:
+  - csharp
+  - vb
+  name: IEnumerableX
+  nameWithType: IEnumerableX
+  fullName: Butterfly.Util.IEnumerableX
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/IEnumerableX.cs
+    id: IEnumerableX
+    path: ../Butterfly.Util/IEnumerableX.cs
+    startLine: 4
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public static class IEnumerableX : object'
+    content.vb: >-
+      Public Module IEnumerableX
+          Inherits Object
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - static
+  - class
+  modifiers.vb:
+  - Public
+  - Module
+- uid: Butterfly.Util.IEnumerableX.HasSameElements``1(ICollection{``0},ICollection{``0})
+  commentId: M:Butterfly.Util.IEnumerableX.HasSameElements``1(ICollection{``0},ICollection{``0})
+  id: HasSameElements``1(ICollection{``0},ICollection{``0})
+  isExtensionMethod: true
+  parent: Butterfly.Util.IEnumerableX
+  langs:
+  - csharp
+  - vb
+  name: HasSameElements<T>(ICollection<T>, ICollection<T>)
+  nameWithType: IEnumerableX.HasSameElements<T>(ICollection<T>, ICollection<T>)
+  fullName: Butterfly.Util.IEnumerableX.HasSameElements<T>(ICollection<T>, ICollection<T>)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/IEnumerableX.cs
+    id: HasSameElements
+    path: ../Butterfly.Util/IEnumerableX.cs
+    startLine: 6
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static bool HasSameElements<T>(this ICollection<T> me, ICollection<T> other)
+    parameters:
+    - id: me
+      type: ICollection{{T}}
+    - id: other
+      type: ICollection{{T}}
+    typeParameters:
+    - id: T
+    return:
+      type: System.Boolean
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function HasSameElements(Of T)(me As ICollection(Of T), other As ICollection(Of T)) As Boolean
+  overload: Butterfly.Util.IEnumerableX.HasSameElements*
+  nameWithType.vb: IEnumerableX.HasSameElements(Of T)(ICollection(Of T), ICollection(Of T))
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.IEnumerableX.HasSameElements(Of T)(ICollection(Of T), ICollection(Of T))
+  name.vb: HasSameElements(Of T)(ICollection(Of T), ICollection(Of T))
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: Butterfly.Util.IEnumerableX.HasSameElements*
+  commentId: Overload:Butterfly.Util.IEnumerableX.HasSameElements
+  name: HasSameElements
+  nameWithType: IEnumerableX.HasSameElements
+  fullName: Butterfly.Util.IEnumerableX.HasSameElements
+- uid: ICollection{{T}}
+  commentId: '!:ICollection{``0}'
+  definition: ICollection`1
+  name: ICollection<T>
+  nameWithType: ICollection<T>
+  fullName: ICollection<T>
+  nameWithType.vb: ICollection(Of T)
+  fullName.vb: ICollection(Of T)
+  name.vb: ICollection(Of T)
+  spec.csharp:
+  - uid: ICollection`1
+    name: ICollection
+    nameWithType: ICollection
+    fullName: ICollection
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: ICollection`1
+    name: ICollection
+    nameWithType: ICollection
+    fullName: ICollection
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Boolean
+  isExternal: true
+  name: Boolean
+  nameWithType: Boolean
+  fullName: System.Boolean
+- uid: ICollection`1
+  isExternal: true
+  name: ICollection<>
+  nameWithType: ICollection<>
+  fullName: ICollection<>
+  nameWithType.vb: ICollection(Of )
+  fullName.vb: ICollection(Of )
+  name.vb: ICollection(Of )
+  spec.csharp:
+  - uid: ICollection`1
+    name: ICollection
+    nameWithType: ICollection
+    fullName: ICollection
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: ICollection`1
+    name: ICollection
+    nameWithType: ICollection
+    fullName: ICollection
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+shouldSkipMarkup: true

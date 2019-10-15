@@ -1,0 +1,53 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.Field
+  commentId: N:Butterfly.Util.Field
+  id: Butterfly.Util.Field
+  children:
+  - Butterfly.Util.Field.EmailFieldValidator
+  - Butterfly.Util.Field.GenericFieldValidator
+  - Butterfly.Util.Field.IFieldValidator
+  - Butterfly.Util.Field.PhoneFieldValidator
+  - Butterfly.Util.Field.TextFieldValidator
+  langs:
+  - csharp
+  - vb
+  name: Butterfly.Util.Field
+  nameWithType: Butterfly.Util.Field
+  fullName: Butterfly.Util.Field
+  type: Namespace
+  assemblies:
+  - Butterfly.Util
+references:
+- uid: Butterfly.Util.Field.EmailFieldValidator
+  commentId: T:Butterfly.Util.Field.EmailFieldValidator
+  name: EmailFieldValidator
+  nameWithType: EmailFieldValidator
+  fullName: Butterfly.Util.Field.EmailFieldValidator
+- uid: Butterfly.Util.Field.GenericFieldValidator
+  commentId: T:Butterfly.Util.Field.GenericFieldValidator
+  name: GenericFieldValidator
+  nameWithType: GenericFieldValidator
+  fullName: Butterfly.Util.Field.GenericFieldValidator
+- uid: Butterfly.Util.Field.IFieldValidator
+  commentId: T:Butterfly.Util.Field.IFieldValidator
+  parent: Butterfly.Util.Field
+  name: IFieldValidator
+  nameWithType: IFieldValidator
+  fullName: Butterfly.Util.Field.IFieldValidator
+- uid: Butterfly.Util.Field.PhoneFieldValidator
+  commentId: T:Butterfly.Util.Field.PhoneFieldValidator
+  name: PhoneFieldValidator
+  nameWithType: PhoneFieldValidator
+  fullName: Butterfly.Util.Field.PhoneFieldValidator
+- uid: Butterfly.Util.Field.TextFieldValidator
+  commentId: T:Butterfly.Util.Field.TextFieldValidator
+  name: TextFieldValidator
+  nameWithType: TextFieldValidator
+  fullName: Butterfly.Util.Field.TextFieldValidator
+- uid: Butterfly.Util.Field
+  commentId: N:Butterfly.Util.Field
+  name: Butterfly.Util.Field
+  nameWithType: Butterfly.Util.Field
+  fullName: Butterfly.Util.Field
+shouldSkipMarkup: true

@@ -1,0 +1,466 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.JsonUtil
+  commentId: T:Butterfly.Util.JsonUtil
+  id: JsonUtil
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.JsonUtil.Deserialize(Type,System.String)
+  - Butterfly.Util.JsonUtil.Deserialize``1(Stream)
+  - Butterfly.Util.JsonUtil.Deserialize``1(System.String)
+  - Butterfly.Util.JsonUtil.ReadJsonFile``1(System.String,System.Boolean)
+  - Butterfly.Util.JsonUtil.Serialize(System.Object,System.Boolean,System.Boolean)
+  - Butterfly.Util.JsonUtil.WriteToFile(System.Object,System.String,System.Boolean,System.Boolean)
+  - Butterfly.Util.JsonUtil.WriteToStream(System.Object,Stream,System.Boolean,System.Boolean)
+  langs:
+  - csharp
+  - vb
+  name: JsonUtil
+  nameWithType: JsonUtil
+  fullName: Butterfly.Util.JsonUtil
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+    id: JsonUtil
+    path: ../Butterfly.Util/JsonUtil.cs
+    startLine: 14
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public static class JsonUtil : object'
+    content.vb: >-
+      Public Module JsonUtil
+          Inherits Object
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - static
+  - class
+  modifiers.vb:
+  - Public
+  - Module
+- uid: Butterfly.Util.JsonUtil.Deserialize``1(Stream)
+  commentId: M:Butterfly.Util.JsonUtil.Deserialize``1(Stream)
+  id: Deserialize``1(Stream)
+  parent: Butterfly.Util.JsonUtil
+  langs:
+  - csharp
+  - vb
+  name: Deserialize<T>(Stream)
+  nameWithType: JsonUtil.Deserialize<T>(Stream)
+  fullName: Butterfly.Util.JsonUtil.Deserialize<T>(Stream)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+    id: Deserialize
+    path: ../Butterfly.Util/JsonUtil.cs
+    startLine: 24
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static T Deserialize<T>(Stream stream)
+    parameters:
+    - id: stream
+      type: Stream
+    typeParameters:
+    - id: T
+    return:
+      type: '{T}'
+    content.vb: Public Shared Function Deserialize(Of T)(stream As Stream) As T
+  overload: Butterfly.Util.JsonUtil.Deserialize*
+  nameWithType.vb: JsonUtil.Deserialize(Of T)(Stream)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.JsonUtil.Deserialize(Of T)(Stream)
+  name.vb: Deserialize(Of T)(Stream)
+- uid: Butterfly.Util.JsonUtil.Deserialize``1(System.String)
+  commentId: M:Butterfly.Util.JsonUtil.Deserialize``1(System.String)
+  id: Deserialize``1(System.String)
+  parent: Butterfly.Util.JsonUtil
+  langs:
+  - csharp
+  - vb
+  name: Deserialize<T>(String)
+  nameWithType: JsonUtil.Deserialize<T>(String)
+  fullName: Butterfly.Util.JsonUtil.Deserialize<T>(System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+    id: Deserialize
+    path: ../Butterfly.Util/JsonUtil.cs
+    startLine: 31
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static T Deserialize<T>(string rawJson)
+    parameters:
+    - id: rawJson
+      type: System.String
+    typeParameters:
+    - id: T
+    return:
+      type: '{T}'
+    content.vb: Public Shared Function Deserialize(Of T)(rawJson As String) As T
+  overload: Butterfly.Util.JsonUtil.Deserialize*
+  nameWithType.vb: JsonUtil.Deserialize(Of T)(String)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.JsonUtil.Deserialize(Of T)(System.String)
+  name.vb: Deserialize(Of T)(String)
+- uid: Butterfly.Util.JsonUtil.Deserialize(Type,System.String)
+  commentId: M:Butterfly.Util.JsonUtil.Deserialize(Type,System.String)
+  id: Deserialize(Type,System.String)
+  parent: Butterfly.Util.JsonUtil
+  langs:
+  - csharp
+  - vb
+  name: Deserialize(Type, String)
+  nameWithType: JsonUtil.Deserialize(Type, String)
+  fullName: Butterfly.Util.JsonUtil.Deserialize(Type, System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+    id: Deserialize
+    path: ../Butterfly.Util/JsonUtil.cs
+    startLine: 36
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static object Deserialize(Type type, string rawJson)
+    parameters:
+    - id: type
+      type: Type
+    - id: rawJson
+      type: System.String
+    return:
+      type: System.Object
+    content.vb: Public Shared Function Deserialize(type As Type, rawJson As String) As Object
+  overload: Butterfly.Util.JsonUtil.Deserialize*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+- uid: Butterfly.Util.JsonUtil.ReadJsonFile``1(System.String,System.Boolean)
+  commentId: M:Butterfly.Util.JsonUtil.ReadJsonFile``1(System.String,System.Boolean)
+  id: ReadJsonFile``1(System.String,System.Boolean)
+  parent: Butterfly.Util.JsonUtil
+  langs:
+  - csharp
+  - vb
+  name: ReadJsonFile<T>(String, Boolean)
+  nameWithType: JsonUtil.ReadJsonFile<T>(String, Boolean)
+  fullName: Butterfly.Util.JsonUtil.ReadJsonFile<T>(System.String, System.Boolean)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+    id: ReadJsonFile
+    path: ../Butterfly.Util/JsonUtil.cs
+    startLine: 46
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static Task<T> ReadJsonFile<T>(string file, bool throwErrorIfNotExists = false)
+    parameters:
+    - id: file
+      type: System.String
+    - id: throwErrorIfNotExists
+      type: System.Boolean
+    typeParameters:
+    - id: T
+    return:
+      type: Task{{T}}
+    content.vb: Public Shared Function ReadJsonFile(Of T)(file As String, throwErrorIfNotExists As Boolean = False) As Task(Of T)
+  overload: Butterfly.Util.JsonUtil.ReadJsonFile*
+  nameWithType.vb: JsonUtil.ReadJsonFile(Of T)(String, Boolean)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.JsonUtil.ReadJsonFile(Of T)(System.String, System.Boolean)
+  name.vb: ReadJsonFile(Of T)(String, Boolean)
+- uid: Butterfly.Util.JsonUtil.WriteToFile(System.Object,System.String,System.Boolean,System.Boolean)
+  commentId: M:Butterfly.Util.JsonUtil.WriteToFile(System.Object,System.String,System.Boolean,System.Boolean)
+  id: WriteToFile(System.Object,System.String,System.Boolean,System.Boolean)
+  parent: Butterfly.Util.JsonUtil
+  langs:
+  - csharp
+  - vb
+  name: WriteToFile(Object, String, Boolean, Boolean)
+  nameWithType: JsonUtil.WriteToFile(Object, String, Boolean, Boolean)
+  fullName: Butterfly.Util.JsonUtil.WriteToFile(System.Object, System.String, System.Boolean, System.Boolean)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+    id: WriteToFile
+    path: ../Butterfly.Util/JsonUtil.cs
+    startLine: 59
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static void WriteToFile(object obj, string file, bool format = false, bool ignoreNulls = false)
+    parameters:
+    - id: obj
+      type: System.Object
+    - id: file
+      type: System.String
+    - id: format
+      type: System.Boolean
+    - id: ignoreNulls
+      type: System.Boolean
+    content.vb: Public Shared Sub WriteToFile(obj As Object, file As String, format As Boolean = False, ignoreNulls As Boolean = False)
+  overload: Butterfly.Util.JsonUtil.WriteToFile*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+- uid: Butterfly.Util.JsonUtil.WriteToStream(System.Object,Stream,System.Boolean,System.Boolean)
+  commentId: M:Butterfly.Util.JsonUtil.WriteToStream(System.Object,Stream,System.Boolean,System.Boolean)
+  id: WriteToStream(System.Object,Stream,System.Boolean,System.Boolean)
+  parent: Butterfly.Util.JsonUtil
+  langs:
+  - csharp
+  - vb
+  name: WriteToStream(Object, Stream, Boolean, Boolean)
+  nameWithType: JsonUtil.WriteToStream(Object, Stream, Boolean, Boolean)
+  fullName: Butterfly.Util.JsonUtil.WriteToStream(System.Object, Stream, System.Boolean, System.Boolean)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+    id: WriteToStream
+    path: ../Butterfly.Util/JsonUtil.cs
+    startLine: 73
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static void WriteToStream(object obj, Stream stream, bool format = false, bool ignoreNulls = false)
+    parameters:
+    - id: obj
+      type: System.Object
+    - id: stream
+      type: Stream
+    - id: format
+      type: System.Boolean
+    - id: ignoreNulls
+      type: System.Boolean
+    content.vb: Public Shared Sub WriteToStream(obj As Object, stream As Stream, format As Boolean = False, ignoreNulls As Boolean = False)
+  overload: Butterfly.Util.JsonUtil.WriteToStream*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+- uid: Butterfly.Util.JsonUtil.Serialize(System.Object,System.Boolean,System.Boolean)
+  commentId: M:Butterfly.Util.JsonUtil.Serialize(System.Object,System.Boolean,System.Boolean)
+  id: Serialize(System.Object,System.Boolean,System.Boolean)
+  parent: Butterfly.Util.JsonUtil
+  langs:
+  - csharp
+  - vb
+  name: Serialize(Object, Boolean, Boolean)
+  nameWithType: JsonUtil.Serialize(Object, Boolean, Boolean)
+  fullName: Butterfly.Util.JsonUtil.Serialize(System.Object, System.Boolean, System.Boolean)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+    id: Serialize
+    path: ../Butterfly.Util/JsonUtil.cs
+    startLine: 85
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static string Serialize(object obj, bool format = false, bool ignoreNulls = false)
+    parameters:
+    - id: obj
+      type: System.Object
+    - id: format
+      type: System.Boolean
+    - id: ignoreNulls
+      type: System.Boolean
+    return:
+      type: System.String
+    content.vb: Public Shared Function Serialize(obj As Object, format As Boolean = False, ignoreNulls As Boolean = False) As String
+  overload: Butterfly.Util.JsonUtil.Serialize*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: Butterfly.Util.JsonUtil.Deserialize*
+  commentId: Overload:Butterfly.Util.JsonUtil.Deserialize
+  name: Deserialize
+  nameWithType: JsonUtil.Deserialize
+  fullName: Butterfly.Util.JsonUtil.Deserialize
+- uid: Stream
+  isExternal: true
+  name: Stream
+  nameWithType: Stream
+  fullName: Stream
+- uid: '{T}'
+  commentId: '!:T'
+  definition: T
+  name: T
+  nameWithType: T
+  fullName: T
+- uid: T
+  name: T
+  nameWithType: T
+  fullName: T
+- uid: System.String
+  isExternal: true
+  name: String
+  nameWithType: String
+  fullName: System.String
+- uid: Type
+  commentId: '!:Type'
+  isExternal: true
+  name: Type
+  nameWithType: Type
+  fullName: Type
+- uid: Butterfly.Util.JsonUtil.ReadJsonFile*
+  commentId: Overload:Butterfly.Util.JsonUtil.ReadJsonFile
+  name: ReadJsonFile
+  nameWithType: JsonUtil.ReadJsonFile
+  fullName: Butterfly.Util.JsonUtil.ReadJsonFile
+- uid: System.Boolean
+  isExternal: true
+  name: Boolean
+  nameWithType: Boolean
+  fullName: System.Boolean
+- uid: Task{{T}}
+  commentId: '!:Task{``0}'
+  definition: Task`1
+  name: Task<T>
+  nameWithType: Task<T>
+  fullName: Task<T>
+  nameWithType.vb: Task(Of T)
+  fullName.vb: Task(Of T)
+  name.vb: Task(Of T)
+  spec.csharp:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Task`1
+  isExternal: true
+  name: Task<>
+  nameWithType: Task<>
+  fullName: Task<>
+  nameWithType.vb: Task(Of )
+  fullName.vb: Task(Of )
+  name.vb: Task(Of )
+  spec.csharp:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Butterfly.Util.JsonUtil.WriteToFile*
+  commentId: Overload:Butterfly.Util.JsonUtil.WriteToFile
+  name: WriteToFile
+  nameWithType: JsonUtil.WriteToFile
+  fullName: Butterfly.Util.JsonUtil.WriteToFile
+- uid: Butterfly.Util.JsonUtil.WriteToStream*
+  commentId: Overload:Butterfly.Util.JsonUtil.WriteToStream
+  name: WriteToStream
+  nameWithType: JsonUtil.WriteToStream
+  fullName: Butterfly.Util.JsonUtil.WriteToStream
+- uid: Butterfly.Util.JsonUtil.Serialize*
+  commentId: Overload:Butterfly.Util.JsonUtil.Serialize
+  name: Serialize
+  nameWithType: JsonUtil.Serialize
+  fullName: Butterfly.Util.JsonUtil.Serialize
+shouldSkipMarkup: true

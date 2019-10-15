@@ -1,0 +1,431 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.StructuredParser
+  commentId: T:Butterfly.Util.StructuredParser
+  id: StructuredParser
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.StructuredParser.AddToken(System.String,Regex,System.Boolean)
+  - Butterfly.Util.StructuredParser.GetMatch(Butterfly.Util.StructuredParser.Token,System.String,System.Int32)
+  - Butterfly.Util.StructuredParser.Parse(System.String)
+  - Butterfly.Util.StructuredParser.tokens
+  langs:
+  - csharp
+  - vb
+  name: StructuredParser
+  nameWithType: StructuredParser
+  fullName: Butterfly.Util.StructuredParser
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: StructuredParser
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 7
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public class StructuredParser : object'
+    content.vb: >-
+      Public Class StructuredParser
+          Inherits Object
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - class
+  modifiers.vb:
+  - Public
+  - Class
+- uid: Butterfly.Util.StructuredParser.tokens
+  commentId: F:Butterfly.Util.StructuredParser.tokens
+  id: tokens
+  parent: Butterfly.Util.StructuredParser
+  langs:
+  - csharp
+  - vb
+  name: tokens
+  nameWithType: StructuredParser.tokens
+  fullName: Butterfly.Util.StructuredParser.tokens
+  type: Field
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: tokens
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 8
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: protected readonly List<StructuredParser.Token> tokens
+    return:
+      type: List{Butterfly.Util.StructuredParser.Token}
+    content.vb: Protected ReadOnly tokens As List(Of StructuredParser.Token)
+  modifiers.csharp:
+  - protected
+  - readonly
+  modifiers.vb:
+  - Protected
+  - ReadOnly
+- uid: Butterfly.Util.StructuredParser.AddToken(System.String,Regex,System.Boolean)
+  commentId: M:Butterfly.Util.StructuredParser.AddToken(System.String,Regex,System.Boolean)
+  id: AddToken(System.String,Regex,System.Boolean)
+  parent: Butterfly.Util.StructuredParser
+  langs:
+  - csharp
+  - vb
+  name: AddToken(String, Regex, Boolean)
+  nameWithType: StructuredParser.AddToken(String, Regex, Boolean)
+  fullName: Butterfly.Util.StructuredParser.AddToken(System.String, Regex, System.Boolean)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: AddToken
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 10
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public StructuredParser AddToken(string name, Regex regex, bool required)
+    parameters:
+    - id: name
+      type: System.String
+    - id: regex
+      type: Regex
+    - id: required
+      type: System.Boolean
+    return:
+      type: Butterfly.Util.StructuredParser
+    content.vb: Public Function AddToken(name As String, regex As Regex, required As Boolean) As StructuredParser
+  overload: Butterfly.Util.StructuredParser.AddToken*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+- uid: Butterfly.Util.StructuredParser.Parse(System.String)
+  commentId: M:Butterfly.Util.StructuredParser.Parse(System.String)
+  id: Parse(System.String)
+  parent: Butterfly.Util.StructuredParser
+  langs:
+  - csharp
+  - vb
+  name: Parse(String)
+  nameWithType: StructuredParser.Parse(String)
+  fullName: Butterfly.Util.StructuredParser.Parse(System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: Parse
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 15
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public System.Collections.Generic.Dictionary<string, object> Parse(string text)
+    parameters:
+    - id: text
+      type: System.String
+    return:
+      type: System.Collections.Generic.Dictionary{System.String,System.Object}
+    content.vb: Public Function Parse(text As String) As System.Collections.Generic.Dictionary(Of String, Object)
+  overload: Butterfly.Util.StructuredParser.Parse*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+- uid: Butterfly.Util.StructuredParser.GetMatch(Butterfly.Util.StructuredParser.Token,System.String,System.Int32)
+  commentId: M:Butterfly.Util.StructuredParser.GetMatch(Butterfly.Util.StructuredParser.Token,System.String,System.Int32)
+  id: GetMatch(Butterfly.Util.StructuredParser.Token,System.String,System.Int32)
+  parent: Butterfly.Util.StructuredParser
+  langs:
+  - csharp
+  - vb
+  name: GetMatch(StructuredParser.Token, String, Int32)
+  nameWithType: StructuredParser.GetMatch(StructuredParser.Token, String, Int32)
+  fullName: Butterfly.Util.StructuredParser.GetMatch(Butterfly.Util.StructuredParser.Token, System.String, System.Int32)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: GetMatch
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 48
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: protected Match GetMatch(StructuredParser.Token token, string text, int pos)
+    parameters:
+    - id: token
+      type: Butterfly.Util.StructuredParser.Token
+    - id: text
+      type: System.String
+    - id: pos
+      type: System.Int32
+    return:
+      type: Match
+    content.vb: Protected Function GetMatch(token As StructuredParser.Token, text As String, pos As Integer) As Match
+  overload: Butterfly.Util.StructuredParser.GetMatch*
+  modifiers.csharp:
+  - protected
+  modifiers.vb:
+  - Protected
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: List{Butterfly.Util.StructuredParser.Token}
+  commentId: '!:List{Butterfly.Util.StructuredParser.Token}'
+  definition: List`1
+  name: List<StructuredParser.Token>
+  nameWithType: List<StructuredParser.Token>
+  fullName: List<Butterfly.Util.StructuredParser.Token>
+  nameWithType.vb: List(Of StructuredParser.Token)
+  fullName.vb: List(Of Butterfly.Util.StructuredParser.Token)
+  name.vb: List(Of StructuredParser.Token)
+  spec.csharp:
+  - uid: List`1
+    name: List
+    nameWithType: List
+    fullName: List
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: Butterfly.Util.StructuredParser.Token
+    name: StructuredParser.Token
+    nameWithType: StructuredParser.Token
+    fullName: Butterfly.Util.StructuredParser.Token
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: List`1
+    name: List
+    nameWithType: List
+    fullName: List
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: Butterfly.Util.StructuredParser.Token
+    name: StructuredParser.Token
+    nameWithType: StructuredParser.Token
+    fullName: Butterfly.Util.StructuredParser.Token
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: List`1
+  isExternal: true
+  name: List<>
+  nameWithType: List<>
+  fullName: List<>
+  nameWithType.vb: List(Of )
+  fullName.vb: List(Of )
+  name.vb: List(Of )
+  spec.csharp:
+  - uid: List`1
+    name: List
+    nameWithType: List
+    fullName: List
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: List`1
+    name: List
+    nameWithType: List
+    fullName: List
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Butterfly.Util.StructuredParser.AddToken*
+  commentId: Overload:Butterfly.Util.StructuredParser.AddToken
+  name: AddToken
+  nameWithType: StructuredParser.AddToken
+  fullName: Butterfly.Util.StructuredParser.AddToken
+- uid: System.String
+  isExternal: true
+  name: String
+  nameWithType: String
+  fullName: System.String
+- uid: Regex
+  isExternal: true
+  name: Regex
+  nameWithType: Regex
+  fullName: Regex
+- uid: System.Boolean
+  isExternal: true
+  name: Boolean
+  nameWithType: Boolean
+  fullName: System.Boolean
+- uid: Butterfly.Util.StructuredParser
+  commentId: T:Butterfly.Util.StructuredParser
+  parent: Butterfly.Util
+  name: StructuredParser
+  nameWithType: StructuredParser
+  fullName: Butterfly.Util.StructuredParser
+- uid: Butterfly.Util.StructuredParser.Parse*
+  commentId: Overload:Butterfly.Util.StructuredParser.Parse
+  name: Parse
+  nameWithType: StructuredParser.Parse
+  fullName: Butterfly.Util.StructuredParser.Parse
+- uid: System.Collections.Generic.Dictionary{System.String,System.Object}
+  commentId: '!:System.Collections.Generic.Dictionary{System.String,System.Object}'
+  definition: System.Collections.Generic.Dictionary`2
+  name: System.Collections.Generic.Dictionary<String, Object>
+  nameWithType: System.Collections.Generic.Dictionary<String, Object>
+  fullName: System.Collections.Generic.Dictionary<System.String, System.Object>
+  nameWithType.vb: System.Collections.Generic.Dictionary(Of String, Object)
+  fullName.vb: System.Collections.Generic.Dictionary(Of System.String, System.Object)
+  name.vb: System.Collections.Generic.Dictionary(Of String, Object)
+  spec.csharp:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Collections.Generic.Dictionary`2
+  isExternal: true
+  name: System.Collections.Generic.Dictionary<, >
+  nameWithType: System.Collections.Generic.Dictionary<, >
+  fullName: System.Collections.Generic.Dictionary<, >
+  nameWithType.vb: System.Collections.Generic.Dictionary(Of , )
+  fullName.vb: System.Collections.Generic.Dictionary(Of , )
+  name.vb: System.Collections.Generic.Dictionary(Of , )
+  spec.csharp:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Butterfly.Util.StructuredParser.GetMatch*
+  commentId: Overload:Butterfly.Util.StructuredParser.GetMatch
+  name: GetMatch
+  nameWithType: StructuredParser.GetMatch
+  fullName: Butterfly.Util.StructuredParser.GetMatch
+- uid: Butterfly.Util.StructuredParser.Token
+  commentId: T:Butterfly.Util.StructuredParser.Token
+  parent: Butterfly.Util
+  name: StructuredParser.Token
+  nameWithType: StructuredParser.Token
+  fullName: Butterfly.Util.StructuredParser.Token
+- uid: System.Int32
+  isExternal: true
+  name: Int32
+  nameWithType: Int32
+  fullName: System.Int32
+- uid: Match
+  isExternal: true
+  name: Match
+  nameWithType: Match
+  fullName: Match
+shouldSkipMarkup: true

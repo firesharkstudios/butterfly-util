@@ -1,0 +1,367 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.Throttle
+  commentId: T:Butterfly.Util.Throttle
+  id: Throttle
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.Throttle.#ctor(System.Single,System.Int32)
+  - Butterfly.Util.Throttle.Check(System.String,System.Int32)
+  - Butterfly.Util.Throttle.count
+  - Butterfly.Util.Throttle.dateTimesByKey
+  - Butterfly.Util.Throttle.seconds
+  langs:
+  - csharp
+  - vb
+  name: Throttle
+  nameWithType: Throttle
+  fullName: Butterfly.Util.Throttle
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+    id: Throttle
+    path: ../Butterfly.Util/Throttle.cs
+    startLine: 4
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public class Throttle : object'
+    content.vb: >-
+      Public Class Throttle
+          Inherits Object
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - class
+  modifiers.vb:
+  - Public
+  - Class
+- uid: Butterfly.Util.Throttle.dateTimesByKey
+  commentId: F:Butterfly.Util.Throttle.dateTimesByKey
+  id: dateTimesByKey
+  parent: Butterfly.Util.Throttle
+  langs:
+  - csharp
+  - vb
+  name: dateTimesByKey
+  nameWithType: Throttle.dateTimesByKey
+  fullName: Butterfly.Util.Throttle.dateTimesByKey
+  type: Field
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+    id: dateTimesByKey
+    path: ../Butterfly.Util/Throttle.cs
+    startLine: 6
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: protected readonly Dictionary<string, List<DateTime>> dateTimesByKey
+    return:
+      type: Dictionary{System.String,List{DateTime}}
+    content.vb: Protected ReadOnly dateTimesByKey As Dictionary(Of String, List(Of DateTime))
+  modifiers.csharp:
+  - protected
+  - readonly
+  modifiers.vb:
+  - Protected
+  - ReadOnly
+- uid: Butterfly.Util.Throttle.seconds
+  commentId: F:Butterfly.Util.Throttle.seconds
+  id: seconds
+  parent: Butterfly.Util.Throttle
+  langs:
+  - csharp
+  - vb
+  name: seconds
+  nameWithType: Throttle.seconds
+  fullName: Butterfly.Util.Throttle.seconds
+  type: Field
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+    id: seconds
+    path: ../Butterfly.Util/Throttle.cs
+    startLine: 8
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public float seconds
+    return:
+      type: System.Single
+    content.vb: Public seconds As Single
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+- uid: Butterfly.Util.Throttle.count
+  commentId: F:Butterfly.Util.Throttle.count
+  id: count
+  parent: Butterfly.Util.Throttle
+  langs:
+  - csharp
+  - vb
+  name: count
+  nameWithType: Throttle.count
+  fullName: Butterfly.Util.Throttle.count
+  type: Field
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+    id: count
+    path: ../Butterfly.Util/Throttle.cs
+    startLine: 9
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public int count
+    return:
+      type: System.Int32
+    content.vb: Public count As Integer
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+- uid: Butterfly.Util.Throttle.#ctor(System.Single,System.Int32)
+  commentId: M:Butterfly.Util.Throttle.#ctor(System.Single,System.Int32)
+  id: '#ctor(System.Single,System.Int32)'
+  parent: Butterfly.Util.Throttle
+  langs:
+  - csharp
+  - vb
+  name: Throttle(Single, Int32)
+  nameWithType: Throttle.Throttle(Single, Int32)
+  fullName: Butterfly.Util.Throttle.Throttle(System.Single, System.Int32)
+  type: Constructor
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+    id: .ctor
+    path: ../Butterfly.Util/Throttle.cs
+    startLine: 11
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public Throttle(float seconds, int limit)
+    parameters:
+    - id: seconds
+      type: System.Single
+    - id: limit
+      type: System.Int32
+    content.vb: Public Sub New(seconds As Single, limit As Integer)
+  overload: Butterfly.Util.Throttle.#ctor*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+- uid: Butterfly.Util.Throttle.Check(System.String,System.Int32)
+  commentId: M:Butterfly.Util.Throttle.Check(System.String,System.Int32)
+  id: Check(System.String,System.Int32)
+  parent: Butterfly.Util.Throttle
+  langs:
+  - csharp
+  - vb
+  name: Check(String, Int32)
+  nameWithType: Throttle.Check(String, Int32)
+  fullName: Butterfly.Util.Throttle.Check(System.String, System.Int32)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+    id: Check
+    path: ../Butterfly.Util/Throttle.cs
+    startLine: 16
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public int Check(string key, int requestCount = 1)
+    parameters:
+    - id: key
+      type: System.String
+    - id: requestCount
+      type: System.Int32
+    return:
+      type: System.Int32
+    content.vb: Public Function Check(key As String, requestCount As Integer = 1) As Integer
+  overload: Butterfly.Util.Throttle.Check*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: Dictionary{System.String,List{DateTime}}
+  commentId: '!:Dictionary{System.String,List{DateTime}}'
+  definition: Dictionary`2
+  name: Dictionary<String, List<DateTime>>
+  nameWithType: Dictionary<String, List<DateTime>>
+  fullName: Dictionary<System.String, List<DateTime>>
+  nameWithType.vb: Dictionary(Of String, List(Of DateTime))
+  fullName.vb: Dictionary(Of System.String, List(Of DateTime))
+  name.vb: Dictionary(Of String, List(Of DateTime))
+  spec.csharp:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: List`1
+    name: List
+    nameWithType: List
+    fullName: List
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: DateTime
+    name: DateTime
+    nameWithType: DateTime
+    fullName: DateTime
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: List`1
+    name: List
+    nameWithType: List
+    fullName: List
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: DateTime
+    name: DateTime
+    nameWithType: DateTime
+    fullName: DateTime
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Dictionary`2
+  isExternal: true
+  name: Dictionary<, >
+  nameWithType: Dictionary<, >
+  fullName: Dictionary<, >
+  nameWithType.vb: Dictionary(Of , )
+  fullName.vb: Dictionary(Of , )
+  name.vb: Dictionary(Of , )
+  spec.csharp:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Single
+  isExternal: true
+  name: Single
+  nameWithType: Single
+  fullName: System.Single
+- uid: System.Int32
+  isExternal: true
+  name: Int32
+  nameWithType: Int32
+  fullName: System.Int32
+- uid: Butterfly.Util.Throttle.#ctor*
+  commentId: Overload:Butterfly.Util.Throttle.#ctor
+  name: Throttle
+  nameWithType: Throttle.Throttle
+  fullName: Butterfly.Util.Throttle.Throttle
+- uid: Butterfly.Util.Throttle.Check*
+  commentId: Overload:Butterfly.Util.Throttle.Check
+  name: Check
+  nameWithType: Throttle.Check
+  fullName: Butterfly.Util.Throttle.Check
+- uid: System.String
+  isExternal: true
+  name: String
+  nameWithType: String
+  fullName: System.String
+shouldSkipMarkup: true

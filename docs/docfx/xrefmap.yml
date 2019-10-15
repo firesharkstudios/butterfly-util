@@ -1,0 +1,1779 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Butterfly.Util
+  name: Butterfly.Util
+  href: api/Butterfly.Util.html
+  commentId: N:Butterfly.Util
+  fullName: Butterfly.Util
+  nameWithType: Butterfly.Util
+- uid: Butterfly.Util.CleverNameX
+  name: CleverNameX
+  href: api/Butterfly.Util.CleverNameX.html
+  commentId: T:Butterfly.Util.CleverNameX
+  fullName: Butterfly.Util.CleverNameX
+  nameWithType: CleverNameX
+- uid: Butterfly.Util.CleverNameX.ANIMALS
+  name: ANIMALS
+  href: api/Butterfly.Util.CleverNameX.html#Butterfly_Util_CleverNameX_ANIMALS
+  commentId: F:Butterfly.Util.CleverNameX.ANIMALS
+  fullName: Butterfly.Util.CleverNameX.ANIMALS
+  nameWithType: CleverNameX.ANIMALS
+- uid: Butterfly.Util.CleverNameX.COLORS
+  name: COLORS
+  href: api/Butterfly.Util.CleverNameX.html#Butterfly_Util_CleverNameX_COLORS
+  commentId: F:Butterfly.Util.CleverNameX.COLORS
+  fullName: Butterfly.Util.CleverNameX.COLORS
+  nameWithType: CleverNameX.COLORS
+- uid: Butterfly.Util.CleverNameX.Generate
+  name: Generate()
+  href: api/Butterfly.Util.CleverNameX.html#Butterfly_Util_CleverNameX_Generate
+  commentId: M:Butterfly.Util.CleverNameX.Generate
+  fullName: Butterfly.Util.CleverNameX.Generate()
+  nameWithType: CleverNameX.Generate()
+- uid: Butterfly.Util.CleverNameX.Generate*
+  name: Generate
+  href: api/Butterfly.Util.CleverNameX.html#Butterfly_Util_CleverNameX_Generate_
+  commentId: Overload:Butterfly.Util.CleverNameX.Generate
+  isSpec: "True"
+  fullName: Butterfly.Util.CleverNameX.Generate
+  nameWithType: CleverNameX.Generate
+- uid: Butterfly.Util.CommandLineUtil
+  name: CommandLineUtil
+  href: api/Butterfly.Util.CommandLineUtil.html
+  commentId: T:Butterfly.Util.CommandLineUtil
+  fullName: Butterfly.Util.CommandLineUtil
+  nameWithType: CommandLineUtil
+- uid: Butterfly.Util.CommandLineUtil.Build(Dictionary{System.String,System.String})
+  name: Build(Dictionary<String, String>)
+  href: api/Butterfly.Util.CommandLineUtil.html#Butterfly_Util_CommandLineUtil_Build_Dictionary_System_String_System_String__
+  commentId: M:Butterfly.Util.CommandLineUtil.Build(Dictionary{System.String,System.String})
+  name.vb: Build(Dictionary(Of String, String))
+  fullName: Butterfly.Util.CommandLineUtil.Build(Dictionary<System.String, System.String>)
+  fullName.vb: Butterfly.Util.CommandLineUtil.Build(Dictionary(Of System.String, System.String))
+  nameWithType: CommandLineUtil.Build(Dictionary<String, String>)
+  nameWithType.vb: CommandLineUtil.Build(Dictionary(Of String, String))
+- uid: Butterfly.Util.CommandLineUtil.Build*
+  name: Build
+  href: api/Butterfly.Util.CommandLineUtil.html#Butterfly_Util_CommandLineUtil_Build_
+  commentId: Overload:Butterfly.Util.CommandLineUtil.Build
+  isSpec: "True"
+  fullName: Butterfly.Util.CommandLineUtil.Build
+  nameWithType: CommandLineUtil.Build
+- uid: Butterfly.Util.CommandLineUtil.Parse(System.String)
+  name: Parse(String)
+  href: api/Butterfly.Util.CommandLineUtil.html#Butterfly_Util_CommandLineUtil_Parse_System_String_
+  commentId: M:Butterfly.Util.CommandLineUtil.Parse(System.String)
+  fullName: Butterfly.Util.CommandLineUtil.Parse(System.String)
+  nameWithType: CommandLineUtil.Parse(String)
+- uid: Butterfly.Util.CommandLineUtil.Parse*
+  name: Parse
+  href: api/Butterfly.Util.CommandLineUtil.html#Butterfly_Util_CommandLineUtil_Parse_
+  commentId: Overload:Butterfly.Util.CommandLineUtil.Parse
+  isSpec: "True"
+  fullName: Butterfly.Util.CommandLineUtil.Parse
+  nameWithType: CommandLineUtil.Parse
+- uid: Butterfly.Util.ConsoleUtil
+  name: ConsoleUtil
+  href: api/Butterfly.Util.ConsoleUtil.html
+  commentId: T:Butterfly.Util.ConsoleUtil
+  fullName: Butterfly.Util.ConsoleUtil
+  nameWithType: ConsoleUtil
+- uid: Butterfly.Util.ConsoleUtil.WaitForCancelKey
+  name: WaitForCancelKey()
+  href: api/Butterfly.Util.ConsoleUtil.html#Butterfly_Util_ConsoleUtil_WaitForCancelKey
+  commentId: M:Butterfly.Util.ConsoleUtil.WaitForCancelKey
+  fullName: Butterfly.Util.ConsoleUtil.WaitForCancelKey()
+  nameWithType: ConsoleUtil.WaitForCancelKey()
+- uid: Butterfly.Util.ConsoleUtil.WaitForCancelKey*
+  name: WaitForCancelKey
+  href: api/Butterfly.Util.ConsoleUtil.html#Butterfly_Util_ConsoleUtil_WaitForCancelKey_
+  commentId: Overload:Butterfly.Util.ConsoleUtil.WaitForCancelKey
+  isSpec: "True"
+  fullName: Butterfly.Util.ConsoleUtil.WaitForCancelKey
+  nameWithType: ConsoleUtil.WaitForCancelKey
+- uid: Butterfly.Util.DateTimeX
+  name: DateTimeX
+  href: api/Butterfly.Util.DateTimeX.html
+  commentId: T:Butterfly.Util.DateTimeX
+  fullName: Butterfly.Util.DateTimeX
+  nameWithType: DateTimeX
+- uid: Butterfly.Util.DateTimeX.FromUnixTimestamp(System.Int64)
+  name: FromUnixTimestamp(Int64)
+  href: api/Butterfly.Util.DateTimeX.html#Butterfly_Util_DateTimeX_FromUnixTimestamp_System_Int64_
+  commentId: M:Butterfly.Util.DateTimeX.FromUnixTimestamp(System.Int64)
+  fullName: Butterfly.Util.DateTimeX.FromUnixTimestamp(System.Int64)
+  nameWithType: DateTimeX.FromUnixTimestamp(Int64)
+- uid: Butterfly.Util.DateTimeX.FromUnixTimestamp*
+  name: FromUnixTimestamp
+  href: api/Butterfly.Util.DateTimeX.html#Butterfly_Util_DateTimeX_FromUnixTimestamp_
+  commentId: Overload:Butterfly.Util.DateTimeX.FromUnixTimestamp
+  isSpec: "True"
+  fullName: Butterfly.Util.DateTimeX.FromUnixTimestamp
+  nameWithType: DateTimeX.FromUnixTimestamp
+- uid: Butterfly.Util.DateTimeX.ToUnixTimestamp(DateTime)
+  name: ToUnixTimestamp(DateTime)
+  href: api/Butterfly.Util.DateTimeX.html#Butterfly_Util_DateTimeX_ToUnixTimestamp_DateTime_
+  commentId: M:Butterfly.Util.DateTimeX.ToUnixTimestamp(DateTime)
+  fullName: Butterfly.Util.DateTimeX.ToUnixTimestamp(DateTime)
+  nameWithType: DateTimeX.ToUnixTimestamp(DateTime)
+- uid: Butterfly.Util.DateTimeX.ToUnixTimestamp*
+  name: ToUnixTimestamp
+  href: api/Butterfly.Util.DateTimeX.html#Butterfly_Util_DateTimeX_ToUnixTimestamp_
+  commentId: Overload:Butterfly.Util.DateTimeX.ToUnixTimestamp
+  isSpec: "True"
+  fullName: Butterfly.Util.DateTimeX.ToUnixTimestamp
+  nameWithType: DateTimeX.ToUnixTimestamp
+- uid: Butterfly.Util.DictionaryItemDisposable`2
+  name: DictionaryItemDisposable<T, U>
+  href: api/Butterfly.Util.DictionaryItemDisposable-2.html
+  commentId: T:Butterfly.Util.DictionaryItemDisposable`2
+  name.vb: DictionaryItemDisposable(Of T, U)
+  fullName: Butterfly.Util.DictionaryItemDisposable<T, U>
+  fullName.vb: Butterfly.Util.DictionaryItemDisposable(Of T, U)
+  nameWithType: DictionaryItemDisposable<T, U>
+  nameWithType.vb: DictionaryItemDisposable(Of T, U)
+- uid: Butterfly.Util.DictionaryItemDisposable`2.#ctor(Dictionary{`0,`1},`0,`1)
+  name: DictionaryItemDisposable(Dictionary<T, U>, T, U)
+  href: api/Butterfly.Util.DictionaryItemDisposable-2.html#Butterfly_Util_DictionaryItemDisposable_2__ctor_Dictionary__0__1___0__1_
+  commentId: M:Butterfly.Util.DictionaryItemDisposable`2.#ctor(Dictionary{`0,`1},`0,`1)
+  name.vb: DictionaryItemDisposable(Dictionary(Of T, U), T, U)
+  fullName: Butterfly.Util.DictionaryItemDisposable<T, U>.DictionaryItemDisposable(Dictionary<T, U>, T, U)
+  fullName.vb: Butterfly.Util.DictionaryItemDisposable(Of T, U).DictionaryItemDisposable(Dictionary(Of T, U), T, U)
+  nameWithType: DictionaryItemDisposable<T, U>.DictionaryItemDisposable(Dictionary<T, U>, T, U)
+  nameWithType.vb: DictionaryItemDisposable(Of T, U).DictionaryItemDisposable(Dictionary(Of T, U), T, U)
+- uid: Butterfly.Util.DictionaryItemDisposable`2.#ctor*
+  name: DictionaryItemDisposable
+  href: api/Butterfly.Util.DictionaryItemDisposable-2.html#Butterfly_Util_DictionaryItemDisposable_2__ctor_
+  commentId: Overload:Butterfly.Util.DictionaryItemDisposable`2.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryItemDisposable<T, U>.DictionaryItemDisposable
+  fullName.vb: Butterfly.Util.DictionaryItemDisposable(Of T, U).DictionaryItemDisposable
+  nameWithType: DictionaryItemDisposable<T, U>.DictionaryItemDisposable
+  nameWithType.vb: DictionaryItemDisposable(Of T, U).DictionaryItemDisposable
+- uid: Butterfly.Util.DictionaryItemDisposable`2.dictionary
+  name: dictionary
+  href: api/Butterfly.Util.DictionaryItemDisposable-2.html#Butterfly_Util_DictionaryItemDisposable_2_dictionary
+  commentId: F:Butterfly.Util.DictionaryItemDisposable`2.dictionary
+  fullName: Butterfly.Util.DictionaryItemDisposable<T, U>.dictionary
+  fullName.vb: Butterfly.Util.DictionaryItemDisposable(Of T, U).dictionary
+  nameWithType: DictionaryItemDisposable<T, U>.dictionary
+  nameWithType.vb: DictionaryItemDisposable(Of T, U).dictionary
+- uid: Butterfly.Util.DictionaryItemDisposable`2.Dispose
+  name: Dispose()
+  href: api/Butterfly.Util.DictionaryItemDisposable-2.html#Butterfly_Util_DictionaryItemDisposable_2_Dispose
+  commentId: M:Butterfly.Util.DictionaryItemDisposable`2.Dispose
+  fullName: Butterfly.Util.DictionaryItemDisposable<T, U>.Dispose()
+  fullName.vb: Butterfly.Util.DictionaryItemDisposable(Of T, U).Dispose()
+  nameWithType: DictionaryItemDisposable<T, U>.Dispose()
+  nameWithType.vb: DictionaryItemDisposable(Of T, U).Dispose()
+- uid: Butterfly.Util.DictionaryItemDisposable`2.Dispose*
+  name: Dispose
+  href: api/Butterfly.Util.DictionaryItemDisposable-2.html#Butterfly_Util_DictionaryItemDisposable_2_Dispose_
+  commentId: Overload:Butterfly.Util.DictionaryItemDisposable`2.Dispose
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryItemDisposable<T, U>.Dispose
+  fullName.vb: Butterfly.Util.DictionaryItemDisposable(Of T, U).Dispose
+  nameWithType: DictionaryItemDisposable<T, U>.Dispose
+  nameWithType.vb: DictionaryItemDisposable(Of T, U).Dispose
+- uid: Butterfly.Util.DictionaryItemDisposable`2.key
+  name: key
+  href: api/Butterfly.Util.DictionaryItemDisposable-2.html#Butterfly_Util_DictionaryItemDisposable_2_key
+  commentId: F:Butterfly.Util.DictionaryItemDisposable`2.key
+  fullName: Butterfly.Util.DictionaryItemDisposable<T, U>.key
+  fullName.vb: Butterfly.Util.DictionaryItemDisposable(Of T, U).key
+  nameWithType: DictionaryItemDisposable<T, U>.key
+  nameWithType.vb: DictionaryItemDisposable(Of T, U).key
+- uid: Butterfly.Util.DictionaryX
+  name: DictionaryX
+  href: api/Butterfly.Util.DictionaryX.html
+  commentId: T:Butterfly.Util.DictionaryX
+  fullName: Butterfly.Util.DictionaryX
+  nameWithType: DictionaryX
+- uid: Butterfly.Util.DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},SemaphoreSlim,System.Char)
+  name: ConcurrentSyncAsync(System.Collections.Generic.Dictionary<String, Object>[], System.Collections.Generic.Dictionary<String, Object>[], String[], Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, SemaphoreSlim, Char)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ConcurrentSyncAsync_System_Collections_Generic_Dictionary_System_String_System_Object____System_Collections_Generic_Dictionary_System_String_System_Object____System_String___Func_System_Collections_Generic_Dictionary_System_String_System_Object__Task_System_Boolean___Func_System_Collections_Generic_Dictionary_System_String_System_Object__System_Collections_Generic_Dictionary_System_String_System_Object__Task_System_Boolean___Func_System_Collections_Generic_Dictionary_System_String_System_Object__System_Collections_Generic_Dictionary_System_String_System_Object__Task_System_Boolean___SemaphoreSlim_System_Char_
+  commentId: M:Butterfly.Util.DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},SemaphoreSlim,System.Char)
+  name.vb: ConcurrentSyncAsync(System.Collections.Generic.Dictionary(Of String, Object)(), System.Collections.Generic.Dictionary(Of String, Object)(), String(), Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), SemaphoreSlim, Char)
+  fullName: Butterfly.Util.DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary<System.String, System.Object>[], System.Collections.Generic.Dictionary<System.String, System.Object>[], System.String[], Func<System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, Func<System.Collections.Generic.Dictionary<System.String, System.Object>, System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, Func<System.Collections.Generic.Dictionary<System.String, System.Object>, System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, SemaphoreSlim, System.Char)
+  fullName.vb: Butterfly.Util.DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary(Of System.String, System.Object)(), System.Collections.Generic.Dictionary(Of System.String, System.Object)(), System.String(), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), SemaphoreSlim, System.Char)
+  nameWithType: DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary<String, Object>[], System.Collections.Generic.Dictionary<String, Object>[], String[], Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, SemaphoreSlim, Char)
+  nameWithType.vb: DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary(Of String, Object)(), System.Collections.Generic.Dictionary(Of String, Object)(), String(), Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), SemaphoreSlim, Char)
+- uid: Butterfly.Util.DictionaryX.ConcurrentSyncAsync*
+  name: ConcurrentSyncAsync
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ConcurrentSyncAsync_
+  commentId: Overload:Butterfly.Util.DictionaryX.ConcurrentSyncAsync
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.ConcurrentSyncAsync
+  nameWithType: DictionaryX.ConcurrentSyncAsync
+- uid: Butterfly.Util.DictionaryX.ContainsAllKeys*
+  name: ContainsAllKeys
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ContainsAllKeys_
+  commentId: Overload:Butterfly.Util.DictionaryX.ContainsAllKeys
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.ContainsAllKeys
+  nameWithType: DictionaryX.ContainsAllKeys
+- uid: Butterfly.Util.DictionaryX.ContainsAllKeys``2(Dictionary{``0,``1},``0[])
+  name: ContainsAllKeys<T, U>(Dictionary<T, U>, T[])
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ContainsAllKeys__2_Dictionary___0___1____0___
+  commentId: M:Butterfly.Util.DictionaryX.ContainsAllKeys``2(Dictionary{``0,``1},``0[])
+  name.vb: ContainsAllKeys(Of T, U)(Dictionary(Of T, U), T())
+  fullName: Butterfly.Util.DictionaryX.ContainsAllKeys<T, U>(Dictionary<T, U>, T[])
+  fullName.vb: Butterfly.Util.DictionaryX.ContainsAllKeys(Of T, U)(Dictionary(Of T, U), T())
+  nameWithType: DictionaryX.ContainsAllKeys<T, U>(Dictionary<T, U>, T[])
+  nameWithType.vb: DictionaryX.ContainsAllKeys(Of T, U)(Dictionary(Of T, U), T())
+- uid: Butterfly.Util.DictionaryX.ContainsAnyKey*
+  name: ContainsAnyKey
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ContainsAnyKey_
+  commentId: Overload:Butterfly.Util.DictionaryX.ContainsAnyKey
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.ContainsAnyKey
+  nameWithType: DictionaryX.ContainsAnyKey
+- uid: Butterfly.Util.DictionaryX.ContainsAnyKey``2(Dictionary{``0,``1},``0[])
+  name: ContainsAnyKey<T, U>(Dictionary<T, U>, T[])
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ContainsAnyKey__2_Dictionary___0___1____0___
+  commentId: M:Butterfly.Util.DictionaryX.ContainsAnyKey``2(Dictionary{``0,``1},``0[])
+  name.vb: ContainsAnyKey(Of T, U)(Dictionary(Of T, U), T())
+  fullName: Butterfly.Util.DictionaryX.ContainsAnyKey<T, U>(Dictionary<T, U>, T[])
+  fullName.vb: Butterfly.Util.DictionaryX.ContainsAnyKey(Of T, U)(Dictionary(Of T, U), T())
+  nameWithType: DictionaryX.ContainsAnyKey<T, U>(Dictionary<T, U>, T[])
+  nameWithType.vb: DictionaryX.ContainsAnyKey(Of T, U)(Dictionary(Of T, U), T())
+- uid: Butterfly.Util.DictionaryX.Deconstruct*
+  name: Deconstruct
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_Deconstruct_
+  commentId: Overload:Butterfly.Util.DictionaryX.Deconstruct
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.Deconstruct
+  nameWithType: DictionaryX.Deconstruct
+- uid: Butterfly.Util.DictionaryX.Deconstruct``2(KeyValuePair{``0,``1},``0@,``1@)
+  name: Deconstruct<T1, T2>(KeyValuePair<T1, T2>, out T1, out T2)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_Deconstruct__2_KeyValuePair___0___1____0____1__
+  commentId: M:Butterfly.Util.DictionaryX.Deconstruct``2(KeyValuePair{``0,``1},``0@,``1@)
+  name.vb: Deconstruct(Of T1, T2)(KeyValuePair(Of T1, T2), ByRef T1, ByRef T2)
+  fullName: Butterfly.Util.DictionaryX.Deconstruct<T1, T2>(KeyValuePair<T1, T2>, out T1, out T2)
+  fullName.vb: Butterfly.Util.DictionaryX.Deconstruct(Of T1, T2)(KeyValuePair(Of T1, T2), ByRef T1, ByRef T2)
+  nameWithType: DictionaryX.Deconstruct<T1, T2>(KeyValuePair<T1, T2>, out T1, out T2)
+  nameWithType.vb: DictionaryX.Deconstruct(Of T1, T2)(KeyValuePair(Of T1, T2), ByRef T1, ByRef T2)
+- uid: Butterfly.Util.DictionaryX.Format(Dictionary{System.String,System.Object},System.String,System.String,System.String)
+  name: Format(Dictionary<String, Object>, String, String, String)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_Format_Dictionary_System_String_System_Object__System_String_System_String_System_String_
+  commentId: M:Butterfly.Util.DictionaryX.Format(Dictionary{System.String,System.Object},System.String,System.String,System.String)
+  name.vb: Format(Dictionary(Of String, Object), String, String, String)
+  fullName: Butterfly.Util.DictionaryX.Format(Dictionary<System.String, System.Object>, System.String, System.String, System.String)
+  fullName.vb: Butterfly.Util.DictionaryX.Format(Dictionary(Of System.String, System.Object), System.String, System.String, System.String)
+  nameWithType: DictionaryX.Format(Dictionary<String, Object>, String, String, String)
+  nameWithType.vb: DictionaryX.Format(Dictionary(Of String, Object), String, String, String)
+- uid: Butterfly.Util.DictionaryX.Format*
+  name: Format
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_Format_
+  commentId: Overload:Butterfly.Util.DictionaryX.Format
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.Format
+  nameWithType: DictionaryX.Format
+- uid: Butterfly.Util.DictionaryX.GetAs*
+  name: GetAs
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_GetAs_
+  commentId: Overload:Butterfly.Util.DictionaryX.GetAs
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.GetAs
+  nameWithType: DictionaryX.GetAs
+- uid: Butterfly.Util.DictionaryX.GetAs``3(Dictionary{``0,``1},``0,``2)
+  name: GetAs<T, U, V>(Dictionary<T, U>, T, V)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_GetAs__3_Dictionary___0___1____0___2_
+  commentId: M:Butterfly.Util.DictionaryX.GetAs``3(Dictionary{``0,``1},``0,``2)
+  name.vb: GetAs(Of T, U, V)(Dictionary(Of T, U), T, V)
+  fullName: Butterfly.Util.DictionaryX.GetAs<T, U, V>(Dictionary<T, U>, T, V)
+  fullName.vb: Butterfly.Util.DictionaryX.GetAs(Of T, U, V)(Dictionary(Of T, U), T, V)
+  nameWithType: DictionaryX.GetAs<T, U, V>(Dictionary<T, U>, T, V)
+  nameWithType.vb: DictionaryX.GetAs(Of T, U, V)(Dictionary(Of T, U), T, V)
+- uid: Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary{System.String,System.Object},System.String[],System.Char,System.Boolean)
+  name: GetKeyValue(System.Collections.Generic.Dictionary<String, Object>, String[], Char, Boolean)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_GetKeyValue_System_Collections_Generic_Dictionary_System_String_System_Object__System_String___System_Char_System_Boolean_
+  commentId: M:Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary{System.String,System.Object},System.String[],System.Char,System.Boolean)
+  name.vb: GetKeyValue(System.Collections.Generic.Dictionary(Of String, Object), String(), Char, Boolean)
+  fullName: Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary<System.String, System.Object>, System.String[], System.Char, System.Boolean)
+  fullName.vb: Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary(Of System.String, System.Object), System.String(), System.Char, System.Boolean)
+  nameWithType: DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary<String, Object>, String[], Char, Boolean)
+  nameWithType.vb: DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary(Of String, Object), String(), Char, Boolean)
+- uid: Butterfly.Util.DictionaryX.GetKeyValue*
+  name: GetKeyValue
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_GetKeyValue_
+  commentId: Overload:Butterfly.Util.DictionaryX.GetKeyValue
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.GetKeyValue
+  nameWithType: DictionaryX.GetKeyValue
+- uid: Butterfly.Util.DictionaryX.IsSame*
+  name: IsSame
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_IsSame_
+  commentId: Overload:Butterfly.Util.DictionaryX.IsSame
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.IsSame
+  nameWithType: DictionaryX.IsSame
+- uid: Butterfly.Util.DictionaryX.IsSame``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  name: IsSame<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_IsSame__2_Dictionary___0___1__Dictionary___0___1__
+  commentId: M:Butterfly.Util.DictionaryX.IsSame``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  name.vb: IsSame(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+  fullName: Butterfly.Util.DictionaryX.IsSame<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  fullName.vb: Butterfly.Util.DictionaryX.IsSame(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+  nameWithType: DictionaryX.IsSame<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  nameWithType.vb: DictionaryX.IsSame(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+- uid: Butterfly.Util.DictionaryX.ParseKeyValue(System.Object,System.String[],System.Char)
+  name: ParseKeyValue(Object, String[], Char)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ParseKeyValue_System_Object_System_String___System_Char_
+  commentId: M:Butterfly.Util.DictionaryX.ParseKeyValue(System.Object,System.String[],System.Char)
+  name.vb: ParseKeyValue(Object, String(), Char)
+  fullName: Butterfly.Util.DictionaryX.ParseKeyValue(System.Object, System.String[], System.Char)
+  fullName.vb: Butterfly.Util.DictionaryX.ParseKeyValue(System.Object, System.String(), System.Char)
+  nameWithType: DictionaryX.ParseKeyValue(Object, String[], Char)
+  nameWithType.vb: DictionaryX.ParseKeyValue(Object, String(), Char)
+- uid: Butterfly.Util.DictionaryX.ParseKeyValue*
+  name: ParseKeyValue
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ParseKeyValue_
+  commentId: Overload:Butterfly.Util.DictionaryX.ParseKeyValue
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.ParseKeyValue
+  nameWithType: DictionaryX.ParseKeyValue
+- uid: Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},System.Char)
+  name: SyncAsync(System.Collections.Generic.Dictionary<String, Object>[], System.Collections.Generic.Dictionary<String, Object>[], String[], Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Char)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_SyncAsync_System_Collections_Generic_Dictionary_System_String_System_Object____System_Collections_Generic_Dictionary_System_String_System_Object____System_String___Func_System_Collections_Generic_Dictionary_System_String_System_Object__Task_System_Boolean___Func_System_Collections_Generic_Dictionary_System_String_System_Object__System_Collections_Generic_Dictionary_System_String_System_Object__Task_System_Boolean___Func_System_Collections_Generic_Dictionary_System_String_System_Object__System_Collections_Generic_Dictionary_System_String_System_Object__Task_System_Boolean___System_Char_
+  commentId: M:Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},System.Char)
+  name.vb: SyncAsync(System.Collections.Generic.Dictionary(Of String, Object)(), System.Collections.Generic.Dictionary(Of String, Object)(), String(), Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Char)
+  fullName: Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary<System.String, System.Object>[], System.Collections.Generic.Dictionary<System.String, System.Object>[], System.String[], Func<System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, Func<System.Collections.Generic.Dictionary<System.String, System.Object>, System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, Func<System.Collections.Generic.Dictionary<System.String, System.Object>, System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, System.Char)
+  fullName.vb: Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary(Of System.String, System.Object)(), System.Collections.Generic.Dictionary(Of System.String, System.Object)(), System.String(), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), System.Char)
+  nameWithType: DictionaryX.SyncAsync(System.Collections.Generic.Dictionary<String, Object>[], System.Collections.Generic.Dictionary<String, Object>[], String[], Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Char)
+  nameWithType.vb: DictionaryX.SyncAsync(System.Collections.Generic.Dictionary(Of String, Object)(), System.Collections.Generic.Dictionary(Of String, Object)(), String(), Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Char)
+- uid: Butterfly.Util.DictionaryX.SyncAsync*
+  name: SyncAsync
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_SyncAsync_
+  commentId: Overload:Butterfly.Util.DictionaryX.SyncAsync
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.SyncAsync
+  nameWithType: DictionaryX.SyncAsync
+- uid: Butterfly.Util.DictionaryX.ToString*
+  name: ToString
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ToString_
+  commentId: Overload:Butterfly.Util.DictionaryX.ToString
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.ToString
+  nameWithType: DictionaryX.ToString
+- uid: Butterfly.Util.DictionaryX.ToString``2(Dictionary{``0,``1},System.String,System.String)
+  name: ToString<T, U>(Dictionary<T, U>, String, String)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_ToString__2_Dictionary___0___1__System_String_System_String_
+  commentId: M:Butterfly.Util.DictionaryX.ToString``2(Dictionary{``0,``1},System.String,System.String)
+  name.vb: ToString(Of T, U)(Dictionary(Of T, U), String, String)
+  fullName: Butterfly.Util.DictionaryX.ToString<T, U>(Dictionary<T, U>, System.String, System.String)
+  fullName.vb: Butterfly.Util.DictionaryX.ToString(Of T, U)(Dictionary(Of T, U), System.String, System.String)
+  nameWithType: DictionaryX.ToString<T, U>(Dictionary<T, U>, String, String)
+  nameWithType.vb: DictionaryX.ToString(Of T, U)(Dictionary(Of T, U), String, String)
+- uid: Butterfly.Util.DictionaryX.UpdateFrom*
+  name: UpdateFrom
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_UpdateFrom_
+  commentId: Overload:Butterfly.Util.DictionaryX.UpdateFrom
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.UpdateFrom
+  nameWithType: DictionaryX.UpdateFrom
+- uid: Butterfly.Util.DictionaryX.UpdateFrom``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  name: UpdateFrom<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_UpdateFrom__2_Dictionary___0___1__Dictionary___0___1__
+  commentId: M:Butterfly.Util.DictionaryX.UpdateFrom``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  name.vb: UpdateFrom(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+  fullName: Butterfly.Util.DictionaryX.UpdateFrom<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  fullName.vb: Butterfly.Util.DictionaryX.UpdateFrom(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+  nameWithType: DictionaryX.UpdateFrom<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  nameWithType.vb: DictionaryX.UpdateFrom(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+- uid: Butterfly.Util.DynamicX
+  name: DynamicX
+  href: api/Butterfly.Util.DynamicX.html
+  commentId: T:Butterfly.Util.DynamicX
+  fullName: Butterfly.Util.DynamicX
+  nameWithType: DynamicX
+- uid: Butterfly.Util.DynamicX.GetKeys(System.Object)
+  name: GetKeys(Object)
+  href: api/Butterfly.Util.DynamicX.html#Butterfly_Util_DynamicX_GetKeys_System_Object_
+  commentId: M:Butterfly.Util.DynamicX.GetKeys(System.Object)
+  fullName: Butterfly.Util.DynamicX.GetKeys(System.Object)
+  nameWithType: DynamicX.GetKeys(Object)
+- uid: Butterfly.Util.DynamicX.GetKeys*
+  name: GetKeys
+  href: api/Butterfly.Util.DynamicX.html#Butterfly_Util_DynamicX_GetKeys_
+  commentId: Overload:Butterfly.Util.DynamicX.GetKeys
+  isSpec: "True"
+  fullName: Butterfly.Util.DynamicX.GetKeys
+  nameWithType: DynamicX.GetKeys
+- uid: Butterfly.Util.DynamicX.GetProperties(System.Object)
+  name: GetProperties(Object)
+  href: api/Butterfly.Util.DynamicX.html#Butterfly_Util_DynamicX_GetProperties_System_Object_
+  commentId: M:Butterfly.Util.DynamicX.GetProperties(System.Object)
+  fullName: Butterfly.Util.DynamicX.GetProperties(System.Object)
+  nameWithType: DynamicX.GetProperties(Object)
+- uid: Butterfly.Util.DynamicX.GetProperties*
+  name: GetProperties
+  href: api/Butterfly.Util.DynamicX.html#Butterfly_Util_DynamicX_GetProperties_
+  commentId: Overload:Butterfly.Util.DynamicX.GetProperties
+  isSpec: "True"
+  fullName: Butterfly.Util.DynamicX.GetProperties
+  nameWithType: DynamicX.GetProperties
+- uid: Butterfly.Util.DynamicX.ToDictionary(System.Object)
+  name: ToDictionary(Object)
+  href: api/Butterfly.Util.DynamicX.html#Butterfly_Util_DynamicX_ToDictionary_System_Object_
+  commentId: M:Butterfly.Util.DynamicX.ToDictionary(System.Object)
+  fullName: Butterfly.Util.DynamicX.ToDictionary(System.Object)
+  nameWithType: DynamicX.ToDictionary(Object)
+- uid: Butterfly.Util.DynamicX.ToDictionary*
+  name: ToDictionary
+  href: api/Butterfly.Util.DynamicX.html#Butterfly_Util_DynamicX_ToDictionary_
+  commentId: Overload:Butterfly.Util.DynamicX.ToDictionary
+  isSpec: "True"
+  fullName: Butterfly.Util.DynamicX.ToDictionary
+  nameWithType: DynamicX.ToDictionary
+- uid: Butterfly.Util.EnvironmentX
+  name: EnvironmentX
+  href: api/Butterfly.Util.EnvironmentX.html
+  commentId: T:Butterfly.Util.EnvironmentX
+  fullName: Butterfly.Util.EnvironmentX
+  nameWithType: EnvironmentX
+- uid: Butterfly.Util.EnvironmentX.IsRunningOnMono
+  name: IsRunningOnMono()
+  href: api/Butterfly.Util.EnvironmentX.html#Butterfly_Util_EnvironmentX_IsRunningOnMono
+  commentId: M:Butterfly.Util.EnvironmentX.IsRunningOnMono
+  fullName: Butterfly.Util.EnvironmentX.IsRunningOnMono()
+  nameWithType: EnvironmentX.IsRunningOnMono()
+- uid: Butterfly.Util.EnvironmentX.IsRunningOnMono*
+  name: IsRunningOnMono
+  href: api/Butterfly.Util.EnvironmentX.html#Butterfly_Util_EnvironmentX_IsRunningOnMono_
+  commentId: Overload:Butterfly.Util.EnvironmentX.IsRunningOnMono
+  isSpec: "True"
+  fullName: Butterfly.Util.EnvironmentX.IsRunningOnMono
+  nameWithType: EnvironmentX.IsRunningOnMono
+- uid: Butterfly.Util.Field
+  name: Butterfly.Util.Field
+  href: api/Butterfly.Util.Field.html
+  commentId: N:Butterfly.Util.Field
+  fullName: Butterfly.Util.Field
+  nameWithType: Butterfly.Util.Field
+- uid: Butterfly.Util.Field.EmailFieldValidator
+  name: EmailFieldValidator
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html
+  commentId: T:Butterfly.Util.Field.EmailFieldValidator
+  fullName: Butterfly.Util.Field.EmailFieldValidator
+  nameWithType: EmailFieldValidator
+- uid: Butterfly.Util.Field.EmailFieldValidator.#ctor(System.String,System.Boolean,System.Boolean)
+  name: EmailFieldValidator(String, Boolean, Boolean)
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html#Butterfly_Util_Field_EmailFieldValidator__ctor_System_String_System_Boolean_System_Boolean_
+  commentId: M:Butterfly.Util.Field.EmailFieldValidator.#ctor(System.String,System.Boolean,System.Boolean)
+  fullName: Butterfly.Util.Field.EmailFieldValidator.EmailFieldValidator(System.String, System.Boolean, System.Boolean)
+  nameWithType: EmailFieldValidator.EmailFieldValidator(String, Boolean, Boolean)
+- uid: Butterfly.Util.Field.EmailFieldValidator.#ctor*
+  name: EmailFieldValidator
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html#Butterfly_Util_Field_EmailFieldValidator__ctor_
+  commentId: Overload:Butterfly.Util.Field.EmailFieldValidator.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.EmailFieldValidator.EmailFieldValidator
+  nameWithType: EmailFieldValidator.EmailFieldValidator
+- uid: Butterfly.Util.Field.EmailFieldValidator.allowNull
+  name: allowNull
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html#Butterfly_Util_Field_EmailFieldValidator_allowNull
+  commentId: F:Butterfly.Util.Field.EmailFieldValidator.allowNull
+  fullName: Butterfly.Util.Field.EmailFieldValidator.allowNull
+  nameWithType: EmailFieldValidator.allowNull
+- uid: Butterfly.Util.Field.EmailFieldValidator.logger
+  name: logger
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html#Butterfly_Util_Field_EmailFieldValidator_logger
+  commentId: F:Butterfly.Util.Field.EmailFieldValidator.logger
+  fullName: Butterfly.Util.Field.EmailFieldValidator.logger
+  nameWithType: EmailFieldValidator.logger
+- uid: Butterfly.Util.Field.EmailFieldValidator.name
+  name: name
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html#Butterfly_Util_Field_EmailFieldValidator_name
+  commentId: F:Butterfly.Util.Field.EmailFieldValidator.name
+  fullName: Butterfly.Util.Field.EmailFieldValidator.name
+  nameWithType: EmailFieldValidator.name
+- uid: Butterfly.Util.Field.EmailFieldValidator.REGEX
+  name: REGEX
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html#Butterfly_Util_Field_EmailFieldValidator_REGEX
+  commentId: F:Butterfly.Util.Field.EmailFieldValidator.REGEX
+  fullName: Butterfly.Util.Field.EmailFieldValidator.REGEX
+  nameWithType: EmailFieldValidator.REGEX
+- uid: Butterfly.Util.Field.EmailFieldValidator.stripName
+  name: stripName
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html#Butterfly_Util_Field_EmailFieldValidator_stripName
+  commentId: F:Butterfly.Util.Field.EmailFieldValidator.stripName
+  fullName: Butterfly.Util.Field.EmailFieldValidator.stripName
+  nameWithType: EmailFieldValidator.stripName
+- uid: Butterfly.Util.Field.EmailFieldValidator.Validate(System.String)
+  name: Validate(String)
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html#Butterfly_Util_Field_EmailFieldValidator_Validate_System_String_
+  commentId: M:Butterfly.Util.Field.EmailFieldValidator.Validate(System.String)
+  fullName: Butterfly.Util.Field.EmailFieldValidator.Validate(System.String)
+  nameWithType: EmailFieldValidator.Validate(String)
+- uid: Butterfly.Util.Field.EmailFieldValidator.Validate*
+  name: Validate
+  href: api/Butterfly.Util.Field.EmailFieldValidator.html#Butterfly_Util_Field_EmailFieldValidator_Validate_
+  commentId: Overload:Butterfly.Util.Field.EmailFieldValidator.Validate
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.EmailFieldValidator.Validate
+  nameWithType: EmailFieldValidator.Validate
+- uid: Butterfly.Util.Field.GenericFieldValidator
+  name: GenericFieldValidator
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html
+  commentId: T:Butterfly.Util.Field.GenericFieldValidator
+  fullName: Butterfly.Util.Field.GenericFieldValidator
+  nameWithType: GenericFieldValidator
+- uid: Butterfly.Util.Field.GenericFieldValidator.#ctor(System.String,System.String,System.Boolean,System.Boolean,System.Boolean,System.Boolean)
+  name: GenericFieldValidator(String, String, Boolean, Boolean, Boolean, Boolean)
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator__ctor_System_String_System_String_System_Boolean_System_Boolean_System_Boolean_System_Boolean_
+  commentId: M:Butterfly.Util.Field.GenericFieldValidator.#ctor(System.String,System.String,System.Boolean,System.Boolean,System.Boolean,System.Boolean)
+  fullName: Butterfly.Util.Field.GenericFieldValidator.GenericFieldValidator(System.String, System.String, System.Boolean, System.Boolean, System.Boolean, System.Boolean)
+  nameWithType: GenericFieldValidator.GenericFieldValidator(String, String, Boolean, Boolean, Boolean, Boolean)
+- uid: Butterfly.Util.Field.GenericFieldValidator.#ctor*
+  name: GenericFieldValidator
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator__ctor_
+  commentId: Overload:Butterfly.Util.Field.GenericFieldValidator.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.GenericFieldValidator.GenericFieldValidator
+  nameWithType: GenericFieldValidator.GenericFieldValidator
+- uid: Butterfly.Util.Field.GenericFieldValidator.allowNull
+  name: allowNull
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator_allowNull
+  commentId: F:Butterfly.Util.Field.GenericFieldValidator.allowNull
+  fullName: Butterfly.Util.Field.GenericFieldValidator.allowNull
+  nameWithType: GenericFieldValidator.allowNull
+- uid: Butterfly.Util.Field.GenericFieldValidator.fieldName
+  name: fieldName
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator_fieldName
+  commentId: F:Butterfly.Util.Field.GenericFieldValidator.fieldName
+  fullName: Butterfly.Util.Field.GenericFieldValidator.fieldName
+  nameWithType: GenericFieldValidator.fieldName
+- uid: Butterfly.Util.Field.GenericFieldValidator.forceLowerCase
+  name: forceLowerCase
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator_forceLowerCase
+  commentId: F:Butterfly.Util.Field.GenericFieldValidator.forceLowerCase
+  fullName: Butterfly.Util.Field.GenericFieldValidator.forceLowerCase
+  nameWithType: GenericFieldValidator.forceLowerCase
+- uid: Butterfly.Util.Field.GenericFieldValidator.includeValueInError
+  name: includeValueInError
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator_includeValueInError
+  commentId: F:Butterfly.Util.Field.GenericFieldValidator.includeValueInError
+  fullName: Butterfly.Util.Field.GenericFieldValidator.includeValueInError
+  nameWithType: GenericFieldValidator.includeValueInError
+- uid: Butterfly.Util.Field.GenericFieldValidator.regex
+  name: regex
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator_regex
+  commentId: F:Butterfly.Util.Field.GenericFieldValidator.regex
+  fullName: Butterfly.Util.Field.GenericFieldValidator.regex
+  nameWithType: GenericFieldValidator.regex
+- uid: Butterfly.Util.Field.GenericFieldValidator.trim
+  name: trim
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator_trim
+  commentId: F:Butterfly.Util.Field.GenericFieldValidator.trim
+  fullName: Butterfly.Util.Field.GenericFieldValidator.trim
+  nameWithType: GenericFieldValidator.trim
+- uid: Butterfly.Util.Field.GenericFieldValidator.Validate(System.String)
+  name: Validate(String)
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator_Validate_System_String_
+  commentId: M:Butterfly.Util.Field.GenericFieldValidator.Validate(System.String)
+  fullName: Butterfly.Util.Field.GenericFieldValidator.Validate(System.String)
+  nameWithType: GenericFieldValidator.Validate(String)
+- uid: Butterfly.Util.Field.GenericFieldValidator.Validate*
+  name: Validate
+  href: api/Butterfly.Util.Field.GenericFieldValidator.html#Butterfly_Util_Field_GenericFieldValidator_Validate_
+  commentId: Overload:Butterfly.Util.Field.GenericFieldValidator.Validate
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.GenericFieldValidator.Validate
+  nameWithType: GenericFieldValidator.Validate
+- uid: Butterfly.Util.Field.IFieldValidator
+  name: IFieldValidator
+  href: api/Butterfly.Util.Field.IFieldValidator.html
+  commentId: T:Butterfly.Util.Field.IFieldValidator
+  fullName: Butterfly.Util.Field.IFieldValidator
+  nameWithType: IFieldValidator
+- uid: Butterfly.Util.Field.IFieldValidator.Validate(System.String)
+  name: Validate(String)
+  href: api/Butterfly.Util.Field.IFieldValidator.html#Butterfly_Util_Field_IFieldValidator_Validate_System_String_
+  commentId: M:Butterfly.Util.Field.IFieldValidator.Validate(System.String)
+  fullName: Butterfly.Util.Field.IFieldValidator.Validate(System.String)
+  nameWithType: IFieldValidator.Validate(String)
+- uid: Butterfly.Util.Field.IFieldValidator.Validate*
+  name: Validate
+  href: api/Butterfly.Util.Field.IFieldValidator.html#Butterfly_Util_Field_IFieldValidator_Validate_
+  commentId: Overload:Butterfly.Util.Field.IFieldValidator.Validate
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.IFieldValidator.Validate
+  nameWithType: IFieldValidator.Validate
+- uid: Butterfly.Util.Field.PhoneFieldValidator
+  name: PhoneFieldValidator
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html
+  commentId: T:Butterfly.Util.Field.PhoneFieldValidator
+  fullName: Butterfly.Util.Field.PhoneFieldValidator
+  nameWithType: PhoneFieldValidator
+- uid: Butterfly.Util.Field.PhoneFieldValidator.#ctor(System.String,System.Boolean)
+  name: PhoneFieldValidator(String, Boolean)
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator__ctor_System_String_System_Boolean_
+  commentId: M:Butterfly.Util.Field.PhoneFieldValidator.#ctor(System.String,System.Boolean)
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.PhoneFieldValidator(System.String, System.Boolean)
+  nameWithType: PhoneFieldValidator.PhoneFieldValidator(String, Boolean)
+- uid: Butterfly.Util.Field.PhoneFieldValidator.#ctor*
+  name: PhoneFieldValidator
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator__ctor_
+  commentId: Overload:Butterfly.Util.Field.PhoneFieldValidator.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.PhoneFieldValidator
+  nameWithType: PhoneFieldValidator.PhoneFieldValidator
+- uid: Butterfly.Util.Field.PhoneFieldValidator.allowNull
+  name: allowNull
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator_allowNull
+  commentId: F:Butterfly.Util.Field.PhoneFieldValidator.allowNull
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.allowNull
+  nameWithType: PhoneFieldValidator.allowNull
+- uid: Butterfly.Util.Field.PhoneFieldValidator.Format(System.String)
+  name: Format(String)
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator_Format_System_String_
+  commentId: M:Butterfly.Util.Field.PhoneFieldValidator.Format(System.String)
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.Format(System.String)
+  nameWithType: PhoneFieldValidator.Format(String)
+- uid: Butterfly.Util.Field.PhoneFieldValidator.Format*
+  name: Format
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator_Format_
+  commentId: Overload:Butterfly.Util.Field.PhoneFieldValidator.Format
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.Format
+  nameWithType: PhoneFieldValidator.Format
+- uid: Butterfly.Util.Field.PhoneFieldValidator.logger
+  name: logger
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator_logger
+  commentId: F:Butterfly.Util.Field.PhoneFieldValidator.logger
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.logger
+  nameWithType: PhoneFieldValidator.logger
+- uid: Butterfly.Util.Field.PhoneFieldValidator.name
+  name: name
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator_name
+  commentId: F:Butterfly.Util.Field.PhoneFieldValidator.name
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.name
+  nameWithType: PhoneFieldValidator.name
+- uid: Butterfly.Util.Field.PhoneFieldValidator.NON_PHONE_CHARS
+  name: NON_PHONE_CHARS
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator_NON_PHONE_CHARS
+  commentId: F:Butterfly.Util.Field.PhoneFieldValidator.NON_PHONE_CHARS
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.NON_PHONE_CHARS
+  nameWithType: PhoneFieldValidator.NON_PHONE_CHARS
+- uid: Butterfly.Util.Field.PhoneFieldValidator.PHONE_NUMBER_UTIL
+  name: PHONE_NUMBER_UTIL
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator_PHONE_NUMBER_UTIL
+  commentId: F:Butterfly.Util.Field.PhoneFieldValidator.PHONE_NUMBER_UTIL
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.PHONE_NUMBER_UTIL
+  nameWithType: PhoneFieldValidator.PHONE_NUMBER_UTIL
+- uid: Butterfly.Util.Field.PhoneFieldValidator.Validate(System.String)
+  name: Validate(String)
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator_Validate_System_String_
+  commentId: M:Butterfly.Util.Field.PhoneFieldValidator.Validate(System.String)
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.Validate(System.String)
+  nameWithType: PhoneFieldValidator.Validate(String)
+- uid: Butterfly.Util.Field.PhoneFieldValidator.Validate*
+  name: Validate
+  href: api/Butterfly.Util.Field.PhoneFieldValidator.html#Butterfly_Util_Field_PhoneFieldValidator_Validate_
+  commentId: Overload:Butterfly.Util.Field.PhoneFieldValidator.Validate
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.PhoneFieldValidator.Validate
+  nameWithType: PhoneFieldValidator.Validate
+- uid: Butterfly.Util.Field.TextFieldValidator
+  name: TextFieldValidator
+  href: api/Butterfly.Util.Field.TextFieldValidator.html
+  commentId: T:Butterfly.Util.Field.TextFieldValidator
+  fullName: Butterfly.Util.Field.TextFieldValidator
+  nameWithType: TextFieldValidator
+- uid: Butterfly.Util.Field.TextFieldValidator.#ctor(System.String,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.String,System.String)
+  name: TextFieldValidator(String, Boolean, Boolean, Boolean, Boolean, Int32, String, String)
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator__ctor_System_String_System_Boolean_System_Boolean_System_Boolean_System_Boolean_System_Int32_System_String_System_String_
+  commentId: M:Butterfly.Util.Field.TextFieldValidator.#ctor(System.String,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.String,System.String)
+  fullName: Butterfly.Util.Field.TextFieldValidator.TextFieldValidator(System.String, System.Boolean, System.Boolean, System.Boolean, System.Boolean, System.Int32, System.String, System.String)
+  nameWithType: TextFieldValidator.TextFieldValidator(String, Boolean, Boolean, Boolean, Boolean, Int32, String, String)
+- uid: Butterfly.Util.Field.TextFieldValidator.#ctor*
+  name: TextFieldValidator
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator__ctor_
+  commentId: Overload:Butterfly.Util.Field.TextFieldValidator.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.TextFieldValidator.TextFieldValidator
+  nameWithType: TextFieldValidator.TextFieldValidator
+- uid: Butterfly.Util.Field.TextFieldValidator.allowNull
+  name: allowNull
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_allowNull
+  commentId: F:Butterfly.Util.Field.TextFieldValidator.allowNull
+  fullName: Butterfly.Util.Field.TextFieldValidator.allowNull
+  nameWithType: TextFieldValidator.allowNull
+- uid: Butterfly.Util.Field.TextFieldValidator.forceLower
+  name: forceLower
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_forceLower
+  commentId: F:Butterfly.Util.Field.TextFieldValidator.forceLower
+  fullName: Butterfly.Util.Field.TextFieldValidator.forceLower
+  nameWithType: TextFieldValidator.forceLower
+- uid: Butterfly.Util.Field.TextFieldValidator.forceUpper
+  name: forceUpper
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_forceUpper
+  commentId: F:Butterfly.Util.Field.TextFieldValidator.forceUpper
+  fullName: Butterfly.Util.Field.TextFieldValidator.forceUpper
+  nameWithType: TextFieldValidator.forceUpper
+- uid: Butterfly.Util.Field.TextFieldValidator.logger
+  name: logger
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_logger
+  commentId: F:Butterfly.Util.Field.TextFieldValidator.logger
+  fullName: Butterfly.Util.Field.TextFieldValidator.logger
+  nameWithType: TextFieldValidator.logger
+- uid: Butterfly.Util.Field.TextFieldValidator.maxLength
+  name: maxLength
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_maxLength
+  commentId: F:Butterfly.Util.Field.TextFieldValidator.maxLength
+  fullName: Butterfly.Util.Field.TextFieldValidator.maxLength
+  nameWithType: TextFieldValidator.maxLength
+- uid: Butterfly.Util.Field.TextFieldValidator.name
+  name: name
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_name
+  commentId: F:Butterfly.Util.Field.TextFieldValidator.name
+  fullName: Butterfly.Util.Field.TextFieldValidator.name
+  nameWithType: TextFieldValidator.name
+- uid: Butterfly.Util.Field.TextFieldValidator.removeRegex
+  name: removeRegex
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_removeRegex
+  commentId: F:Butterfly.Util.Field.TextFieldValidator.removeRegex
+  fullName: Butterfly.Util.Field.TextFieldValidator.removeRegex
+  nameWithType: TextFieldValidator.removeRegex
+- uid: Butterfly.Util.Field.TextFieldValidator.trim
+  name: trim
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_trim
+  commentId: F:Butterfly.Util.Field.TextFieldValidator.trim
+  fullName: Butterfly.Util.Field.TextFieldValidator.trim
+  nameWithType: TextFieldValidator.trim
+- uid: Butterfly.Util.Field.TextFieldValidator.Validate(System.String)
+  name: Validate(String)
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_Validate_System_String_
+  commentId: M:Butterfly.Util.Field.TextFieldValidator.Validate(System.String)
+  fullName: Butterfly.Util.Field.TextFieldValidator.Validate(System.String)
+  nameWithType: TextFieldValidator.Validate(String)
+- uid: Butterfly.Util.Field.TextFieldValidator.Validate*
+  name: Validate
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_Validate_
+  commentId: Overload:Butterfly.Util.Field.TextFieldValidator.Validate
+  isSpec: "True"
+  fullName: Butterfly.Util.Field.TextFieldValidator.Validate
+  nameWithType: TextFieldValidator.Validate
+- uid: Butterfly.Util.Field.TextFieldValidator.validRegex
+  name: validRegex
+  href: api/Butterfly.Util.Field.TextFieldValidator.html#Butterfly_Util_Field_TextFieldValidator_validRegex
+  commentId: F:Butterfly.Util.Field.TextFieldValidator.validRegex
+  fullName: Butterfly.Util.Field.TextFieldValidator.validRegex
+  nameWithType: TextFieldValidator.validRegex
+- uid: Butterfly.Util.FileX
+  name: FileX
+  href: api/Butterfly.Util.FileX.html
+  commentId: T:Butterfly.Util.FileX
+  fullName: Butterfly.Util.FileX
+  nameWithType: FileX
+- uid: Butterfly.Util.FileX.GetParentPathUntil(System.String,System.String)
+  name: GetParentPathUntil(String, String)
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_GetParentPathUntil_System_String_System_String_
+  commentId: M:Butterfly.Util.FileX.GetParentPathUntil(System.String,System.String)
+  fullName: Butterfly.Util.FileX.GetParentPathUntil(System.String, System.String)
+  nameWithType: FileX.GetParentPathUntil(String, String)
+- uid: Butterfly.Util.FileX.GetParentPathUntil*
+  name: GetParentPathUntil
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_GetParentPathUntil_
+  commentId: Overload:Butterfly.Util.FileX.GetParentPathUntil
+  isSpec: "True"
+  fullName: Butterfly.Util.FileX.GetParentPathUntil
+  nameWithType: FileX.GetParentPathUntil
+- uid: Butterfly.Util.FileX.GetReadFileStream(System.String,System.Boolean)
+  name: GetReadFileStream(String, Boolean)
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_GetReadFileStream_System_String_System_Boolean_
+  commentId: M:Butterfly.Util.FileX.GetReadFileStream(System.String,System.Boolean)
+  fullName: Butterfly.Util.FileX.GetReadFileStream(System.String, System.Boolean)
+  nameWithType: FileX.GetReadFileStream(String, Boolean)
+- uid: Butterfly.Util.FileX.GetReadFileStream*
+  name: GetReadFileStream
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_GetReadFileStream_
+  commentId: Overload:Butterfly.Util.FileX.GetReadFileStream
+  isSpec: "True"
+  fullName: Butterfly.Util.FileX.GetReadFileStream
+  nameWithType: FileX.GetReadFileStream
+- uid: Butterfly.Util.FileX.GetWriteFileStream(System.String,System.Boolean)
+  name: GetWriteFileStream(String, Boolean)
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_GetWriteFileStream_System_String_System_Boolean_
+  commentId: M:Butterfly.Util.FileX.GetWriteFileStream(System.String,System.Boolean)
+  fullName: Butterfly.Util.FileX.GetWriteFileStream(System.String, System.Boolean)
+  nameWithType: FileX.GetWriteFileStream(String, Boolean)
+- uid: Butterfly.Util.FileX.GetWriteFileStream*
+  name: GetWriteFileStream
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_GetWriteFileStream_
+  commentId: Overload:Butterfly.Util.FileX.GetWriteFileStream
+  isSpec: "True"
+  fullName: Butterfly.Util.FileX.GetWriteFileStream
+  nameWithType: FileX.GetWriteFileStream
+- uid: Butterfly.Util.FileX.LoadResourceAsText(Assembly,System.String)
+  name: LoadResourceAsText(Assembly, String)
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_LoadResourceAsText_Assembly_System_String_
+  commentId: M:Butterfly.Util.FileX.LoadResourceAsText(Assembly,System.String)
+  fullName: Butterfly.Util.FileX.LoadResourceAsText(Assembly, System.String)
+  nameWithType: FileX.LoadResourceAsText(Assembly, String)
+- uid: Butterfly.Util.FileX.LoadResourceAsText*
+  name: LoadResourceAsText
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_LoadResourceAsText_
+  commentId: Overload:Butterfly.Util.FileX.LoadResourceAsText
+  isSpec: "True"
+  fullName: Butterfly.Util.FileX.LoadResourceAsText
+  nameWithType: FileX.LoadResourceAsText
+- uid: Butterfly.Util.FileX.LoadResourceAsTextAsync(Assembly,System.String)
+  name: LoadResourceAsTextAsync(Assembly, String)
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_LoadResourceAsTextAsync_Assembly_System_String_
+  commentId: M:Butterfly.Util.FileX.LoadResourceAsTextAsync(Assembly,System.String)
+  fullName: Butterfly.Util.FileX.LoadResourceAsTextAsync(Assembly, System.String)
+  nameWithType: FileX.LoadResourceAsTextAsync(Assembly, String)
+- uid: Butterfly.Util.FileX.LoadResourceAsTextAsync*
+  name: LoadResourceAsTextAsync
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_LoadResourceAsTextAsync_
+  commentId: Overload:Butterfly.Util.FileX.LoadResourceAsTextAsync
+  isSpec: "True"
+  fullName: Butterfly.Util.FileX.LoadResourceAsTextAsync
+  nameWithType: FileX.LoadResourceAsTextAsync
+- uid: Butterfly.Util.FileX.ReadTextAsync(System.String)
+  name: ReadTextAsync(String)
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_ReadTextAsync_System_String_
+  commentId: M:Butterfly.Util.FileX.ReadTextAsync(System.String)
+  fullName: Butterfly.Util.FileX.ReadTextAsync(System.String)
+  nameWithType: FileX.ReadTextAsync(String)
+- uid: Butterfly.Util.FileX.ReadTextAsync*
+  name: ReadTextAsync
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_ReadTextAsync_
+  commentId: Overload:Butterfly.Util.FileX.ReadTextAsync
+  isSpec: "True"
+  fullName: Butterfly.Util.FileX.ReadTextAsync
+  nameWithType: FileX.ReadTextAsync
+- uid: Butterfly.Util.FileX.Resolve(System.String)
+  name: Resolve(String)
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_Resolve_System_String_
+  commentId: M:Butterfly.Util.FileX.Resolve(System.String)
+  fullName: Butterfly.Util.FileX.Resolve(System.String)
+  nameWithType: FileX.Resolve(String)
+- uid: Butterfly.Util.FileX.Resolve*
+  name: Resolve
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_Resolve_
+  commentId: Overload:Butterfly.Util.FileX.Resolve
+  isSpec: "True"
+  fullName: Butterfly.Util.FileX.Resolve
+  nameWithType: FileX.Resolve
+- uid: Butterfly.Util.FileX.WriteTextAsync(System.String,System.String)
+  name: WriteTextAsync(String, String)
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_WriteTextAsync_System_String_System_String_
+  commentId: M:Butterfly.Util.FileX.WriteTextAsync(System.String,System.String)
+  fullName: Butterfly.Util.FileX.WriteTextAsync(System.String, System.String)
+  nameWithType: FileX.WriteTextAsync(String, String)
+- uid: Butterfly.Util.FileX.WriteTextAsync*
+  name: WriteTextAsync
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_WriteTextAsync_
+  commentId: Overload:Butterfly.Util.FileX.WriteTextAsync
+  isSpec: "True"
+  fullName: Butterfly.Util.FileX.WriteTextAsync
+  nameWithType: FileX.WriteTextAsync
+- uid: Butterfly.Util.IEnumerableX
+  name: IEnumerableX
+  href: api/Butterfly.Util.IEnumerableX.html
+  commentId: T:Butterfly.Util.IEnumerableX
+  fullName: Butterfly.Util.IEnumerableX
+  nameWithType: IEnumerableX
+- uid: Butterfly.Util.IEnumerableX.HasSameElements*
+  name: HasSameElements
+  href: api/Butterfly.Util.IEnumerableX.html#Butterfly_Util_IEnumerableX_HasSameElements_
+  commentId: Overload:Butterfly.Util.IEnumerableX.HasSameElements
+  isSpec: "True"
+  fullName: Butterfly.Util.IEnumerableX.HasSameElements
+  nameWithType: IEnumerableX.HasSameElements
+- uid: Butterfly.Util.IEnumerableX.HasSameElements``1(ICollection{``0},ICollection{``0})
+  name: HasSameElements<T>(ICollection<T>, ICollection<T>)
+  href: api/Butterfly.Util.IEnumerableX.html#Butterfly_Util_IEnumerableX_HasSameElements__1_ICollection___0__ICollection___0__
+  commentId: M:Butterfly.Util.IEnumerableX.HasSameElements``1(ICollection{``0},ICollection{``0})
+  name.vb: HasSameElements(Of T)(ICollection(Of T), ICollection(Of T))
+  fullName: Butterfly.Util.IEnumerableX.HasSameElements<T>(ICollection<T>, ICollection<T>)
+  fullName.vb: Butterfly.Util.IEnumerableX.HasSameElements(Of T)(ICollection(Of T), ICollection(Of T))
+  nameWithType: IEnumerableX.HasSameElements<T>(ICollection<T>, ICollection<T>)
+  nameWithType.vb: IEnumerableX.HasSameElements(Of T)(ICollection(Of T), ICollection(Of T))
+- uid: Butterfly.Util.Job
+  name: Butterfly.Util.Job
+  href: api/Butterfly.Util.Job.html
+  commentId: N:Butterfly.Util.Job
+  fullName: Butterfly.Util.Job
+  nameWithType: Butterfly.Util.Job
+- uid: Butterfly.Util.Job.IJob
+  name: IJob
+  href: api/Butterfly.Util.Job.IJob.html
+  commentId: T:Butterfly.Util.Job.IJob
+  fullName: Butterfly.Util.Job.IJob
+  nameWithType: IJob
+- uid: Butterfly.Util.Job.IJob.Run
+  name: Run()
+  href: api/Butterfly.Util.Job.IJob.html#Butterfly_Util_Job_IJob_Run
+  commentId: M:Butterfly.Util.Job.IJob.Run
+  fullName: Butterfly.Util.Job.IJob.Run()
+  nameWithType: IJob.Run()
+- uid: Butterfly.Util.Job.IJob.Run*
+  name: Run
+  href: api/Butterfly.Util.Job.IJob.html#Butterfly_Util_Job_IJob_Run_
+  commentId: Overload:Butterfly.Util.Job.IJob.Run
+  isSpec: "True"
+  fullName: Butterfly.Util.Job.IJob.Run
+  nameWithType: IJob.Run
+- uid: Butterfly.Util.Job.JobData
+  name: JobData
+  href: api/Butterfly.Util.Job.JobData.html
+  commentId: T:Butterfly.Util.Job.JobData
+  fullName: Butterfly.Util.Job.JobData
+  nameWithType: JobData
+- uid: Butterfly.Util.Job.JobData.#ctor(Butterfly.Util.Job.IJob,DateTime)
+  name: JobData(IJob, DateTime)
+  href: api/Butterfly.Util.Job.JobData.html#Butterfly_Util_Job_JobData__ctor_Butterfly_Util_Job_IJob_DateTime_
+  commentId: M:Butterfly.Util.Job.JobData.#ctor(Butterfly.Util.Job.IJob,DateTime)
+  fullName: Butterfly.Util.Job.JobData.JobData(Butterfly.Util.Job.IJob, DateTime)
+  nameWithType: JobData.JobData(IJob, DateTime)
+- uid: Butterfly.Util.Job.JobData.#ctor*
+  name: JobData
+  href: api/Butterfly.Util.Job.JobData.html#Butterfly_Util_Job_JobData__ctor_
+  commentId: Overload:Butterfly.Util.Job.JobData.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.Job.JobData.JobData
+  nameWithType: JobData.JobData
+- uid: Butterfly.Util.Job.JobData.job
+  name: job
+  href: api/Butterfly.Util.Job.JobData.html#Butterfly_Util_Job_JobData_job
+  commentId: F:Butterfly.Util.Job.JobData.job
+  fullName: Butterfly.Util.Job.JobData.job
+  nameWithType: JobData.job
+- uid: Butterfly.Util.Job.JobData.nextRunAt
+  name: nextRunAt
+  href: api/Butterfly.Util.Job.JobData.html#Butterfly_Util_Job_JobData_nextRunAt
+  commentId: F:Butterfly.Util.Job.JobData.nextRunAt
+  fullName: Butterfly.Util.Job.JobData.nextRunAt
+  nameWithType: JobData.nextRunAt
+- uid: Butterfly.Util.Job.JobManager
+  name: JobManager
+  href: api/Butterfly.Util.Job.JobManager.html
+  commentId: T:Butterfly.Util.Job.JobManager
+  fullName: Butterfly.Util.Job.JobManager
+  nameWithType: JobManager
+- uid: Butterfly.Util.Job.JobManager.#ctor(System.Single,System.Single)
+  name: JobManager(Single, Single)
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager__ctor_System_Single_System_Single_
+  commentId: M:Butterfly.Util.Job.JobManager.#ctor(System.Single,System.Single)
+  fullName: Butterfly.Util.Job.JobManager.JobManager(System.Single, System.Single)
+  nameWithType: JobManager.JobManager(Single, Single)
+- uid: Butterfly.Util.Job.JobManager.#ctor*
+  name: JobManager
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager__ctor_
+  commentId: Overload:Butterfly.Util.Job.JobManager.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.Job.JobManager.JobManager
+  nameWithType: JobManager.JobManager
+- uid: Butterfly.Util.Job.JobManager.AddJob(Butterfly.Util.Job.IJob,DateTime)
+  name: AddJob(IJob, DateTime)
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_AddJob_Butterfly_Util_Job_IJob_DateTime_
+  commentId: M:Butterfly.Util.Job.JobManager.AddJob(Butterfly.Util.Job.IJob,DateTime)
+  fullName: Butterfly.Util.Job.JobManager.AddJob(Butterfly.Util.Job.IJob, DateTime)
+  nameWithType: JobManager.AddJob(IJob, DateTime)
+- uid: Butterfly.Util.Job.JobManager.AddJob*
+  name: AddJob
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_AddJob_
+  commentId: Overload:Butterfly.Util.Job.JobManager.AddJob
+  isSpec: "True"
+  fullName: Butterfly.Util.Job.JobManager.AddJob
+  nameWithType: JobManager.AddJob
+- uid: Butterfly.Util.Job.JobManager.cancellationTokenSource
+  name: cancellationTokenSource
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_cancellationTokenSource
+  commentId: F:Butterfly.Util.Job.JobManager.cancellationTokenSource
+  fullName: Butterfly.Util.Job.JobManager.cancellationTokenSource
+  nameWithType: JobManager.cancellationTokenSource
+- uid: Butterfly.Util.Job.JobManager.firstRunDelaySeconds
+  name: firstRunDelaySeconds
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_firstRunDelaySeconds
+  commentId: F:Butterfly.Util.Job.JobManager.firstRunDelaySeconds
+  fullName: Butterfly.Util.Job.JobManager.firstRunDelaySeconds
+  nameWithType: JobManager.firstRunDelaySeconds
+- uid: Butterfly.Util.Job.JobManager.jobs
+  name: jobs
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_jobs
+  commentId: F:Butterfly.Util.Job.JobManager.jobs
+  fullName: Butterfly.Util.Job.JobManager.jobs
+  nameWithType: JobManager.jobs
+- uid: Butterfly.Util.Job.JobManager.logger
+  name: logger
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_logger
+  commentId: F:Butterfly.Util.Job.JobManager.logger
+  fullName: Butterfly.Util.Job.JobManager.logger
+  nameWithType: JobManager.logger
+- uid: Butterfly.Util.Job.JobManager.noJobsDelaySeconds
+  name: noJobsDelaySeconds
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_noJobsDelaySeconds
+  commentId: F:Butterfly.Util.Job.JobManager.noJobsDelaySeconds
+  fullName: Butterfly.Util.Job.JobManager.noJobsDelaySeconds
+  nameWithType: JobManager.noJobsDelaySeconds
+- uid: Butterfly.Util.Job.JobManager.Run
+  name: Run()
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Run
+  commentId: M:Butterfly.Util.Job.JobManager.Run
+  fullName: Butterfly.Util.Job.JobManager.Run()
+  nameWithType: JobManager.Run()
+- uid: Butterfly.Util.Job.JobManager.Run*
+  name: Run
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Run_
+  commentId: Overload:Butterfly.Util.Job.JobManager.Run
+  isSpec: "True"
+  fullName: Butterfly.Util.Job.JobManager.Run
+  nameWithType: JobManager.Run
+- uid: Butterfly.Util.Job.JobManager.Start
+  name: Start()
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Start
+  commentId: M:Butterfly.Util.Job.JobManager.Start
+  fullName: Butterfly.Util.Job.JobManager.Start()
+  nameWithType: JobManager.Start()
+- uid: Butterfly.Util.Job.JobManager.Start*
+  name: Start
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Start_
+  commentId: Overload:Butterfly.Util.Job.JobManager.Start
+  isSpec: "True"
+  fullName: Butterfly.Util.Job.JobManager.Start
+  nameWithType: JobManager.Start
+- uid: Butterfly.Util.Job.JobManager.Stop
+  name: Stop()
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Stop
+  commentId: M:Butterfly.Util.Job.JobManager.Stop
+  fullName: Butterfly.Util.Job.JobManager.Stop()
+  nameWithType: JobManager.Stop()
+- uid: Butterfly.Util.Job.JobManager.Stop*
+  name: Stop
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Stop_
+  commentId: Overload:Butterfly.Util.Job.JobManager.Stop
+  isSpec: "True"
+  fullName: Butterfly.Util.Job.JobManager.Stop
+  nameWithType: JobManager.Stop
+- uid: Butterfly.Util.Job.JobManager.stopped
+  name: stopped
+  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_stopped
+  commentId: F:Butterfly.Util.Job.JobManager.stopped
+  fullName: Butterfly.Util.Job.JobManager.stopped
+  nameWithType: JobManager.stopped
+- uid: Butterfly.Util.JsonUtil
+  name: JsonUtil
+  href: api/Butterfly.Util.JsonUtil.html
+  commentId: T:Butterfly.Util.JsonUtil
+  fullName: Butterfly.Util.JsonUtil
+  nameWithType: JsonUtil
+- uid: Butterfly.Util.JsonUtil.Deserialize(Type,System.String)
+  name: Deserialize(Type, String)
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_Deserialize_Type_System_String_
+  commentId: M:Butterfly.Util.JsonUtil.Deserialize(Type,System.String)
+  fullName: Butterfly.Util.JsonUtil.Deserialize(Type, System.String)
+  nameWithType: JsonUtil.Deserialize(Type, String)
+- uid: Butterfly.Util.JsonUtil.Deserialize*
+  name: Deserialize
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_Deserialize_
+  commentId: Overload:Butterfly.Util.JsonUtil.Deserialize
+  isSpec: "True"
+  fullName: Butterfly.Util.JsonUtil.Deserialize
+  nameWithType: JsonUtil.Deserialize
+- uid: Butterfly.Util.JsonUtil.Deserialize``1(Stream)
+  name: Deserialize<T>(Stream)
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_Deserialize__1_Stream_
+  commentId: M:Butterfly.Util.JsonUtil.Deserialize``1(Stream)
+  name.vb: Deserialize(Of T)(Stream)
+  fullName: Butterfly.Util.JsonUtil.Deserialize<T>(Stream)
+  fullName.vb: Butterfly.Util.JsonUtil.Deserialize(Of T)(Stream)
+  nameWithType: JsonUtil.Deserialize<T>(Stream)
+  nameWithType.vb: JsonUtil.Deserialize(Of T)(Stream)
+- uid: Butterfly.Util.JsonUtil.Deserialize``1(System.String)
+  name: Deserialize<T>(String)
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_Deserialize__1_System_String_
+  commentId: M:Butterfly.Util.JsonUtil.Deserialize``1(System.String)
+  name.vb: Deserialize(Of T)(String)
+  fullName: Butterfly.Util.JsonUtil.Deserialize<T>(System.String)
+  fullName.vb: Butterfly.Util.JsonUtil.Deserialize(Of T)(System.String)
+  nameWithType: JsonUtil.Deserialize<T>(String)
+  nameWithType.vb: JsonUtil.Deserialize(Of T)(String)
+- uid: Butterfly.Util.JsonUtil.ReadJsonFile*
+  name: ReadJsonFile
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_ReadJsonFile_
+  commentId: Overload:Butterfly.Util.JsonUtil.ReadJsonFile
+  isSpec: "True"
+  fullName: Butterfly.Util.JsonUtil.ReadJsonFile
+  nameWithType: JsonUtil.ReadJsonFile
+- uid: Butterfly.Util.JsonUtil.ReadJsonFile``1(System.String,System.Boolean)
+  name: ReadJsonFile<T>(String, Boolean)
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_ReadJsonFile__1_System_String_System_Boolean_
+  commentId: M:Butterfly.Util.JsonUtil.ReadJsonFile``1(System.String,System.Boolean)
+  name.vb: ReadJsonFile(Of T)(String, Boolean)
+  fullName: Butterfly.Util.JsonUtil.ReadJsonFile<T>(System.String, System.Boolean)
+  fullName.vb: Butterfly.Util.JsonUtil.ReadJsonFile(Of T)(System.String, System.Boolean)
+  nameWithType: JsonUtil.ReadJsonFile<T>(String, Boolean)
+  nameWithType.vb: JsonUtil.ReadJsonFile(Of T)(String, Boolean)
+- uid: Butterfly.Util.JsonUtil.Serialize(System.Object,System.Boolean,System.Boolean)
+  name: Serialize(Object, Boolean, Boolean)
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_Serialize_System_Object_System_Boolean_System_Boolean_
+  commentId: M:Butterfly.Util.JsonUtil.Serialize(System.Object,System.Boolean,System.Boolean)
+  fullName: Butterfly.Util.JsonUtil.Serialize(System.Object, System.Boolean, System.Boolean)
+  nameWithType: JsonUtil.Serialize(Object, Boolean, Boolean)
+- uid: Butterfly.Util.JsonUtil.Serialize*
+  name: Serialize
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_Serialize_
+  commentId: Overload:Butterfly.Util.JsonUtil.Serialize
+  isSpec: "True"
+  fullName: Butterfly.Util.JsonUtil.Serialize
+  nameWithType: JsonUtil.Serialize
+- uid: Butterfly.Util.JsonUtil.WriteToFile(System.Object,System.String,System.Boolean,System.Boolean)
+  name: WriteToFile(Object, String, Boolean, Boolean)
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_WriteToFile_System_Object_System_String_System_Boolean_System_Boolean_
+  commentId: M:Butterfly.Util.JsonUtil.WriteToFile(System.Object,System.String,System.Boolean,System.Boolean)
+  fullName: Butterfly.Util.JsonUtil.WriteToFile(System.Object, System.String, System.Boolean, System.Boolean)
+  nameWithType: JsonUtil.WriteToFile(Object, String, Boolean, Boolean)
+- uid: Butterfly.Util.JsonUtil.WriteToFile*
+  name: WriteToFile
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_WriteToFile_
+  commentId: Overload:Butterfly.Util.JsonUtil.WriteToFile
+  isSpec: "True"
+  fullName: Butterfly.Util.JsonUtil.WriteToFile
+  nameWithType: JsonUtil.WriteToFile
+- uid: Butterfly.Util.JsonUtil.WriteToStream(System.Object,Stream,System.Boolean,System.Boolean)
+  name: WriteToStream(Object, Stream, Boolean, Boolean)
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_WriteToStream_System_Object_Stream_System_Boolean_System_Boolean_
+  commentId: M:Butterfly.Util.JsonUtil.WriteToStream(System.Object,Stream,System.Boolean,System.Boolean)
+  fullName: Butterfly.Util.JsonUtil.WriteToStream(System.Object, Stream, System.Boolean, System.Boolean)
+  nameWithType: JsonUtil.WriteToStream(Object, Stream, Boolean, Boolean)
+- uid: Butterfly.Util.JsonUtil.WriteToStream*
+  name: WriteToStream
+  href: api/Butterfly.Util.JsonUtil.html#Butterfly_Util_JsonUtil_WriteToStream_
+  commentId: Overload:Butterfly.Util.JsonUtil.WriteToStream
+  isSpec: "True"
+  fullName: Butterfly.Util.JsonUtil.WriteToStream
+  nameWithType: JsonUtil.WriteToStream
+- uid: Butterfly.Util.ListItemDisposable`1
+  name: ListItemDisposable<T>
+  href: api/Butterfly.Util.ListItemDisposable-1.html
+  commentId: T:Butterfly.Util.ListItemDisposable`1
+  name.vb: ListItemDisposable(Of T)
+  fullName: Butterfly.Util.ListItemDisposable<T>
+  fullName.vb: Butterfly.Util.ListItemDisposable(Of T)
+  nameWithType: ListItemDisposable<T>
+  nameWithType.vb: ListItemDisposable(Of T)
+- uid: Butterfly.Util.ListItemDisposable`1.#ctor(List{`0},`0)
+  name: ListItemDisposable(List<T>, T)
+  href: api/Butterfly.Util.ListItemDisposable-1.html#Butterfly_Util_ListItemDisposable_1__ctor_List__0___0_
+  commentId: M:Butterfly.Util.ListItemDisposable`1.#ctor(List{`0},`0)
+  name.vb: ListItemDisposable(List(Of T), T)
+  fullName: Butterfly.Util.ListItemDisposable<T>.ListItemDisposable(List<T>, T)
+  fullName.vb: Butterfly.Util.ListItemDisposable(Of T).ListItemDisposable(List(Of T), T)
+  nameWithType: ListItemDisposable<T>.ListItemDisposable(List<T>, T)
+  nameWithType.vb: ListItemDisposable(Of T).ListItemDisposable(List(Of T), T)
+- uid: Butterfly.Util.ListItemDisposable`1.#ctor*
+  name: ListItemDisposable
+  href: api/Butterfly.Util.ListItemDisposable-1.html#Butterfly_Util_ListItemDisposable_1__ctor_
+  commentId: Overload:Butterfly.Util.ListItemDisposable`1.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.ListItemDisposable<T>.ListItemDisposable
+  fullName.vb: Butterfly.Util.ListItemDisposable(Of T).ListItemDisposable
+  nameWithType: ListItemDisposable<T>.ListItemDisposable
+  nameWithType.vb: ListItemDisposable(Of T).ListItemDisposable
+- uid: Butterfly.Util.ListItemDisposable`1.Dispose
+  name: Dispose()
+  href: api/Butterfly.Util.ListItemDisposable-1.html#Butterfly_Util_ListItemDisposable_1_Dispose
+  commentId: M:Butterfly.Util.ListItemDisposable`1.Dispose
+  fullName: Butterfly.Util.ListItemDisposable<T>.Dispose()
+  fullName.vb: Butterfly.Util.ListItemDisposable(Of T).Dispose()
+  nameWithType: ListItemDisposable<T>.Dispose()
+  nameWithType.vb: ListItemDisposable(Of T).Dispose()
+- uid: Butterfly.Util.ListItemDisposable`1.Dispose*
+  name: Dispose
+  href: api/Butterfly.Util.ListItemDisposable-1.html#Butterfly_Util_ListItemDisposable_1_Dispose_
+  commentId: Overload:Butterfly.Util.ListItemDisposable`1.Dispose
+  isSpec: "True"
+  fullName: Butterfly.Util.ListItemDisposable<T>.Dispose
+  fullName.vb: Butterfly.Util.ListItemDisposable(Of T).Dispose
+  nameWithType: ListItemDisposable<T>.Dispose
+  nameWithType.vb: ListItemDisposable(Of T).Dispose
+- uid: Butterfly.Util.ListItemDisposable`1.item
+  name: item
+  href: api/Butterfly.Util.ListItemDisposable-1.html#Butterfly_Util_ListItemDisposable_1_item
+  commentId: F:Butterfly.Util.ListItemDisposable`1.item
+  fullName: Butterfly.Util.ListItemDisposable<T>.item
+  fullName.vb: Butterfly.Util.ListItemDisposable(Of T).item
+  nameWithType: ListItemDisposable<T>.item
+  nameWithType.vb: ListItemDisposable(Of T).item
+- uid: Butterfly.Util.ListItemDisposable`1.list
+  name: list
+  href: api/Butterfly.Util.ListItemDisposable-1.html#Butterfly_Util_ListItemDisposable_1_list
+  commentId: F:Butterfly.Util.ListItemDisposable`1.list
+  fullName: Butterfly.Util.ListItemDisposable<T>.list
+  fullName.vb: Butterfly.Util.ListItemDisposable(Of T).list
+  nameWithType: ListItemDisposable<T>.list
+  nameWithType.vb: ListItemDisposable(Of T).list
+- uid: Butterfly.Util.ListItemDisposable`1.logger
+  name: logger
+  href: api/Butterfly.Util.ListItemDisposable-1.html#Butterfly_Util_ListItemDisposable_1_logger
+  commentId: F:Butterfly.Util.ListItemDisposable`1.logger
+  fullName: Butterfly.Util.ListItemDisposable<T>.logger
+  fullName.vb: Butterfly.Util.ListItemDisposable(Of T).logger
+  nameWithType: ListItemDisposable<T>.logger
+  nameWithType.vb: ListItemDisposable(Of T).logger
+- uid: Butterfly.Util.NameValueCollectionX
+  name: NameValueCollectionX
+  href: api/Butterfly.Util.NameValueCollectionX.html
+  commentId: T:Butterfly.Util.NameValueCollectionX
+  fullName: Butterfly.Util.NameValueCollectionX
+  nameWithType: NameValueCollectionX
+- uid: Butterfly.Util.NameValueCollectionX.ToDictionary(NameValueCollection,System.Boolean)
+  name: ToDictionary(NameValueCollection, Boolean)
+  href: api/Butterfly.Util.NameValueCollectionX.html#Butterfly_Util_NameValueCollectionX_ToDictionary_NameValueCollection_System_Boolean_
+  commentId: M:Butterfly.Util.NameValueCollectionX.ToDictionary(NameValueCollection,System.Boolean)
+  fullName: Butterfly.Util.NameValueCollectionX.ToDictionary(NameValueCollection, System.Boolean)
+  nameWithType: NameValueCollectionX.ToDictionary(NameValueCollection, Boolean)
+- uid: Butterfly.Util.NameValueCollectionX.ToDictionary*
+  name: ToDictionary
+  href: api/Butterfly.Util.NameValueCollectionX.html#Butterfly_Util_NameValueCollectionX_ToDictionary_
+  commentId: Overload:Butterfly.Util.NameValueCollectionX.ToDictionary
+  isSpec: "True"
+  fullName: Butterfly.Util.NameValueCollectionX.ToDictionary
+  nameWithType: NameValueCollectionX.ToDictionary
+- uid: Butterfly.Util.PermissionDeniedException
+  name: PermissionDeniedException
+  href: api/Butterfly.Util.PermissionDeniedException.html
+  commentId: T:Butterfly.Util.PermissionDeniedException
+  fullName: Butterfly.Util.PermissionDeniedException
+  nameWithType: PermissionDeniedException
+- uid: Butterfly.Util.PermissionDeniedException.#ctor
+  name: PermissionDeniedException()
+  href: api/Butterfly.Util.PermissionDeniedException.html#Butterfly_Util_PermissionDeniedException__ctor
+  commentId: M:Butterfly.Util.PermissionDeniedException.#ctor
+  fullName: Butterfly.Util.PermissionDeniedException.PermissionDeniedException()
+  nameWithType: PermissionDeniedException.PermissionDeniedException()
+- uid: Butterfly.Util.PermissionDeniedException.#ctor*
+  name: PermissionDeniedException
+  href: api/Butterfly.Util.PermissionDeniedException.html#Butterfly_Util_PermissionDeniedException__ctor_
+  commentId: Overload:Butterfly.Util.PermissionDeniedException.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.PermissionDeniedException.PermissionDeniedException
+  nameWithType: PermissionDeniedException.PermissionDeniedException
+- uid: Butterfly.Util.ProcessX
+  name: ProcessX
+  href: api/Butterfly.Util.ProcessX.html
+  commentId: T:Butterfly.Util.ProcessX
+  fullName: Butterfly.Util.ProcessX
+  nameWithType: ProcessX
+- uid: Butterfly.Util.ProcessX.AddHttpUrlAcl(System.String)
+  name: AddHttpUrlAcl(String)
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_AddHttpUrlAcl_System_String_
+  commentId: M:Butterfly.Util.ProcessX.AddHttpUrlAcl(System.String)
+  fullName: Butterfly.Util.ProcessX.AddHttpUrlAcl(System.String)
+  nameWithType: ProcessX.AddHttpUrlAcl(String)
+- uid: Butterfly.Util.ProcessX.AddHttpUrlAcl*
+  name: AddHttpUrlAcl
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_AddHttpUrlAcl_
+  commentId: Overload:Butterfly.Util.ProcessX.AddHttpUrlAcl
+  isSpec: "True"
+  fullName: Butterfly.Util.ProcessX.AddHttpUrlAcl
+  nameWithType: ProcessX.AddHttpUrlAcl
+- uid: Butterfly.Util.ProcessX.AddHttpUrlAclIfNeeded(System.String)
+  name: AddHttpUrlAclIfNeeded(String)
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_AddHttpUrlAclIfNeeded_System_String_
+  commentId: M:Butterfly.Util.ProcessX.AddHttpUrlAclIfNeeded(System.String)
+  fullName: Butterfly.Util.ProcessX.AddHttpUrlAclIfNeeded(System.String)
+  nameWithType: ProcessX.AddHttpUrlAclIfNeeded(String)
+- uid: Butterfly.Util.ProcessX.AddHttpUrlAclIfNeeded*
+  name: AddHttpUrlAclIfNeeded
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_AddHttpUrlAclIfNeeded_
+  commentId: Overload:Butterfly.Util.ProcessX.AddHttpUrlAclIfNeeded
+  isSpec: "True"
+  fullName: Butterfly.Util.ProcessX.AddHttpUrlAclIfNeeded
+  nameWithType: ProcessX.AddHttpUrlAclIfNeeded
+- uid: Butterfly.Util.ProcessX.HasHttpUrlAcl(System.String)
+  name: HasHttpUrlAcl(String)
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_HasHttpUrlAcl_System_String_
+  commentId: M:Butterfly.Util.ProcessX.HasHttpUrlAcl(System.String)
+  fullName: Butterfly.Util.ProcessX.HasHttpUrlAcl(System.String)
+  nameWithType: ProcessX.HasHttpUrlAcl(String)
+- uid: Butterfly.Util.ProcessX.HasHttpUrlAcl*
+  name: HasHttpUrlAcl
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_HasHttpUrlAcl_
+  commentId: Overload:Butterfly.Util.ProcessX.HasHttpUrlAcl
+  isSpec: "True"
+  fullName: Butterfly.Util.ProcessX.HasHttpUrlAcl
+  nameWithType: ProcessX.HasHttpUrlAcl
+- uid: Butterfly.Util.ProcessX.OpenBrowser(System.String)
+  name: OpenBrowser(String)
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_OpenBrowser_System_String_
+  commentId: M:Butterfly.Util.ProcessX.OpenBrowser(System.String)
+  fullName: Butterfly.Util.ProcessX.OpenBrowser(System.String)
+  nameWithType: ProcessX.OpenBrowser(String)
+- uid: Butterfly.Util.ProcessX.OpenBrowser*
+  name: OpenBrowser
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_OpenBrowser_
+  commentId: Overload:Butterfly.Util.ProcessX.OpenBrowser
+  isSpec: "True"
+  fullName: Butterfly.Util.ProcessX.OpenBrowser
+  nameWithType: ProcessX.OpenBrowser
+- uid: Butterfly.Util.ProcessX.WaitAndCaptureAsync(System.String,System.String,CancellationToken)
+  name: WaitAndCaptureAsync(String, String, CancellationToken)
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_WaitAndCaptureAsync_System_String_System_String_CancellationToken_
+  commentId: M:Butterfly.Util.ProcessX.WaitAndCaptureAsync(System.String,System.String,CancellationToken)
+  fullName: Butterfly.Util.ProcessX.WaitAndCaptureAsync(System.String, System.String, CancellationToken)
+  nameWithType: ProcessX.WaitAndCaptureAsync(String, String, CancellationToken)
+- uid: Butterfly.Util.ProcessX.WaitAndCaptureAsync*
+  name: WaitAndCaptureAsync
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_WaitAndCaptureAsync_
+  commentId: Overload:Butterfly.Util.ProcessX.WaitAndCaptureAsync
+  isSpec: "True"
+  fullName: Butterfly.Util.ProcessX.WaitAndCaptureAsync
+  nameWithType: ProcessX.WaitAndCaptureAsync
+- uid: Butterfly.Util.ProcessX.WaitForExitAsync(Process,CancellationToken)
+  name: WaitForExitAsync(Process, CancellationToken)
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_WaitForExitAsync_Process_CancellationToken_
+  commentId: M:Butterfly.Util.ProcessX.WaitForExitAsync(Process,CancellationToken)
+  fullName: Butterfly.Util.ProcessX.WaitForExitAsync(Process, CancellationToken)
+  nameWithType: ProcessX.WaitForExitAsync(Process, CancellationToken)
+- uid: Butterfly.Util.ProcessX.WaitForExitAsync*
+  name: WaitForExitAsync
+  href: api/Butterfly.Util.ProcessX.html#Butterfly_Util_ProcessX_WaitForExitAsync_
+  commentId: Overload:Butterfly.Util.ProcessX.WaitForExitAsync
+  isSpec: "True"
+  fullName: Butterfly.Util.ProcessX.WaitForExitAsync
+  nameWithType: ProcessX.WaitForExitAsync
+- uid: Butterfly.Util.RandomUtil
+  name: RandomUtil
+  href: api/Butterfly.Util.RandomUtil.html
+  commentId: T:Butterfly.Util.RandomUtil
+  fullName: Butterfly.Util.RandomUtil
+  nameWithType: RandomUtil
+- uid: Butterfly.Util.RandomUtil.Next(System.Int32)
+  name: Next(Int32)
+  href: api/Butterfly.Util.RandomUtil.html#Butterfly_Util_RandomUtil_Next_System_Int32_
+  commentId: M:Butterfly.Util.RandomUtil.Next(System.Int32)
+  fullName: Butterfly.Util.RandomUtil.Next(System.Int32)
+  nameWithType: RandomUtil.Next(Int32)
+- uid: Butterfly.Util.RandomUtil.Next*
+  name: Next
+  href: api/Butterfly.Util.RandomUtil.html#Butterfly_Util_RandomUtil_Next_
+  commentId: Overload:Butterfly.Util.RandomUtil.Next
+  isSpec: "True"
+  fullName: Butterfly.Util.RandomUtil.Next
+  nameWithType: RandomUtil.Next
+- uid: Butterfly.Util.RunEvery
+  name: RunEvery
+  href: api/Butterfly.Util.RunEvery.html
+  commentId: T:Butterfly.Util.RunEvery
+  fullName: Butterfly.Util.RunEvery
+  nameWithType: RunEvery
+- uid: Butterfly.Util.RunEvery.#ctor(Action,System.Int32)
+  name: RunEvery(Action, Int32)
+  href: api/Butterfly.Util.RunEvery.html#Butterfly_Util_RunEvery__ctor_Action_System_Int32_
+  commentId: M:Butterfly.Util.RunEvery.#ctor(Action,System.Int32)
+  fullName: Butterfly.Util.RunEvery.RunEvery(Action, System.Int32)
+  nameWithType: RunEvery.RunEvery(Action, Int32)
+- uid: Butterfly.Util.RunEvery.#ctor*
+  name: RunEvery
+  href: api/Butterfly.Util.RunEvery.html#Butterfly_Util_RunEvery__ctor_
+  commentId: Overload:Butterfly.Util.RunEvery.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.RunEvery.RunEvery
+  nameWithType: RunEvery.RunEvery
+- uid: Butterfly.Util.RunEvery.Dispose
+  name: Dispose()
+  href: api/Butterfly.Util.RunEvery.html#Butterfly_Util_RunEvery_Dispose
+  commentId: M:Butterfly.Util.RunEvery.Dispose
+  fullName: Butterfly.Util.RunEvery.Dispose()
+  nameWithType: RunEvery.Dispose()
+- uid: Butterfly.Util.RunEvery.Dispose*
+  name: Dispose
+  href: api/Butterfly.Util.RunEvery.html#Butterfly_Util_RunEvery_Dispose_
+  commentId: Overload:Butterfly.Util.RunEvery.Dispose
+  isSpec: "True"
+  fullName: Butterfly.Util.RunEvery.Dispose
+  nameWithType: RunEvery.Dispose
+- uid: Butterfly.Util.SafeUtil
+  name: SafeUtil
+  href: api/Butterfly.Util.SafeUtil.html
+  commentId: T:Butterfly.Util.SafeUtil
+  fullName: Butterfly.Util.SafeUtil
+  nameWithType: SafeUtil
+- uid: Butterfly.Util.SafeUtil.FromSafeBase(System.String,System.String)
+  name: FromSafeBase(String, String)
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_FromSafeBase_System_String_System_String_
+  commentId: M:Butterfly.Util.SafeUtil.FromSafeBase(System.String,System.String)
+  fullName: Butterfly.Util.SafeUtil.FromSafeBase(System.String, System.String)
+  nameWithType: SafeUtil.FromSafeBase(String, String)
+- uid: Butterfly.Util.SafeUtil.FromSafeBase*
+  name: FromSafeBase
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_FromSafeBase_
+  commentId: Overload:Butterfly.Util.SafeUtil.FromSafeBase
+  isSpec: "True"
+  fullName: Butterfly.Util.SafeUtil.FromSafeBase
+  nameWithType: SafeUtil.FromSafeBase
+- uid: Butterfly.Util.SafeUtil.FULL_SAFE_BASE_ALPHABET
+  name: FULL_SAFE_BASE_ALPHABET
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_FULL_SAFE_BASE_ALPHABET
+  commentId: F:Butterfly.Util.SafeUtil.FULL_SAFE_BASE_ALPHABET
+  fullName: Butterfly.Util.SafeUtil.FULL_SAFE_BASE_ALPHABET
+  nameWithType: SafeUtil.FULL_SAFE_BASE_ALPHABET
+- uid: Butterfly.Util.SafeUtil.GetRandom(System.Int32,System.String)
+  name: GetRandom(Int32, String)
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_GetRandom_System_Int32_System_String_
+  commentId: M:Butterfly.Util.SafeUtil.GetRandom(System.Int32,System.String)
+  fullName: Butterfly.Util.SafeUtil.GetRandom(System.Int32, System.String)
+  nameWithType: SafeUtil.GetRandom(Int32, String)
+- uid: Butterfly.Util.SafeUtil.GetRandom*
+  name: GetRandom
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_GetRandom_
+  commentId: Overload:Butterfly.Util.SafeUtil.GetRandom
+  isSpec: "True"
+  fullName: Butterfly.Util.SafeUtil.GetRandom
+  nameWithType: SafeUtil.GetRandom
+- uid: Butterfly.Util.SafeUtil.InvalidCharacterMatch(System.String,System.String)
+  name: InvalidCharacterMatch(String, String)
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_InvalidCharacterMatch_System_String_System_String_
+  commentId: M:Butterfly.Util.SafeUtil.InvalidCharacterMatch(System.String,System.String)
+  fullName: Butterfly.Util.SafeUtil.InvalidCharacterMatch(System.String, System.String)
+  nameWithType: SafeUtil.InvalidCharacterMatch(String, String)
+- uid: Butterfly.Util.SafeUtil.InvalidCharacterMatch*
+  name: InvalidCharacterMatch
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_InvalidCharacterMatch_
+  commentId: Overload:Butterfly.Util.SafeUtil.InvalidCharacterMatch
+  isSpec: "True"
+  fullName: Butterfly.Util.SafeUtil.InvalidCharacterMatch
+  nameWithType: SafeUtil.InvalidCharacterMatch
+- uid: Butterfly.Util.SafeUtil.Scrub(System.String,System.String)
+  name: Scrub(String, String)
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_Scrub_System_String_System_String_
+  commentId: M:Butterfly.Util.SafeUtil.Scrub(System.String,System.String)
+  fullName: Butterfly.Util.SafeUtil.Scrub(System.String, System.String)
+  nameWithType: SafeUtil.Scrub(String, String)
+- uid: Butterfly.Util.SafeUtil.Scrub*
+  name: Scrub
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_Scrub_
+  commentId: Overload:Butterfly.Util.SafeUtil.Scrub
+  isSpec: "True"
+  fullName: Butterfly.Util.SafeUtil.Scrub
+  nameWithType: SafeUtil.Scrub
+- uid: Butterfly.Util.SafeUtil.ToSafeBase(System.UInt64,System.String)
+  name: ToSafeBase(UInt64, String)
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_ToSafeBase_System_UInt64_System_String_
+  commentId: M:Butterfly.Util.SafeUtil.ToSafeBase(System.UInt64,System.String)
+  fullName: Butterfly.Util.SafeUtil.ToSafeBase(System.UInt64, System.String)
+  nameWithType: SafeUtil.ToSafeBase(UInt64, String)
+- uid: Butterfly.Util.SafeUtil.ToSafeBase*
+  name: ToSafeBase
+  href: api/Butterfly.Util.SafeUtil.html#Butterfly_Util_SafeUtil_ToSafeBase_
+  commentId: Overload:Butterfly.Util.SafeUtil.ToSafeBase
+  isSpec: "True"
+  fullName: Butterfly.Util.SafeUtil.ToSafeBase
+  nameWithType: SafeUtil.ToSafeBase
+- uid: Butterfly.Util.SecureUtil
+  name: SecureUtil
+  href: api/Butterfly.Util.SecureUtil.html
+  commentId: T:Butterfly.Util.SecureUtil
+  fullName: Butterfly.Util.SecureUtil
+  nameWithType: SecureUtil
+- uid: Butterfly.Util.SecureUtil.CreateFromFiles(System.String,System.String)
+  name: CreateFromFiles(String, String)
+  href: api/Butterfly.Util.SecureUtil.html#Butterfly_Util_SecureUtil_CreateFromFiles_System_String_System_String_
+  commentId: M:Butterfly.Util.SecureUtil.CreateFromFiles(System.String,System.String)
+  fullName: Butterfly.Util.SecureUtil.CreateFromFiles(System.String, System.String)
+  nameWithType: SecureUtil.CreateFromFiles(String, String)
+- uid: Butterfly.Util.SecureUtil.CreateFromFiles*
+  name: CreateFromFiles
+  href: api/Butterfly.Util.SecureUtil.html#Butterfly_Util_SecureUtil_CreateFromFiles_
+  commentId: Overload:Butterfly.Util.SecureUtil.CreateFromFiles
+  isSpec: "True"
+  fullName: Butterfly.Util.SecureUtil.CreateFromFiles
+  nameWithType: SecureUtil.CreateFromFiles
+- uid: Butterfly.Util.SlugUtil
+  name: SlugUtil
+  href: api/Butterfly.Util.SlugUtil.html
+  commentId: T:Butterfly.Util.SlugUtil
+  fullName: Butterfly.Util.SlugUtil
+  nameWithType: SlugUtil
+- uid: Butterfly.Util.SlugUtil.Slugify(System.String,System.Boolean)
+  name: Slugify(String, Boolean)
+  href: api/Butterfly.Util.SlugUtil.html#Butterfly_Util_SlugUtil_Slugify_System_String_System_Boolean_
+  commentId: M:Butterfly.Util.SlugUtil.Slugify(System.String,System.Boolean)
+  fullName: Butterfly.Util.SlugUtil.Slugify(System.String, System.Boolean)
+  nameWithType: SlugUtil.Slugify(String, Boolean)
+- uid: Butterfly.Util.SlugUtil.Slugify*
+  name: Slugify
+  href: api/Butterfly.Util.SlugUtil.html#Butterfly_Util_SlugUtil_Slugify_
+  commentId: Overload:Butterfly.Util.SlugUtil.Slugify
+  isSpec: "True"
+  fullName: Butterfly.Util.SlugUtil.Slugify
+  nameWithType: SlugUtil.Slugify
+- uid: Butterfly.Util.StringX
+  name: StringX
+  href: api/Butterfly.Util.StringX.html
+  commentId: T:Butterfly.Util.StringX
+  fullName: Butterfly.Util.StringX
+  nameWithType: StringX
+- uid: Butterfly.Util.StringX.Abbreviate(System.String)
+  name: Abbreviate(String)
+  href: api/Butterfly.Util.StringX.html#Butterfly_Util_StringX_Abbreviate_System_String_
+  commentId: M:Butterfly.Util.StringX.Abbreviate(System.String)
+  fullName: Butterfly.Util.StringX.Abbreviate(System.String)
+  nameWithType: StringX.Abbreviate(String)
+- uid: Butterfly.Util.StringX.Abbreviate*
+  name: Abbreviate
+  href: api/Butterfly.Util.StringX.html#Butterfly_Util_StringX_Abbreviate_
+  commentId: Overload:Butterfly.Util.StringX.Abbreviate
+  isSpec: "True"
+  fullName: Butterfly.Util.StringX.Abbreviate
+  nameWithType: StringX.Abbreviate
+- uid: Butterfly.Util.StringX.Hash(System.String)
+  name: Hash(String)
+  href: api/Butterfly.Util.StringX.html#Butterfly_Util_StringX_Hash_System_String_
+  commentId: M:Butterfly.Util.StringX.Hash(System.String)
+  fullName: Butterfly.Util.StringX.Hash(System.String)
+  nameWithType: StringX.Hash(String)
+- uid: Butterfly.Util.StringX.Hash*
+  name: Hash
+  href: api/Butterfly.Util.StringX.html#Butterfly_Util_StringX_Hash_
+  commentId: Overload:Butterfly.Util.StringX.Hash
+  isSpec: "True"
+  fullName: Butterfly.Util.StringX.Hash
+  nameWithType: StringX.Hash
+- uid: Butterfly.Util.StringX.IsBalanced(System.String,System.Char,System.Char)
+  name: IsBalanced(String, Char, Char)
+  href: api/Butterfly.Util.StringX.html#Butterfly_Util_StringX_IsBalanced_System_String_System_Char_System_Char_
+  commentId: M:Butterfly.Util.StringX.IsBalanced(System.String,System.Char,System.Char)
+  fullName: Butterfly.Util.StringX.IsBalanced(System.String, System.Char, System.Char)
+  nameWithType: StringX.IsBalanced(String, Char, Char)
+- uid: Butterfly.Util.StringX.IsBalanced*
+  name: IsBalanced
+  href: api/Butterfly.Util.StringX.html#Butterfly_Util_StringX_IsBalanced_
+  commentId: Overload:Butterfly.Util.StringX.IsBalanced
+  isSpec: "True"
+  fullName: Butterfly.Util.StringX.IsBalanced
+  nameWithType: StringX.IsBalanced
+- uid: Butterfly.Util.StringX.SmartSplit(System.String,System.Char,System.Char,System.Char)
+  name: SmartSplit(String, Char, Char, Char)
+  href: api/Butterfly.Util.StringX.html#Butterfly_Util_StringX_SmartSplit_System_String_System_Char_System_Char_System_Char_
+  commentId: M:Butterfly.Util.StringX.SmartSplit(System.String,System.Char,System.Char,System.Char)
+  fullName: Butterfly.Util.StringX.SmartSplit(System.String, System.Char, System.Char, System.Char)
+  nameWithType: StringX.SmartSplit(String, Char, Char, Char)
+- uid: Butterfly.Util.StringX.SmartSplit*
+  name: SmartSplit
+  href: api/Butterfly.Util.StringX.html#Butterfly_Util_StringX_SmartSplit_
+  commentId: Overload:Butterfly.Util.StringX.SmartSplit
+  isSpec: "True"
+  fullName: Butterfly.Util.StringX.SmartSplit
+  nameWithType: StringX.SmartSplit
+- uid: Butterfly.Util.StructuredParser
+  name: StructuredParser
+  href: api/Butterfly.Util.StructuredParser.html
+  commentId: T:Butterfly.Util.StructuredParser
+  fullName: Butterfly.Util.StructuredParser
+  nameWithType: StructuredParser
+- uid: Butterfly.Util.StructuredParser.AddToken(System.String,Regex,System.Boolean)
+  name: AddToken(String, Regex, Boolean)
+  href: api/Butterfly.Util.StructuredParser.html#Butterfly_Util_StructuredParser_AddToken_System_String_Regex_System_Boolean_
+  commentId: M:Butterfly.Util.StructuredParser.AddToken(System.String,Regex,System.Boolean)
+  fullName: Butterfly.Util.StructuredParser.AddToken(System.String, Regex, System.Boolean)
+  nameWithType: StructuredParser.AddToken(String, Regex, Boolean)
+- uid: Butterfly.Util.StructuredParser.AddToken*
+  name: AddToken
+  href: api/Butterfly.Util.StructuredParser.html#Butterfly_Util_StructuredParser_AddToken_
+  commentId: Overload:Butterfly.Util.StructuredParser.AddToken
+  isSpec: "True"
+  fullName: Butterfly.Util.StructuredParser.AddToken
+  nameWithType: StructuredParser.AddToken
+- uid: Butterfly.Util.StructuredParser.GetMatch(Butterfly.Util.StructuredParser.Token,System.String,System.Int32)
+  name: GetMatch(StructuredParser.Token, String, Int32)
+  href: api/Butterfly.Util.StructuredParser.html#Butterfly_Util_StructuredParser_GetMatch_Butterfly_Util_StructuredParser_Token_System_String_System_Int32_
+  commentId: M:Butterfly.Util.StructuredParser.GetMatch(Butterfly.Util.StructuredParser.Token,System.String,System.Int32)
+  fullName: Butterfly.Util.StructuredParser.GetMatch(Butterfly.Util.StructuredParser.Token, System.String, System.Int32)
+  nameWithType: StructuredParser.GetMatch(StructuredParser.Token, String, Int32)
+- uid: Butterfly.Util.StructuredParser.GetMatch*
+  name: GetMatch
+  href: api/Butterfly.Util.StructuredParser.html#Butterfly_Util_StructuredParser_GetMatch_
+  commentId: Overload:Butterfly.Util.StructuredParser.GetMatch
+  isSpec: "True"
+  fullName: Butterfly.Util.StructuredParser.GetMatch
+  nameWithType: StructuredParser.GetMatch
+- uid: Butterfly.Util.StructuredParser.Parse(System.String)
+  name: Parse(String)
+  href: api/Butterfly.Util.StructuredParser.html#Butterfly_Util_StructuredParser_Parse_System_String_
+  commentId: M:Butterfly.Util.StructuredParser.Parse(System.String)
+  fullName: Butterfly.Util.StructuredParser.Parse(System.String)
+  nameWithType: StructuredParser.Parse(String)
+- uid: Butterfly.Util.StructuredParser.Parse*
+  name: Parse
+  href: api/Butterfly.Util.StructuredParser.html#Butterfly_Util_StructuredParser_Parse_
+  commentId: Overload:Butterfly.Util.StructuredParser.Parse
+  isSpec: "True"
+  fullName: Butterfly.Util.StructuredParser.Parse
+  nameWithType: StructuredParser.Parse
+- uid: Butterfly.Util.StructuredParser.Token
+  name: StructuredParser.Token
+  href: api/Butterfly.Util.StructuredParser.Token.html
+  commentId: T:Butterfly.Util.StructuredParser.Token
+  fullName: Butterfly.Util.StructuredParser.Token
+  nameWithType: StructuredParser.Token
+- uid: Butterfly.Util.StructuredParser.Token.#ctor(System.String,Regex,System.Boolean)
+  name: Token(String, Regex, Boolean)
+  href: api/Butterfly.Util.StructuredParser.Token.html#Butterfly_Util_StructuredParser_Token__ctor_System_String_Regex_System_Boolean_
+  commentId: M:Butterfly.Util.StructuredParser.Token.#ctor(System.String,Regex,System.Boolean)
+  fullName: Butterfly.Util.StructuredParser.Token.Token(System.String, Regex, System.Boolean)
+  nameWithType: StructuredParser.Token.Token(String, Regex, Boolean)
+- uid: Butterfly.Util.StructuredParser.Token.#ctor*
+  name: Token
+  href: api/Butterfly.Util.StructuredParser.Token.html#Butterfly_Util_StructuredParser_Token__ctor_
+  commentId: Overload:Butterfly.Util.StructuredParser.Token.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.StructuredParser.Token.Token
+  nameWithType: StructuredParser.Token.Token
+- uid: Butterfly.Util.StructuredParser.Token.name
+  name: name
+  href: api/Butterfly.Util.StructuredParser.Token.html#Butterfly_Util_StructuredParser_Token_name
+  commentId: F:Butterfly.Util.StructuredParser.Token.name
+  fullName: Butterfly.Util.StructuredParser.Token.name
+  nameWithType: StructuredParser.Token.name
+- uid: Butterfly.Util.StructuredParser.Token.regex
+  name: regex
+  href: api/Butterfly.Util.StructuredParser.Token.html#Butterfly_Util_StructuredParser_Token_regex
+  commentId: F:Butterfly.Util.StructuredParser.Token.regex
+  fullName: Butterfly.Util.StructuredParser.Token.regex
+  nameWithType: StructuredParser.Token.regex
+- uid: Butterfly.Util.StructuredParser.Token.required
+  name: required
+  href: api/Butterfly.Util.StructuredParser.Token.html#Butterfly_Util_StructuredParser_Token_required
+  commentId: F:Butterfly.Util.StructuredParser.Token.required
+  fullName: Butterfly.Util.StructuredParser.Token.required
+  nameWithType: StructuredParser.Token.required
+- uid: Butterfly.Util.StructuredParser.tokens
+  name: tokens
+  href: api/Butterfly.Util.StructuredParser.html#Butterfly_Util_StructuredParser_tokens
+  commentId: F:Butterfly.Util.StructuredParser.tokens
+  fullName: Butterfly.Util.StructuredParser.tokens
+  nameWithType: StructuredParser.tokens
+- uid: Butterfly.Util.Throttle
+  name: Throttle
+  href: api/Butterfly.Util.Throttle.html
+  commentId: T:Butterfly.Util.Throttle
+  fullName: Butterfly.Util.Throttle
+  nameWithType: Throttle
+- uid: Butterfly.Util.Throttle.#ctor(System.Single,System.Int32)
+  name: Throttle(Single, Int32)
+  href: api/Butterfly.Util.Throttle.html#Butterfly_Util_Throttle__ctor_System_Single_System_Int32_
+  commentId: M:Butterfly.Util.Throttle.#ctor(System.Single,System.Int32)
+  fullName: Butterfly.Util.Throttle.Throttle(System.Single, System.Int32)
+  nameWithType: Throttle.Throttle(Single, Int32)
+- uid: Butterfly.Util.Throttle.#ctor*
+  name: Throttle
+  href: api/Butterfly.Util.Throttle.html#Butterfly_Util_Throttle__ctor_
+  commentId: Overload:Butterfly.Util.Throttle.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.Throttle.Throttle
+  nameWithType: Throttle.Throttle
+- uid: Butterfly.Util.Throttle.Check(System.String,System.Int32)
+  name: Check(String, Int32)
+  href: api/Butterfly.Util.Throttle.html#Butterfly_Util_Throttle_Check_System_String_System_Int32_
+  commentId: M:Butterfly.Util.Throttle.Check(System.String,System.Int32)
+  fullName: Butterfly.Util.Throttle.Check(System.String, System.Int32)
+  nameWithType: Throttle.Check(String, Int32)
+- uid: Butterfly.Util.Throttle.Check*
+  name: Check
+  href: api/Butterfly.Util.Throttle.html#Butterfly_Util_Throttle_Check_
+  commentId: Overload:Butterfly.Util.Throttle.Check
+  isSpec: "True"
+  fullName: Butterfly.Util.Throttle.Check
+  nameWithType: Throttle.Check
+- uid: Butterfly.Util.Throttle.count
+  name: count
+  href: api/Butterfly.Util.Throttle.html#Butterfly_Util_Throttle_count
+  commentId: F:Butterfly.Util.Throttle.count
+  fullName: Butterfly.Util.Throttle.count
+  nameWithType: Throttle.count
+- uid: Butterfly.Util.Throttle.dateTimesByKey
+  name: dateTimesByKey
+  href: api/Butterfly.Util.Throttle.html#Butterfly_Util_Throttle_dateTimesByKey
+  commentId: F:Butterfly.Util.Throttle.dateTimesByKey
+  fullName: Butterfly.Util.Throttle.dateTimesByKey
+  nameWithType: Throttle.dateTimesByKey
+- uid: Butterfly.Util.Throttle.seconds
+  name: seconds
+  href: api/Butterfly.Util.Throttle.html#Butterfly_Util_Throttle_seconds
+  commentId: F:Butterfly.Util.Throttle.seconds
+  fullName: Butterfly.Util.Throttle.seconds
+  nameWithType: Throttle.seconds
+- uid: Butterfly.Util.UnauthorizedException
+  name: UnauthorizedException
+  href: api/Butterfly.Util.UnauthorizedException.html
+  commentId: T:Butterfly.Util.UnauthorizedException
+  fullName: Butterfly.Util.UnauthorizedException
+  nameWithType: UnauthorizedException
+- uid: Butterfly.Util.UnauthorizedException.#ctor
+  name: UnauthorizedException()
+  href: api/Butterfly.Util.UnauthorizedException.html#Butterfly_Util_UnauthorizedException__ctor
+  commentId: M:Butterfly.Util.UnauthorizedException.#ctor
+  fullName: Butterfly.Util.UnauthorizedException.UnauthorizedException()
+  nameWithType: UnauthorizedException.UnauthorizedException()
+- uid: Butterfly.Util.UnauthorizedException.#ctor*
+  name: UnauthorizedException
+  href: api/Butterfly.Util.UnauthorizedException.html#Butterfly_Util_UnauthorizedException__ctor_
+  commentId: Overload:Butterfly.Util.UnauthorizedException.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.UnauthorizedException.UnauthorizedException
+  nameWithType: UnauthorizedException.UnauthorizedException
+- uid: Butterfly.Util.UriX
+  name: UriX
+  href: api/Butterfly.Util.UriX.html
+  commentId: T:Butterfly.Util.UriX
+  fullName: Butterfly.Util.UriX
+  nameWithType: UriX
+- uid: Butterfly.Util.UriX.ParseQuery(Uri)
+  name: ParseQuery(Uri)
+  href: api/Butterfly.Util.UriX.html#Butterfly_Util_UriX_ParseQuery_Uri_
+  commentId: M:Butterfly.Util.UriX.ParseQuery(Uri)
+  fullName: Butterfly.Util.UriX.ParseQuery(Uri)
+  nameWithType: UriX.ParseQuery(Uri)
+- uid: Butterfly.Util.UriX.ParseQuery*
+  name: ParseQuery
+  href: api/Butterfly.Util.UriX.html#Butterfly_Util_UriX_ParseQuery_
+  commentId: Overload:Butterfly.Util.UriX.ParseQuery
+  isSpec: "True"
+  fullName: Butterfly.Util.UriX.ParseQuery
+  nameWithType: UriX.ParseQuery
+- uid: Butterfly.Util.WebClientWithTimeout
+  name: WebClientWithTimeout
+  href: api/Butterfly.Util.WebClientWithTimeout.html
+  commentId: T:Butterfly.Util.WebClientWithTimeout
+  fullName: Butterfly.Util.WebClientWithTimeout
+  nameWithType: WebClientWithTimeout
+- uid: Butterfly.Util.WebClientWithTimeout.#ctor(System.Int32)
+  name: WebClientWithTimeout(Int32)
+  href: api/Butterfly.Util.WebClientWithTimeout.html#Butterfly_Util_WebClientWithTimeout__ctor_System_Int32_
+  commentId: M:Butterfly.Util.WebClientWithTimeout.#ctor(System.Int32)
+  fullName: Butterfly.Util.WebClientWithTimeout.WebClientWithTimeout(System.Int32)
+  nameWithType: WebClientWithTimeout.WebClientWithTimeout(Int32)
+- uid: Butterfly.Util.WebClientWithTimeout.#ctor*
+  name: WebClientWithTimeout
+  href: api/Butterfly.Util.WebClientWithTimeout.html#Butterfly_Util_WebClientWithTimeout__ctor_
+  commentId: Overload:Butterfly.Util.WebClientWithTimeout.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.WebClientWithTimeout.WebClientWithTimeout
+  nameWithType: WebClientWithTimeout.WebClientWithTimeout
+- uid: Butterfly.Util.WebClientWithTimeout.GetWebRequest(Uri)
+  name: GetWebRequest(Uri)
+  href: api/Butterfly.Util.WebClientWithTimeout.html#Butterfly_Util_WebClientWithTimeout_GetWebRequest_Uri_
+  commentId: M:Butterfly.Util.WebClientWithTimeout.GetWebRequest(Uri)
+  fullName: Butterfly.Util.WebClientWithTimeout.GetWebRequest(Uri)
+  nameWithType: WebClientWithTimeout.GetWebRequest(Uri)
+- uid: Butterfly.Util.WebClientWithTimeout.GetWebRequest*
+  name: GetWebRequest
+  href: api/Butterfly.Util.WebClientWithTimeout.html#Butterfly_Util_WebClientWithTimeout_GetWebRequest_
+  commentId: Overload:Butterfly.Util.WebClientWithTimeout.GetWebRequest
+  isSpec: "True"
+  fullName: Butterfly.Util.WebClientWithTimeout.GetWebRequest
+  nameWithType: WebClientWithTimeout.GetWebRequest
+- uid: Butterfly.Util.WebClientWithTimeout.timeoutMillis
+  name: timeoutMillis
+  href: api/Butterfly.Util.WebClientWithTimeout.html#Butterfly_Util_WebClientWithTimeout_timeoutMillis
+  commentId: F:Butterfly.Util.WebClientWithTimeout.timeoutMillis
+  fullName: Butterfly.Util.WebClientWithTimeout.timeoutMillis
+  nameWithType: WebClientWithTimeout.timeoutMillis

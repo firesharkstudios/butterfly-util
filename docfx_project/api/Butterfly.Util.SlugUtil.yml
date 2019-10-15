@@ -1,0 +1,103 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.SlugUtil
+  commentId: T:Butterfly.Util.SlugUtil
+  id: SlugUtil
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.SlugUtil.Slugify(System.String,System.Boolean)
+  langs:
+  - csharp
+  - vb
+  name: SlugUtil
+  nameWithType: SlugUtil
+  fullName: Butterfly.Util.SlugUtil
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SlugUtil.cs
+    id: SlugUtil
+    path: ../Butterfly.Util/SlugUtil.cs
+    startLine: 3
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public static class SlugUtil : object'
+    content.vb: >-
+      Public Module SlugUtil
+          Inherits Object
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - static
+  - class
+  modifiers.vb:
+  - Public
+  - Module
+- uid: Butterfly.Util.SlugUtil.Slugify(System.String,System.Boolean)
+  commentId: M:Butterfly.Util.SlugUtil.Slugify(System.String,System.Boolean)
+  id: Slugify(System.String,System.Boolean)
+  parent: Butterfly.Util.SlugUtil
+  langs:
+  - csharp
+  - vb
+  name: Slugify(String, Boolean)
+  nameWithType: SlugUtil.Slugify(String, Boolean)
+  fullName: Butterfly.Util.SlugUtil.Slugify(System.String, System.Boolean)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SlugUtil.cs
+    id: Slugify
+    path: ../Butterfly.Util/SlugUtil.cs
+    startLine: 7
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static string Slugify(string name, bool throwExceptionIfEmpty = true)
+    parameters:
+    - id: name
+      type: System.String
+    - id: throwExceptionIfEmpty
+      type: System.Boolean
+    return:
+      type: System.String
+    content.vb: Public Shared Function Slugify(name As String, throwExceptionIfEmpty As Boolean = True) As String
+  overload: Butterfly.Util.SlugUtil.Slugify*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: Butterfly.Util.SlugUtil.Slugify*
+  commentId: Overload:Butterfly.Util.SlugUtil.Slugify
+  name: Slugify
+  nameWithType: SlugUtil.Slugify
+  fullName: Butterfly.Util.SlugUtil.Slugify
+- uid: System.String
+  isExternal: true
+  name: String
+  nameWithType: String
+  fullName: System.String
+- uid: System.Boolean
+  isExternal: true
+  name: Boolean
+  nameWithType: Boolean
+  fullName: System.Boolean
+shouldSkipMarkup: true

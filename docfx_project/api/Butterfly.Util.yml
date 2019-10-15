@@ -1,0 +1,260 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  id: Butterfly.Util
+  children:
+  - Butterfly.Util.CleverNameX
+  - Butterfly.Util.CommandLineUtil
+  - Butterfly.Util.ConsoleUtil
+  - Butterfly.Util.DateTimeX
+  - Butterfly.Util.DictionaryItemDisposable`2
+  - Butterfly.Util.DictionaryX
+  - Butterfly.Util.DynamicX
+  - Butterfly.Util.EnvironmentX
+  - Butterfly.Util.FileX
+  - Butterfly.Util.IEnumerableX
+  - Butterfly.Util.JsonUtil
+  - Butterfly.Util.ListItemDisposable`1
+  - Butterfly.Util.NameValueCollectionX
+  - Butterfly.Util.PermissionDeniedException
+  - Butterfly.Util.ProcessX
+  - Butterfly.Util.RandomUtil
+  - Butterfly.Util.RunEvery
+  - Butterfly.Util.SafeUtil
+  - Butterfly.Util.SecureUtil
+  - Butterfly.Util.SlugUtil
+  - Butterfly.Util.StringX
+  - Butterfly.Util.StructuredParser
+  - Butterfly.Util.StructuredParser.Token
+  - Butterfly.Util.Throttle
+  - Butterfly.Util.UnauthorizedException
+  - Butterfly.Util.UriX
+  - Butterfly.Util.WebClientWithTimeout
+  langs:
+  - csharp
+  - vb
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+  type: Namespace
+  assemblies:
+  - Butterfly.Util
+references:
+- uid: Butterfly.Util.CleverNameX
+  commentId: T:Butterfly.Util.CleverNameX
+  name: CleverNameX
+  nameWithType: CleverNameX
+  fullName: Butterfly.Util.CleverNameX
+- uid: Butterfly.Util.CommandLineUtil
+  commentId: T:Butterfly.Util.CommandLineUtil
+  name: CommandLineUtil
+  nameWithType: CommandLineUtil
+  fullName: Butterfly.Util.CommandLineUtil
+- uid: Butterfly.Util.ConsoleUtil
+  commentId: T:Butterfly.Util.ConsoleUtil
+  name: ConsoleUtil
+  nameWithType: ConsoleUtil
+  fullName: Butterfly.Util.ConsoleUtil
+- uid: Butterfly.Util.DateTimeX
+  commentId: T:Butterfly.Util.DateTimeX
+  name: DateTimeX
+  nameWithType: DateTimeX
+  fullName: Butterfly.Util.DateTimeX
+- uid: Butterfly.Util.DictionaryItemDisposable`2
+  commentId: T:Butterfly.Util.DictionaryItemDisposable`2
+  name: DictionaryItemDisposable<T, U>
+  nameWithType: DictionaryItemDisposable<T, U>
+  fullName: Butterfly.Util.DictionaryItemDisposable<T, U>
+  nameWithType.vb: DictionaryItemDisposable(Of T, U)
+  fullName.vb: Butterfly.Util.DictionaryItemDisposable(Of T, U)
+  name.vb: DictionaryItemDisposable(Of T, U)
+  spec.csharp:
+  - uid: Butterfly.Util.DictionaryItemDisposable`2
+    name: DictionaryItemDisposable
+    nameWithType: DictionaryItemDisposable
+    fullName: Butterfly.Util.DictionaryItemDisposable
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: U
+    nameWithType: U
+    fullName: U
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Butterfly.Util.DictionaryItemDisposable`2
+    name: DictionaryItemDisposable
+    nameWithType: DictionaryItemDisposable
+    fullName: Butterfly.Util.DictionaryItemDisposable
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: U
+    nameWithType: U
+    fullName: U
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Butterfly.Util.DictionaryX
+  commentId: T:Butterfly.Util.DictionaryX
+  name: DictionaryX
+  nameWithType: DictionaryX
+  fullName: Butterfly.Util.DictionaryX
+- uid: Butterfly.Util.DynamicX
+  commentId: T:Butterfly.Util.DynamicX
+  name: DynamicX
+  nameWithType: DynamicX
+  fullName: Butterfly.Util.DynamicX
+- uid: Butterfly.Util.EnvironmentX
+  commentId: T:Butterfly.Util.EnvironmentX
+  name: EnvironmentX
+  nameWithType: EnvironmentX
+  fullName: Butterfly.Util.EnvironmentX
+- uid: Butterfly.Util.FileX
+  commentId: T:Butterfly.Util.FileX
+  name: FileX
+  nameWithType: FileX
+  fullName: Butterfly.Util.FileX
+- uid: Butterfly.Util.IEnumerableX
+  commentId: T:Butterfly.Util.IEnumerableX
+  name: IEnumerableX
+  nameWithType: IEnumerableX
+  fullName: Butterfly.Util.IEnumerableX
+- uid: Butterfly.Util.JsonUtil
+  commentId: T:Butterfly.Util.JsonUtil
+  name: JsonUtil
+  nameWithType: JsonUtil
+  fullName: Butterfly.Util.JsonUtil
+- uid: Butterfly.Util.ListItemDisposable`1
+  commentId: T:Butterfly.Util.ListItemDisposable`1
+  name: ListItemDisposable<T>
+  nameWithType: ListItemDisposable<T>
+  fullName: Butterfly.Util.ListItemDisposable<T>
+  nameWithType.vb: ListItemDisposable(Of T)
+  fullName.vb: Butterfly.Util.ListItemDisposable(Of T)
+  name.vb: ListItemDisposable(Of T)
+  spec.csharp:
+  - uid: Butterfly.Util.ListItemDisposable`1
+    name: ListItemDisposable
+    nameWithType: ListItemDisposable
+    fullName: Butterfly.Util.ListItemDisposable
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Butterfly.Util.ListItemDisposable`1
+    name: ListItemDisposable
+    nameWithType: ListItemDisposable
+    fullName: Butterfly.Util.ListItemDisposable
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Butterfly.Util.NameValueCollectionX
+  commentId: T:Butterfly.Util.NameValueCollectionX
+  name: NameValueCollectionX
+  nameWithType: NameValueCollectionX
+  fullName: Butterfly.Util.NameValueCollectionX
+- uid: Butterfly.Util.ProcessX
+  commentId: T:Butterfly.Util.ProcessX
+  name: ProcessX
+  nameWithType: ProcessX
+  fullName: Butterfly.Util.ProcessX
+- uid: Butterfly.Util.RandomUtil
+  commentId: T:Butterfly.Util.RandomUtil
+  name: RandomUtil
+  nameWithType: RandomUtil
+  fullName: Butterfly.Util.RandomUtil
+- uid: Butterfly.Util.RunEvery
+  commentId: T:Butterfly.Util.RunEvery
+  name: RunEvery
+  nameWithType: RunEvery
+  fullName: Butterfly.Util.RunEvery
+- uid: Butterfly.Util.SafeUtil
+  commentId: T:Butterfly.Util.SafeUtil
+  name: SafeUtil
+  nameWithType: SafeUtil
+  fullName: Butterfly.Util.SafeUtil
+- uid: Butterfly.Util.SecureUtil
+  commentId: T:Butterfly.Util.SecureUtil
+  name: SecureUtil
+  nameWithType: SecureUtil
+  fullName: Butterfly.Util.SecureUtil
+- uid: Butterfly.Util.SlugUtil
+  commentId: T:Butterfly.Util.SlugUtil
+  name: SlugUtil
+  nameWithType: SlugUtil
+  fullName: Butterfly.Util.SlugUtil
+- uid: Butterfly.Util.StringX
+  commentId: T:Butterfly.Util.StringX
+  name: StringX
+  nameWithType: StringX
+  fullName: Butterfly.Util.StringX
+- uid: Butterfly.Util.StructuredParser
+  commentId: T:Butterfly.Util.StructuredParser
+  parent: Butterfly.Util
+  name: StructuredParser
+  nameWithType: StructuredParser
+  fullName: Butterfly.Util.StructuredParser
+- uid: Butterfly.Util.StructuredParser.Token
+  commentId: T:Butterfly.Util.StructuredParser.Token
+  parent: Butterfly.Util
+  name: StructuredParser.Token
+  nameWithType: StructuredParser.Token
+  fullName: Butterfly.Util.StructuredParser.Token
+- uid: Butterfly.Util.Throttle
+  commentId: T:Butterfly.Util.Throttle
+  name: Throttle
+  nameWithType: Throttle
+  fullName: Butterfly.Util.Throttle
+- uid: Butterfly.Util.UnauthorizedException
+  commentId: T:Butterfly.Util.UnauthorizedException
+  name: UnauthorizedException
+  nameWithType: UnauthorizedException
+  fullName: Butterfly.Util.UnauthorizedException
+- uid: Butterfly.Util.PermissionDeniedException
+  commentId: T:Butterfly.Util.PermissionDeniedException
+  name: PermissionDeniedException
+  nameWithType: PermissionDeniedException
+  fullName: Butterfly.Util.PermissionDeniedException
+- uid: Butterfly.Util.UriX
+  commentId: T:Butterfly.Util.UriX
+  name: UriX
+  nameWithType: UriX
+  fullName: Butterfly.Util.UriX
+- uid: Butterfly.Util.WebClientWithTimeout
+  commentId: T:Butterfly.Util.WebClientWithTimeout
+  name: WebClientWithTimeout
+  nameWithType: WebClientWithTimeout
+  fullName: Butterfly.Util.WebClientWithTimeout
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+shouldSkipMarkup: true

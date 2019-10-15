@@ -1,0 +1,83 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.UnauthorizedException
+  commentId: T:Butterfly.Util.UnauthorizedException
+  id: UnauthorizedException
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.UnauthorizedException.#ctor
+  langs:
+  - csharp
+  - vb
+  name: UnauthorizedException
+  nameWithType: UnauthorizedException
+  fullName: Butterfly.Util.UnauthorizedException
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/UnauthorizedException.cs
+    id: UnauthorizedException
+    path: ../Butterfly.Util/UnauthorizedException.cs
+    startLine: 7
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public class UnauthorizedException : Exception'
+    content.vb: >-
+      Public Class UnauthorizedException
+          Inherits Exception
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - class
+  modifiers.vb:
+  - Public
+  - Class
+- uid: Butterfly.Util.UnauthorizedException.#ctor
+  commentId: M:Butterfly.Util.UnauthorizedException.#ctor
+  id: '#ctor'
+  parent: Butterfly.Util.UnauthorizedException
+  langs:
+  - csharp
+  - vb
+  name: UnauthorizedException()
+  nameWithType: UnauthorizedException.UnauthorizedException()
+  fullName: Butterfly.Util.UnauthorizedException.UnauthorizedException()
+  type: Constructor
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/UnauthorizedException.cs
+    id: .ctor
+    path: ../Butterfly.Util/UnauthorizedException.cs
+    startLine: 8
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public UnauthorizedException()
+    content.vb: Public Sub New
+  overload: Butterfly.Util.UnauthorizedException.#ctor*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: Butterfly.Util.UnauthorizedException.#ctor*
+  commentId: Overload:Butterfly.Util.UnauthorizedException.#ctor
+  name: UnauthorizedException
+  nameWithType: UnauthorizedException.UnauthorizedException
+  fullName: Butterfly.Util.UnauthorizedException.UnauthorizedException
+shouldSkipMarkup: true

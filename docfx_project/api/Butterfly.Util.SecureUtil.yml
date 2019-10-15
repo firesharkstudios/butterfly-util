@@ -1,0 +1,104 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.SecureUtil
+  commentId: T:Butterfly.Util.SecureUtil
+  id: SecureUtil
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.SecureUtil.CreateFromFiles(System.String,System.String)
+  langs:
+  - csharp
+  - vb
+  name: SecureUtil
+  nameWithType: SecureUtil
+  fullName: Butterfly.Util.SecureUtil
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SecureUtil.cs
+    id: SecureUtil
+    path: ../Butterfly.Util/SecureUtil.cs
+    startLine: 5
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public static class SecureUtil : object'
+    content.vb: >-
+      Public Module SecureUtil
+          Inherits Object
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - static
+  - class
+  modifiers.vb:
+  - Public
+  - Module
+- uid: Butterfly.Util.SecureUtil.CreateFromFiles(System.String,System.String)
+  commentId: M:Butterfly.Util.SecureUtil.CreateFromFiles(System.String,System.String)
+  id: CreateFromFiles(System.String,System.String)
+  parent: Butterfly.Util.SecureUtil
+  langs:
+  - csharp
+  - vb
+  name: CreateFromFiles(String, String)
+  nameWithType: SecureUtil.CreateFromFiles(String, String)
+  fullName: Butterfly.Util.SecureUtil.CreateFromFiles(System.String, System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SecureUtil.cs
+    id: CreateFromFiles
+    path: ../Butterfly.Util/SecureUtil.cs
+    startLine: 8
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static X509Certificate2 CreateFromFiles(string certificateFile, string keyFile)
+    parameters:
+    - id: certificateFile
+      type: System.String
+    - id: keyFile
+      type: System.String
+    return:
+      type: X509Certificate2
+    content.vb: Public Shared Function CreateFromFiles(certificateFile As String, keyFile As String) As X509Certificate2
+  overload: Butterfly.Util.SecureUtil.CreateFromFiles*
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: Butterfly.Util.SecureUtil.CreateFromFiles*
+  commentId: Overload:Butterfly.Util.SecureUtil.CreateFromFiles
+  name: CreateFromFiles
+  nameWithType: SecureUtil.CreateFromFiles
+  fullName: Butterfly.Util.SecureUtil.CreateFromFiles
+- uid: System.String
+  isExternal: true
+  name: String
+  nameWithType: String
+  fullName: System.String
+- uid: X509Certificate2
+  commentId: '!:X509Certificate2'
+  isExternal: true
+  name: X509Certificate2
+  nameWithType: X509Certificate2
+  fullName: X509Certificate2
+shouldSkipMarkup: true

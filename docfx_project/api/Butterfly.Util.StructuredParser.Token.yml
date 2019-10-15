@@ -1,0 +1,201 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.StructuredParser.Token
+  commentId: T:Butterfly.Util.StructuredParser.Token
+  id: StructuredParser.Token
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.StructuredParser.Token.#ctor(System.String,Regex,System.Boolean)
+  - Butterfly.Util.StructuredParser.Token.name
+  - Butterfly.Util.StructuredParser.Token.regex
+  - Butterfly.Util.StructuredParser.Token.required
+  langs:
+  - csharp
+  - vb
+  name: StructuredParser.Token
+  nameWithType: StructuredParser.Token
+  fullName: Butterfly.Util.StructuredParser.Token
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: Token
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 59
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public class Token : object'
+    content.vb: >-
+      Public Class Token
+          Inherits Object
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - class
+  modifiers.vb:
+  - Public
+  - Class
+- uid: Butterfly.Util.StructuredParser.Token.name
+  commentId: F:Butterfly.Util.StructuredParser.Token.name
+  id: name
+  parent: Butterfly.Util.StructuredParser.Token
+  langs:
+  - csharp
+  - vb
+  name: name
+  nameWithType: StructuredParser.Token.name
+  fullName: Butterfly.Util.StructuredParser.Token.name
+  type: Field
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: name
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 60
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public readonly string name
+    return:
+      type: System.String
+    content.vb: Public ReadOnly name As String
+  modifiers.csharp:
+  - public
+  - readonly
+  modifiers.vb:
+  - Public
+  - ReadOnly
+- uid: Butterfly.Util.StructuredParser.Token.regex
+  commentId: F:Butterfly.Util.StructuredParser.Token.regex
+  id: regex
+  parent: Butterfly.Util.StructuredParser.Token
+  langs:
+  - csharp
+  - vb
+  name: regex
+  nameWithType: StructuredParser.Token.regex
+  fullName: Butterfly.Util.StructuredParser.Token.regex
+  type: Field
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: regex
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 61
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public readonly Regex regex
+    return:
+      type: Regex
+    content.vb: Public ReadOnly regex As Regex
+  modifiers.csharp:
+  - public
+  - readonly
+  modifiers.vb:
+  - Public
+  - ReadOnly
+- uid: Butterfly.Util.StructuredParser.Token.required
+  commentId: F:Butterfly.Util.StructuredParser.Token.required
+  id: required
+  parent: Butterfly.Util.StructuredParser.Token
+  langs:
+  - csharp
+  - vb
+  name: required
+  nameWithType: StructuredParser.Token.required
+  fullName: Butterfly.Util.StructuredParser.Token.required
+  type: Field
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: required
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 62
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public readonly bool required
+    return:
+      type: System.Boolean
+    content.vb: Public ReadOnly required As Boolean
+  modifiers.csharp:
+  - public
+  - readonly
+  modifiers.vb:
+  - Public
+  - ReadOnly
+- uid: Butterfly.Util.StructuredParser.Token.#ctor(System.String,Regex,System.Boolean)
+  commentId: M:Butterfly.Util.StructuredParser.Token.#ctor(System.String,Regex,System.Boolean)
+  id: '#ctor(System.String,Regex,System.Boolean)'
+  parent: Butterfly.Util.StructuredParser.Token
+  langs:
+  - csharp
+  - vb
+  name: Token(String, Regex, Boolean)
+  nameWithType: StructuredParser.Token.Token(String, Regex, Boolean)
+  fullName: Butterfly.Util.StructuredParser.Token.Token(System.String, Regex, System.Boolean)
+  type: Constructor
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+    id: .ctor
+    path: ../Butterfly.Util/StructuredParser.cs
+    startLine: 64
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public Token(string name, Regex regex, bool required)
+    parameters:
+    - id: name
+      type: System.String
+    - id: regex
+      type: Regex
+    - id: required
+      type: System.Boolean
+    content.vb: Public Sub New(name As String, regex As Regex, required As Boolean)
+  overload: Butterfly.Util.StructuredParser.Token.#ctor*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: System.String
+  isExternal: true
+  name: String
+  nameWithType: String
+  fullName: System.String
+- uid: Regex
+  isExternal: true
+  name: Regex
+  nameWithType: Regex
+  fullName: Regex
+- uid: System.Boolean
+  isExternal: true
+  name: Boolean
+  nameWithType: Boolean
+  fullName: System.Boolean
+- uid: Butterfly.Util.StructuredParser.Token.#ctor*
+  commentId: Overload:Butterfly.Util.StructuredParser.Token.#ctor
+  name: Token
+  nameWithType: StructuredParser.Token.Token
+  fullName: Butterfly.Util.StructuredParser.Token.Token
+shouldSkipMarkup: true

@@ -1,0 +1,1816 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.DictionaryX
+  commentId: T:Butterfly.Util.DictionaryX
+  id: DictionaryX
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},SemaphoreSlim,System.Char)
+  - Butterfly.Util.DictionaryX.ContainsAllKeys``2(Dictionary{``0,``1},``0[])
+  - Butterfly.Util.DictionaryX.ContainsAnyKey``2(Dictionary{``0,``1},``0[])
+  - Butterfly.Util.DictionaryX.Deconstruct``2(KeyValuePair{``0,``1},``0@,``1@)
+  - Butterfly.Util.DictionaryX.Format(Dictionary{System.String,System.Object},System.String,System.String,System.String)
+  - Butterfly.Util.DictionaryX.GetAs``3(Dictionary{``0,``1},``0,``2)
+  - Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary{System.String,System.Object},System.String[],System.Char,System.Boolean)
+  - Butterfly.Util.DictionaryX.IsSame``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  - Butterfly.Util.DictionaryX.ParseKeyValue(System.Object,System.String[],System.Char)
+  - Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},System.Char)
+  - Butterfly.Util.DictionaryX.ToString``2(Dictionary{``0,``1},System.String,System.String)
+  - Butterfly.Util.DictionaryX.UpdateFrom``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  langs:
+  - csharp
+  - vb
+  name: DictionaryX
+  nameWithType: DictionaryX
+  fullName: Butterfly.Util.DictionaryX
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: DictionaryX
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 15
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public static class DictionaryX : object'
+    content.vb: >-
+      Public Module DictionaryX
+          Inherits Object
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - static
+  - class
+  modifiers.vb:
+  - Public
+  - Module
+- uid: Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},System.Char)
+  commentId: M:Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},System.Char)
+  id: SyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},System.Char)
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: SyncAsync(System.Collections.Generic.Dictionary<String, Object>[], System.Collections.Generic.Dictionary<String, Object>[], String[], Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Char)
+  nameWithType: DictionaryX.SyncAsync(System.Collections.Generic.Dictionary<String, Object>[], System.Collections.Generic.Dictionary<String, Object>[], String[], Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Char)
+  fullName: Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary<System.String, System.Object>[], System.Collections.Generic.Dictionary<System.String, System.Object>[], System.String[], Func<System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, Func<System.Collections.Generic.Dictionary<System.String, System.Object>, System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, Func<System.Collections.Generic.Dictionary<System.String, System.Object>, System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, System.Char)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: SyncAsync
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 17
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static Task<bool> SyncAsync(this System.Collections.Generic.Dictionary<string, object>[] me, System.Collections.Generic.Dictionary<string, object>[] toRecords, string[] keyFieldNames, Func<System.Collections.Generic.Dictionary<string, object>, Task<bool>> insertFunc, Func<System.Collections.Generic.Dictionary<string, object>, System.Collections.Generic.Dictionary<string, object>, Task<bool>> updateFunc, Func<System.Collections.Generic.Dictionary<string, object>, System.Collections.Generic.Dictionary<string, object>, Task<bool>> deleteFunc, char keyFieldDelim = ';')
+    parameters:
+    - id: me
+      type: System.Collections.Generic.Dictionary{System.String,System.Object}[]
+    - id: toRecords
+      type: System.Collections.Generic.Dictionary{System.String,System.Object}[]
+    - id: keyFieldNames
+      type: System.String[]
+    - id: insertFunc
+      type: Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}
+    - id: updateFunc
+      type: Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}
+    - id: deleteFunc
+      type: Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}
+    - id: keyFieldDelim
+      type: System.Char
+    return:
+      type: Task{System.Boolean}
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function SyncAsync(me As System.Collections.Generic.Dictionary(Of String, Object)(), toRecords As System.Collections.Generic.Dictionary(Of String, Object)(), keyFieldNames As String(), insertFunc As Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), updateFunc As Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), deleteFunc As Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), keyFieldDelim As Char = ";"c) As Task(Of Boolean)
+  overload: Butterfly.Util.DictionaryX.SyncAsync*
+  nameWithType.vb: DictionaryX.SyncAsync(System.Collections.Generic.Dictionary(Of String, Object)(), System.Collections.Generic.Dictionary(Of String, Object)(), String(), Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Char)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary(Of System.String, System.Object)(), System.Collections.Generic.Dictionary(Of System.String, System.Object)(), System.String(), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), System.Char)
+  name.vb: SyncAsync(System.Collections.Generic.Dictionary(Of String, Object)(), System.Collections.Generic.Dictionary(Of String, Object)(), String(), Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Char)
+- uid: Butterfly.Util.DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},SemaphoreSlim,System.Char)
+  commentId: M:Butterfly.Util.DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},SemaphoreSlim,System.Char)
+  id: ConcurrentSyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},SemaphoreSlim,System.Char)
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: ConcurrentSyncAsync(System.Collections.Generic.Dictionary<String, Object>[], System.Collections.Generic.Dictionary<String, Object>[], String[], Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, SemaphoreSlim, Char)
+  nameWithType: DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary<String, Object>[], System.Collections.Generic.Dictionary<String, Object>[], String[], Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, SemaphoreSlim, Char)
+  fullName: Butterfly.Util.DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary<System.String, System.Object>[], System.Collections.Generic.Dictionary<System.String, System.Object>[], System.String[], Func<System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, Func<System.Collections.Generic.Dictionary<System.String, System.Object>, System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, Func<System.Collections.Generic.Dictionary<System.String, System.Object>, System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>, SemaphoreSlim, System.Char)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: ConcurrentSyncAsync
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 48
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static Task<Task<bool>[]> ConcurrentSyncAsync(this System.Collections.Generic.Dictionary<string, object>[] me, System.Collections.Generic.Dictionary<string, object>[] toRecords, string[] keyFieldNames, Func<System.Collections.Generic.Dictionary<string, object>, Task<bool>> insertFunc, Func<System.Collections.Generic.Dictionary<string, object>, System.Collections.Generic.Dictionary<string, object>, Task<bool>> updateFunc, Func<System.Collections.Generic.Dictionary<string, object>, System.Collections.Generic.Dictionary<string, object>, Task<bool>> deleteFunc, SemaphoreSlim semaphoreSlim, char keyFieldDelim = ';')
+    parameters:
+    - id: me
+      type: System.Collections.Generic.Dictionary{System.String,System.Object}[]
+    - id: toRecords
+      type: System.Collections.Generic.Dictionary{System.String,System.Object}[]
+    - id: keyFieldNames
+      type: System.String[]
+    - id: insertFunc
+      type: Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}
+    - id: updateFunc
+      type: Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}
+    - id: deleteFunc
+      type: Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}
+    - id: semaphoreSlim
+      type: SemaphoreSlim
+    - id: keyFieldDelim
+      type: System.Char
+    return:
+      type: Task{Task{System.Boolean}[]}
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function ConcurrentSyncAsync(me As System.Collections.Generic.Dictionary(Of String, Object)(), toRecords As System.Collections.Generic.Dictionary(Of String, Object)(), keyFieldNames As String(), insertFunc As Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), updateFunc As Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), deleteFunc As Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), semaphoreSlim As SemaphoreSlim, keyFieldDelim As Char = ";"c) As Task(Of Task(Of Boolean)())
+  overload: Butterfly.Util.DictionaryX.ConcurrentSyncAsync*
+  nameWithType.vb: DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary(Of String, Object)(), System.Collections.Generic.Dictionary(Of String, Object)(), String(), Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), SemaphoreSlim, Char)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.ConcurrentSyncAsync(System.Collections.Generic.Dictionary(Of System.String, System.Object)(), System.Collections.Generic.Dictionary(Of System.String, System.Object)(), System.String(), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean)), SemaphoreSlim, System.Char)
+  name.vb: ConcurrentSyncAsync(System.Collections.Generic.Dictionary(Of String, Object)(), System.Collections.Generic.Dictionary(Of String, Object)(), String(), Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean)), SemaphoreSlim, Char)
+- uid: Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary{System.String,System.Object},System.String[],System.Char,System.Boolean)
+  commentId: M:Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary{System.String,System.Object},System.String[],System.Char,System.Boolean)
+  id: GetKeyValue(System.Collections.Generic.Dictionary{System.String,System.Object},System.String[],System.Char,System.Boolean)
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: GetKeyValue(System.Collections.Generic.Dictionary<String, Object>, String[], Char, Boolean)
+  nameWithType: DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary<String, Object>, String[], Char, Boolean)
+  fullName: Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary<System.String, System.Object>, System.String[], System.Char, System.Boolean)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: GetKeyValue
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 85
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static object GetKeyValue(this System.Collections.Generic.Dictionary<string, object> me, string[] fieldNames, char delim = ';', bool throwErrorIfMissingKeyField = true)
+    parameters:
+    - id: me
+      type: System.Collections.Generic.Dictionary{System.String,System.Object}
+    - id: fieldNames
+      type: System.String[]
+    - id: delim
+      type: System.Char
+    - id: throwErrorIfMissingKeyField
+      type: System.Boolean
+    return:
+      type: System.Object
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function GetKeyValue(me As System.Collections.Generic.Dictionary(Of String, Object), fieldNames As String(), delim As Char = ";"c, throwErrorIfMissingKeyField As Boolean = True) As Object
+  overload: Butterfly.Util.DictionaryX.GetKeyValue*
+  nameWithType.vb: DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary(Of String, Object), String(), Char, Boolean)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary(Of System.String, System.Object), System.String(), System.Char, System.Boolean)
+  name.vb: GetKeyValue(System.Collections.Generic.Dictionary(Of String, Object), String(), Char, Boolean)
+- uid: Butterfly.Util.DictionaryX.ParseKeyValue(System.Object,System.String[],System.Char)
+  commentId: M:Butterfly.Util.DictionaryX.ParseKeyValue(System.Object,System.String[],System.Char)
+  id: ParseKeyValue(System.Object,System.String[],System.Char)
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: ParseKeyValue(Object, String[], Char)
+  nameWithType: DictionaryX.ParseKeyValue(Object, String[], Char)
+  fullName: Butterfly.Util.DictionaryX.ParseKeyValue(System.Object, System.String[], System.Char)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: ParseKeyValue
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 103
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static System.Collections.Generic.Dictionary<string, object> ParseKeyValue(object keyValue, string[] keyFieldNames, char delim = ';')
+    parameters:
+    - id: keyValue
+      type: System.Object
+    - id: keyFieldNames
+      type: System.String[]
+    - id: delim
+      type: System.Char
+    return:
+      type: System.Collections.Generic.Dictionary{System.String,System.Object}
+    content.vb: Public Shared Function ParseKeyValue(keyValue As Object, keyFieldNames As String(), delim As Char = ";"c) As System.Collections.Generic.Dictionary(Of String, Object)
+  overload: Butterfly.Util.DictionaryX.ParseKeyValue*
+  nameWithType.vb: DictionaryX.ParseKeyValue(Object, String(), Char)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.ParseKeyValue(System.Object, System.String(), System.Char)
+  name.vb: ParseKeyValue(Object, String(), Char)
+- uid: Butterfly.Util.DictionaryX.ContainsAnyKey``2(Dictionary{``0,``1},``0[])
+  commentId: M:Butterfly.Util.DictionaryX.ContainsAnyKey``2(Dictionary{``0,``1},``0[])
+  id: ContainsAnyKey``2(Dictionary{``0,``1},``0[])
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: ContainsAnyKey<T, U>(Dictionary<T, U>, T[])
+  nameWithType: DictionaryX.ContainsAnyKey<T, U>(Dictionary<T, U>, T[])
+  fullName: Butterfly.Util.DictionaryX.ContainsAnyKey<T, U>(Dictionary<T, U>, T[])
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: ContainsAnyKey
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 121
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static bool ContainsAnyKey<T, U>(this Dictionary<T, U> me, T[] keys)
+    parameters:
+    - id: me
+      type: Dictionary{{T},{U}}
+    - id: keys
+      type: '{T}[]'
+    typeParameters:
+    - id: T
+    - id: U
+    return:
+      type: System.Boolean
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function ContainsAnyKey(Of T, U)(me As Dictionary(Of T, U), keys As T()) As Boolean
+  overload: Butterfly.Util.DictionaryX.ContainsAnyKey*
+  nameWithType.vb: DictionaryX.ContainsAnyKey(Of T, U)(Dictionary(Of T, U), T())
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.ContainsAnyKey(Of T, U)(Dictionary(Of T, U), T())
+  name.vb: ContainsAnyKey(Of T, U)(Dictionary(Of T, U), T())
+- uid: Butterfly.Util.DictionaryX.ContainsAllKeys``2(Dictionary{``0,``1},``0[])
+  commentId: M:Butterfly.Util.DictionaryX.ContainsAllKeys``2(Dictionary{``0,``1},``0[])
+  id: ContainsAllKeys``2(Dictionary{``0,``1},``0[])
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: ContainsAllKeys<T, U>(Dictionary<T, U>, T[])
+  nameWithType: DictionaryX.ContainsAllKeys<T, U>(Dictionary<T, U>, T[])
+  fullName: Butterfly.Util.DictionaryX.ContainsAllKeys<T, U>(Dictionary<T, U>, T[])
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: ContainsAllKeys
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 128
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static bool ContainsAllKeys<T, U>(this Dictionary<T, U> me, T[] keys)
+    parameters:
+    - id: me
+      type: Dictionary{{T},{U}}
+    - id: keys
+      type: '{T}[]'
+    typeParameters:
+    - id: T
+    - id: U
+    return:
+      type: System.Boolean
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function ContainsAllKeys(Of T, U)(me As Dictionary(Of T, U), keys As T()) As Boolean
+  overload: Butterfly.Util.DictionaryX.ContainsAllKeys*
+  nameWithType.vb: DictionaryX.ContainsAllKeys(Of T, U)(Dictionary(Of T, U), T())
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.ContainsAllKeys(Of T, U)(Dictionary(Of T, U), T())
+  name.vb: ContainsAllKeys(Of T, U)(Dictionary(Of T, U), T())
+- uid: Butterfly.Util.DictionaryX.ToString``2(Dictionary{``0,``1},System.String,System.String)
+  commentId: M:Butterfly.Util.DictionaryX.ToString``2(Dictionary{``0,``1},System.String,System.String)
+  id: ToString``2(Dictionary{``0,``1},System.String,System.String)
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: ToString<T, U>(Dictionary<T, U>, String, String)
+  nameWithType: DictionaryX.ToString<T, U>(Dictionary<T, U>, String, String)
+  fullName: Butterfly.Util.DictionaryX.ToString<T, U>(Dictionary<T, U>, System.String, System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: ToString
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 135
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static string ToString<T, U>(this Dictionary<T, U> me, string keyValueDelim, string itemDelim)
+    parameters:
+    - id: me
+      type: Dictionary{{T},{U}}
+    - id: keyValueDelim
+      type: System.String
+    - id: itemDelim
+      type: System.String
+    typeParameters:
+    - id: T
+    - id: U
+    return:
+      type: System.String
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function ToString(Of T, U)(me As Dictionary(Of T, U), keyValueDelim As String, itemDelim As String) As String
+  overload: Butterfly.Util.DictionaryX.ToString*
+  nameWithType.vb: DictionaryX.ToString(Of T, U)(Dictionary(Of T, U), String, String)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.ToString(Of T, U)(Dictionary(Of T, U), System.String, System.String)
+  name.vb: ToString(Of T, U)(Dictionary(Of T, U), String, String)
+- uid: Butterfly.Util.DictionaryX.GetAs``3(Dictionary{``0,``1},``0,``2)
+  commentId: M:Butterfly.Util.DictionaryX.GetAs``3(Dictionary{``0,``1},``0,``2)
+  id: GetAs``3(Dictionary{``0,``1},``0,``2)
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: GetAs<T, U, V>(Dictionary<T, U>, T, V)
+  nameWithType: DictionaryX.GetAs<T, U, V>(Dictionary<T, U>, T, V)
+  fullName: Butterfly.Util.DictionaryX.GetAs<T, U, V>(Dictionary<T, U>, T, V)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: GetAs
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 161
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  summary: "\nRetrieves a value from a <code data-dev-comment-type=\"paramref\" class=\"paramref\">me</code> (or return the <code data-dev-comment-type=\"paramref\" class=\"paramref\">defaultValue</code> if missing or null).<p></p>\n"
+  example:
+  - "\n<pre><code>// Prints &quot;test&quot;\nConsole.WriteLine(new Dict{ [&quot;text&quot;] = &quot;test&quot; }.GetAs(&quot;text&quot;, &quot;&quot;));\n\n// Prints &quot;other&quot;\nConsole.WriteLine(new Dict{ }.GetAs(&quot;text&quot;, &quot;other&quot;));\n\n// Prints 2\nConsole.WriteLine(new Dict{ [&quot;number&quot;] = &quot;2&quot; }.GetAs(&quot;number&quot;, -1));</code></pre>\n"
+  syntax:
+    content: public static V GetAs<T, U, V>(this Dictionary<T, U> me, T key, V defaultValue)
+    parameters:
+    - id: me
+      type: Dictionary{{T},{U}}
+      description: Source dictionary
+    - id: key
+      type: '{T}'
+      description: Key of the desired value in dictionary
+    - id: defaultValue
+      type: '{V}'
+      description: Default value if value is null
+    typeParameters:
+    - id: T
+      description: Dictionary key type
+    - id: U
+      description: Dictionary value type
+    - id: V
+      description: Return type
+    return:
+      type: '{V}'
+      description: A value of type V
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function GetAs(Of T, U, V)(me As Dictionary(Of T, U), key As T, defaultValue As V) As V
+  overload: Butterfly.Util.DictionaryX.GetAs*
+  nameWithType.vb: DictionaryX.GetAs(Of T, U, V)(Dictionary(Of T, U), T, V)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.GetAs(Of T, U, V)(Dictionary(Of T, U), T, V)
+  name.vb: GetAs(Of T, U, V)(Dictionary(Of T, U), T, V)
+- uid: Butterfly.Util.DictionaryX.Deconstruct``2(KeyValuePair{``0,``1},``0@,``1@)
+  commentId: M:Butterfly.Util.DictionaryX.Deconstruct``2(KeyValuePair{``0,``1},``0@,``1@)
+  id: Deconstruct``2(KeyValuePair{``0,``1},``0@,``1@)
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: Deconstruct<T1, T2>(KeyValuePair<T1, T2>, out T1, out T2)
+  nameWithType: DictionaryX.Deconstruct<T1, T2>(KeyValuePair<T1, T2>, out T1, out T2)
+  fullName: Butterfly.Util.DictionaryX.Deconstruct<T1, T2>(KeyValuePair<T1, T2>, out T1, out T2)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: Deconstruct
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 196
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static void Deconstruct<T1, T2>(this KeyValuePair<T1, T2> tuple, out T1 key, out T2 value)
+    parameters:
+    - id: tuple
+      type: KeyValuePair{{T1},{T2}}
+    - id: key
+      type: '{T1}'
+    - id: value
+      type: '{T2}'
+    typeParameters:
+    - id: T1
+    - id: T2
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Sub Deconstruct(Of T1, T2)(tuple As KeyValuePair(Of T1, T2), ByRef key As T1, ByRef value As T2)
+  overload: Butterfly.Util.DictionaryX.Deconstruct*
+  nameWithType.vb: DictionaryX.Deconstruct(Of T1, T2)(KeyValuePair(Of T1, T2), ByRef T1, ByRef T2)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.Deconstruct(Of T1, T2)(KeyValuePair(Of T1, T2), ByRef T1, ByRef T2)
+  name.vb: Deconstruct(Of T1, T2)(KeyValuePair(Of T1, T2), ByRef T1, ByRef T2)
+- uid: Butterfly.Util.DictionaryX.UpdateFrom``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  commentId: M:Butterfly.Util.DictionaryX.UpdateFrom``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  id: UpdateFrom``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: UpdateFrom<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  nameWithType: DictionaryX.UpdateFrom<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  fullName: Butterfly.Util.DictionaryX.UpdateFrom<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: UpdateFrom
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 201
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static Dictionary<T, U> UpdateFrom<T, U>(this Dictionary<T, U> me, Dictionary<T, U> from)
+    parameters:
+    - id: me
+      type: Dictionary{{T},{U}}
+    - id: from
+      type: Dictionary{{T},{U}}
+    typeParameters:
+    - id: T
+    - id: U
+    return:
+      type: Dictionary{{T},{U}}
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function UpdateFrom(Of T, U)(me As Dictionary(Of T, U), from As Dictionary(Of T, U)) As Dictionary(Of T, U)
+  overload: Butterfly.Util.DictionaryX.UpdateFrom*
+  nameWithType.vb: DictionaryX.UpdateFrom(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.UpdateFrom(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+  name.vb: UpdateFrom(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+- uid: Butterfly.Util.DictionaryX.IsSame``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  commentId: M:Butterfly.Util.DictionaryX.IsSame``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  id: IsSame``2(Dictionary{``0,``1},Dictionary{``0,``1})
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: IsSame<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  nameWithType: DictionaryX.IsSame<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  fullName: Butterfly.Util.DictionaryX.IsSame<T, U>(Dictionary<T, U>, Dictionary<T, U>)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: IsSame
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 210
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static bool IsSame<T, U>(this Dictionary<T, U> me, Dictionary<T, U> other)
+    parameters:
+    - id: me
+      type: Dictionary{{T},{U}}
+    - id: other
+      type: Dictionary{{T},{U}}
+    typeParameters:
+    - id: T
+    - id: U
+    return:
+      type: System.Boolean
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function IsSame(Of T, U)(me As Dictionary(Of T, U), other As Dictionary(Of T, U)) As Boolean
+  overload: Butterfly.Util.DictionaryX.IsSame*
+  nameWithType.vb: DictionaryX.IsSame(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.IsSame(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+  name.vb: IsSame(Of T, U)(Dictionary(Of T, U), Dictionary(Of T, U))
+- uid: Butterfly.Util.DictionaryX.Format(Dictionary{System.String,System.Object},System.String,System.String,System.String)
+  commentId: M:Butterfly.Util.DictionaryX.Format(Dictionary{System.String,System.Object},System.String,System.String,System.String)
+  id: Format(Dictionary{System.String,System.Object},System.String,System.String,System.String)
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: Format(Dictionary<String, Object>, String, String, String)
+  nameWithType: DictionaryX.Format(Dictionary<String, Object>, String, String, String)
+  fullName: Butterfly.Util.DictionaryX.Format(Dictionary<System.String, System.Object>, System.String, System.String, System.String)
+  type: Method
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+    id: Format
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 231
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static string Format(this Dictionary<string, object> dictionary, string format, string paramOpenDelim = "{", string paramCloseDelim = "}")
+    parameters:
+    - id: dictionary
+      type: Dictionary{System.String,System.Object}
+    - id: format
+      type: System.String
+    - id: paramOpenDelim
+      type: System.String
+    - id: paramCloseDelim
+      type: System.String
+    return:
+      type: System.String
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function Format(dictionary As Dictionary(Of String, Object), format As String, paramOpenDelim As String = "{", paramCloseDelim As String = "}") As String
+  overload: Butterfly.Util.DictionaryX.Format*
+  nameWithType.vb: DictionaryX.Format(Dictionary(Of String, Object), String, String, String)
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.Format(Dictionary(Of System.String, System.Object), System.String, System.String, System.String)
+  name.vb: Format(Dictionary(Of String, Object), String, String, String)
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: Butterfly.Util.DictionaryX.SyncAsync*
+  commentId: Overload:Butterfly.Util.DictionaryX.SyncAsync
+  name: SyncAsync
+  nameWithType: DictionaryX.SyncAsync
+  fullName: Butterfly.Util.DictionaryX.SyncAsync
+- uid: System.Collections.Generic.Dictionary{System.String,System.Object}[]
+  isExternal: true
+  name: System.Collections.Generic.Dictionary<String, Object>[]
+  nameWithType: System.Collections.Generic.Dictionary<String, Object>[]
+  fullName: System.Collections.Generic.Dictionary<System.String, System.Object>[]
+  nameWithType.vb: System.Collections.Generic.Dictionary(Of String, Object)()
+  fullName.vb: System.Collections.Generic.Dictionary(Of System.String, System.Object)()
+  name.vb: System.Collections.Generic.Dictionary(Of String, Object)()
+  spec.csharp:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  - name: '[]'
+    nameWithType: '[]'
+    fullName: '[]'
+  spec.vb:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+  - name: ()
+    nameWithType: ()
+    fullName: ()
+- uid: System.String[]
+  isExternal: true
+  name: String[]
+  nameWithType: String[]
+  fullName: System.String[]
+  nameWithType.vb: String()
+  fullName.vb: System.String()
+  name.vb: String()
+  spec.csharp:
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: '[]'
+    nameWithType: '[]'
+    fullName: '[]'
+  spec.vb:
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ()
+    nameWithType: ()
+    fullName: ()
+- uid: Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}
+  commentId: '!:Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}'
+  definition: Func`2
+  name: Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>
+  nameWithType: Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>
+  fullName: Func<System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>
+  nameWithType.vb: Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean))
+  fullName.vb: Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean))
+  name.vb: Func(Of System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean))
+  spec.csharp:
+  - uid: Func`2
+    name: Func
+    nameWithType: Func
+    fullName: Func
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Func`2
+    name: Func
+    nameWithType: Func
+    fullName: Func
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}
+  commentId: '!:Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}}'
+  definition: Func`3
+  name: Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>
+  nameWithType: Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>
+  fullName: Func<System.Collections.Generic.Dictionary<System.String, System.Object>, System.Collections.Generic.Dictionary<System.String, System.Object>, Task<System.Boolean>>
+  nameWithType.vb: Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean))
+  fullName.vb: Func(Of System.Collections.Generic.Dictionary(Of System.String, System.Object), System.Collections.Generic.Dictionary(Of System.String, System.Object), Task(Of System.Boolean))
+  name.vb: Func(Of System.Collections.Generic.Dictionary(Of String, Object), System.Collections.Generic.Dictionary(Of String, Object), Task(Of Boolean))
+  spec.csharp:
+  - uid: Func`3
+    name: Func
+    nameWithType: Func
+    fullName: Func
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Func`3
+    name: Func
+    nameWithType: Func
+    fullName: Func
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Char
+  isExternal: true
+  name: Char
+  nameWithType: Char
+  fullName: System.Char
+- uid: Task{System.Boolean}
+  commentId: '!:Task{System.Boolean}'
+  definition: Task`1
+  name: Task<Boolean>
+  nameWithType: Task<Boolean>
+  fullName: Task<System.Boolean>
+  nameWithType.vb: Task(Of Boolean)
+  fullName.vb: Task(Of System.Boolean)
+  name.vb: Task(Of Boolean)
+  spec.csharp:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Func`2
+  isExternal: true
+  name: Func<, >
+  nameWithType: Func<, >
+  fullName: Func<, >
+  nameWithType.vb: Func(Of , )
+  fullName.vb: Func(Of , )
+  name.vb: Func(Of , )
+  spec.csharp:
+  - uid: Func`2
+    name: Func
+    nameWithType: Func
+    fullName: Func
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Func`2
+    name: Func
+    nameWithType: Func
+    fullName: Func
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Func`3
+  isExternal: true
+  name: Func<, , >
+  nameWithType: Func<, , >
+  fullName: Func<, , >
+  nameWithType.vb: Func(Of , , )
+  fullName.vb: Func(Of , , )
+  name.vb: Func(Of , , )
+  spec.csharp:
+  - uid: Func`3
+    name: Func
+    nameWithType: Func
+    fullName: Func
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Func`3
+    name: Func
+    nameWithType: Func
+    fullName: Func
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Task`1
+  isExternal: true
+  name: Task<>
+  nameWithType: Task<>
+  fullName: Task<>
+  nameWithType.vb: Task(Of )
+  fullName.vb: Task(Of )
+  name.vb: Task(Of )
+  spec.csharp:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Butterfly.Util.DictionaryX.ConcurrentSyncAsync*
+  commentId: Overload:Butterfly.Util.DictionaryX.ConcurrentSyncAsync
+  name: ConcurrentSyncAsync
+  nameWithType: DictionaryX.ConcurrentSyncAsync
+  fullName: Butterfly.Util.DictionaryX.ConcurrentSyncAsync
+- uid: SemaphoreSlim
+  commentId: '!:SemaphoreSlim'
+  isExternal: true
+  name: SemaphoreSlim
+  nameWithType: SemaphoreSlim
+  fullName: SemaphoreSlim
+- uid: Task{Task{System.Boolean}[]}
+  commentId: '!:Task{Task{System.Boolean}[]}'
+  definition: Task`1
+  name: Task<Task<Boolean>[]>
+  nameWithType: Task<Task<Boolean>[]>
+  fullName: Task<Task<System.Boolean>[]>
+  nameWithType.vb: Task(Of Task(Of Boolean)())
+  fullName.vb: Task(Of Task(Of System.Boolean)())
+  name.vb: Task(Of Task(Of Boolean)())
+  spec.csharp:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  - name: '[]'
+    nameWithType: '[]'
+    fullName: '[]'
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+  - name: ()
+    nameWithType: ()
+    fullName: ()
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Butterfly.Util.DictionaryX.GetKeyValue*
+  commentId: Overload:Butterfly.Util.DictionaryX.GetKeyValue
+  name: GetKeyValue
+  nameWithType: DictionaryX.GetKeyValue
+  fullName: Butterfly.Util.DictionaryX.GetKeyValue
+- uid: System.Collections.Generic.Dictionary{System.String,System.Object}
+  commentId: '!:System.Collections.Generic.Dictionary{System.String,System.Object}'
+  definition: System.Collections.Generic.Dictionary`2
+  name: System.Collections.Generic.Dictionary<String, Object>
+  nameWithType: System.Collections.Generic.Dictionary<String, Object>
+  fullName: System.Collections.Generic.Dictionary<System.String, System.Object>
+  nameWithType.vb: System.Collections.Generic.Dictionary(Of String, Object)
+  fullName.vb: System.Collections.Generic.Dictionary(Of System.String, System.Object)
+  name.vb: System.Collections.Generic.Dictionary(Of String, Object)
+  spec.csharp:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: System.Boolean
+  isExternal: true
+  name: Boolean
+  nameWithType: Boolean
+  fullName: System.Boolean
+- uid: System.Collections.Generic.Dictionary`2
+  isExternal: true
+  name: System.Collections.Generic.Dictionary<, >
+  nameWithType: System.Collections.Generic.Dictionary<, >
+  fullName: System.Collections.Generic.Dictionary<, >
+  nameWithType.vb: System.Collections.Generic.Dictionary(Of , )
+  fullName.vb: System.Collections.Generic.Dictionary(Of , )
+  name.vb: System.Collections.Generic.Dictionary(Of , )
+  spec.csharp:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: System.Collections.Generic.Dictionary`2
+    name: System.Collections.Generic.Dictionary
+    nameWithType: System.Collections.Generic.Dictionary
+    fullName: System.Collections.Generic.Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Butterfly.Util.DictionaryX.ParseKeyValue*
+  commentId: Overload:Butterfly.Util.DictionaryX.ParseKeyValue
+  name: ParseKeyValue
+  nameWithType: DictionaryX.ParseKeyValue
+  fullName: Butterfly.Util.DictionaryX.ParseKeyValue
+- uid: Butterfly.Util.DictionaryX.ContainsAnyKey*
+  commentId: Overload:Butterfly.Util.DictionaryX.ContainsAnyKey
+  name: ContainsAnyKey
+  nameWithType: DictionaryX.ContainsAnyKey
+  fullName: Butterfly.Util.DictionaryX.ContainsAnyKey
+- uid: Dictionary{{T},{U}}
+  commentId: '!:Dictionary{`0,`1}'
+  definition: Dictionary`2
+  name: Dictionary<T, U>
+  nameWithType: Dictionary<T, U>
+  fullName: Dictionary<T, U>
+  nameWithType.vb: Dictionary(Of T, U)
+  fullName.vb: Dictionary(Of T, U)
+  name.vb: Dictionary(Of T, U)
+  spec.csharp:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: U
+    nameWithType: U
+    fullName: U
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: U
+    nameWithType: U
+    fullName: U
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: '{T}[]'
+  isExternal: true
+  name: T[]
+  nameWithType: T[]
+  fullName: T[]
+  nameWithType.vb: T()
+  fullName.vb: T()
+  name.vb: T()
+  spec.csharp:
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: '[]'
+    nameWithType: '[]'
+    fullName: '[]'
+  spec.vb:
+  - name: T
+    nameWithType: T
+    fullName: T
+  - name: ()
+    nameWithType: ()
+    fullName: ()
+- uid: Dictionary`2
+  isExternal: true
+  name: Dictionary<, >
+  nameWithType: Dictionary<, >
+  fullName: Dictionary<, >
+  nameWithType.vb: Dictionary(Of , )
+  fullName.vb: Dictionary(Of , )
+  name.vb: Dictionary(Of , )
+  spec.csharp:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Butterfly.Util.DictionaryX.ContainsAllKeys*
+  commentId: Overload:Butterfly.Util.DictionaryX.ContainsAllKeys
+  name: ContainsAllKeys
+  nameWithType: DictionaryX.ContainsAllKeys
+  fullName: Butterfly.Util.DictionaryX.ContainsAllKeys
+- uid: Butterfly.Util.DictionaryX.ToString*
+  commentId: Overload:Butterfly.Util.DictionaryX.ToString
+  name: ToString
+  nameWithType: DictionaryX.ToString
+  fullName: Butterfly.Util.DictionaryX.ToString
+- uid: System.String
+  isExternal: true
+  name: String
+  nameWithType: String
+  fullName: System.String
+- uid: Butterfly.Util.DictionaryX.GetAs*
+  commentId: Overload:Butterfly.Util.DictionaryX.GetAs
+  name: GetAs
+  nameWithType: DictionaryX.GetAs
+  fullName: Butterfly.Util.DictionaryX.GetAs
+- uid: '{T}'
+  commentId: '!:T'
+  definition: T
+  name: T
+  nameWithType: T
+  fullName: T
+- uid: '{V}'
+  commentId: '!:V'
+  definition: V
+  name: V
+  nameWithType: V
+  fullName: V
+- uid: T
+  name: T
+  nameWithType: T
+  fullName: T
+- uid: V
+  name: V
+  nameWithType: V
+  fullName: V
+- uid: Butterfly.Util.DictionaryX.Deconstruct*
+  commentId: Overload:Butterfly.Util.DictionaryX.Deconstruct
+  name: Deconstruct
+  nameWithType: DictionaryX.Deconstruct
+  fullName: Butterfly.Util.DictionaryX.Deconstruct
+- uid: KeyValuePair{{T1},{T2}}
+  commentId: '!:KeyValuePair{``0,``1}'
+  definition: KeyValuePair`2
+  name: KeyValuePair<T1, T2>
+  nameWithType: KeyValuePair<T1, T2>
+  fullName: KeyValuePair<T1, T2>
+  nameWithType.vb: KeyValuePair(Of T1, T2)
+  fullName.vb: KeyValuePair(Of T1, T2)
+  name.vb: KeyValuePair(Of T1, T2)
+  spec.csharp:
+  - uid: KeyValuePair`2
+    name: KeyValuePair
+    nameWithType: KeyValuePair
+    fullName: KeyValuePair
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: T1
+    nameWithType: T1
+    fullName: T1
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: T2
+    nameWithType: T2
+    fullName: T2
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: KeyValuePair`2
+    name: KeyValuePair
+    nameWithType: KeyValuePair
+    fullName: KeyValuePair
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: T1
+    nameWithType: T1
+    fullName: T1
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: T2
+    nameWithType: T2
+    fullName: T2
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: '{T1}'
+  commentId: '!:T1'
+  definition: T1
+  name: T1
+  nameWithType: T1
+  fullName: T1
+- uid: '{T2}'
+  commentId: '!:T2'
+  definition: T2
+  name: T2
+  nameWithType: T2
+  fullName: T2
+- uid: KeyValuePair`2
+  commentId: '!:KeyValuePair`2'
+  isExternal: true
+  name: KeyValuePair<, >
+  nameWithType: KeyValuePair<, >
+  fullName: KeyValuePair<, >
+  nameWithType.vb: KeyValuePair(Of , )
+  fullName.vb: KeyValuePair(Of , )
+  name.vb: KeyValuePair(Of , )
+  spec.csharp:
+  - uid: KeyValuePair`2
+    name: KeyValuePair
+    nameWithType: KeyValuePair
+    fullName: KeyValuePair
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: KeyValuePair`2
+    name: KeyValuePair
+    nameWithType: KeyValuePair
+    fullName: KeyValuePair
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: T1
+  commentId: '!:T1'
+  name: T1
+  nameWithType: T1
+  fullName: T1
+- uid: T2
+  commentId: '!:T2'
+  name: T2
+  nameWithType: T2
+  fullName: T2
+- uid: Butterfly.Util.DictionaryX.UpdateFrom*
+  commentId: Overload:Butterfly.Util.DictionaryX.UpdateFrom
+  name: UpdateFrom
+  nameWithType: DictionaryX.UpdateFrom
+  fullName: Butterfly.Util.DictionaryX.UpdateFrom
+- uid: Butterfly.Util.DictionaryX.IsSame*
+  commentId: Overload:Butterfly.Util.DictionaryX.IsSame
+  name: IsSame
+  nameWithType: DictionaryX.IsSame
+  fullName: Butterfly.Util.DictionaryX.IsSame
+- uid: Butterfly.Util.DictionaryX.Format*
+  commentId: Overload:Butterfly.Util.DictionaryX.Format
+  name: Format
+  nameWithType: DictionaryX.Format
+  fullName: Butterfly.Util.DictionaryX.Format
+- uid: Dictionary{System.String,System.Object}
+  commentId: '!:Dictionary{System.String,System.Object}'
+  definition: Dictionary`2
+  name: Dictionary<String, Object>
+  nameWithType: Dictionary<String, Object>
+  fullName: Dictionary<System.String, System.Object>
+  nameWithType.vb: Dictionary(Of String, Object)
+  fullName.vb: Dictionary(Of System.String, System.Object)
+  name.vb: Dictionary(Of String, Object)
+  spec.csharp:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Dictionary`2
+    name: Dictionary
+    nameWithType: Dictionary
+    fullName: Dictionary
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: ', '
+    nameWithType: ', '
+    fullName: ', '
+  - uid: System.Object
+    name: Object
+    nameWithType: Object
+    fullName: System.Object
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+shouldSkipMarkup: true

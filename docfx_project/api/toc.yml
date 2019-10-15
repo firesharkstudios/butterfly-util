@@ -1,0 +1,82 @@
+### YamlMime:TableOfContent
+- uid: Butterfly.Util
+  name: Butterfly.Util
+  items:
+  - uid: Butterfly.Util.CleverNameX
+    name: CleverNameX
+  - uid: Butterfly.Util.CommandLineUtil
+    name: CommandLineUtil
+  - uid: Butterfly.Util.ConsoleUtil
+    name: ConsoleUtil
+  - uid: Butterfly.Util.DateTimeX
+    name: DateTimeX
+  - uid: Butterfly.Util.DictionaryItemDisposable`2
+    name: DictionaryItemDisposable<T, U>
+    name.vb: DictionaryItemDisposable(Of T, U)
+  - uid: Butterfly.Util.DictionaryX
+    name: DictionaryX
+  - uid: Butterfly.Util.DynamicX
+    name: DynamicX
+  - uid: Butterfly.Util.EnvironmentX
+    name: EnvironmentX
+  - uid: Butterfly.Util.FileX
+    name: FileX
+  - uid: Butterfly.Util.IEnumerableX
+    name: IEnumerableX
+  - uid: Butterfly.Util.JsonUtil
+    name: JsonUtil
+  - uid: Butterfly.Util.ListItemDisposable`1
+    name: ListItemDisposable<T>
+    name.vb: ListItemDisposable(Of T)
+  - uid: Butterfly.Util.NameValueCollectionX
+    name: NameValueCollectionX
+  - uid: Butterfly.Util.PermissionDeniedException
+    name: PermissionDeniedException
+  - uid: Butterfly.Util.ProcessX
+    name: ProcessX
+  - uid: Butterfly.Util.RandomUtil
+    name: RandomUtil
+  - uid: Butterfly.Util.RunEvery
+    name: RunEvery
+  - uid: Butterfly.Util.SafeUtil
+    name: SafeUtil
+  - uid: Butterfly.Util.SecureUtil
+    name: SecureUtil
+  - uid: Butterfly.Util.SlugUtil
+    name: SlugUtil
+  - uid: Butterfly.Util.StringX
+    name: StringX
+  - uid: Butterfly.Util.StructuredParser
+    name: StructuredParser
+  - uid: Butterfly.Util.StructuredParser.Token
+    name: StructuredParser.Token
+  - uid: Butterfly.Util.Throttle
+    name: Throttle
+  - uid: Butterfly.Util.UnauthorizedException
+    name: UnauthorizedException
+  - uid: Butterfly.Util.UriX
+    name: UriX
+  - uid: Butterfly.Util.WebClientWithTimeout
+    name: WebClientWithTimeout
+- uid: Butterfly.Util.Field
+  name: Butterfly.Util.Field
+  items:
+  - uid: Butterfly.Util.Field.EmailFieldValidator
+    name: EmailFieldValidator
+  - uid: Butterfly.Util.Field.GenericFieldValidator
+    name: GenericFieldValidator
+  - uid: Butterfly.Util.Field.IFieldValidator
+    name: IFieldValidator
+  - uid: Butterfly.Util.Field.PhoneFieldValidator
+    name: PhoneFieldValidator
+  - uid: Butterfly.Util.Field.TextFieldValidator
+    name: TextFieldValidator
+- uid: Butterfly.Util.Job
+  name: Butterfly.Util.Job
+  items:
+  - uid: Butterfly.Util.Job.IJob
+    name: IJob
+  - uid: Butterfly.Util.Job.JobData
+    name: JobData
+  - uid: Butterfly.Util.Job.JobManager
+    name: JobManager

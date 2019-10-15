@@ -1,0 +1,83 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.PermissionDeniedException
+  commentId: T:Butterfly.Util.PermissionDeniedException
+  id: PermissionDeniedException
+  parent: Butterfly.Util
+  children:
+  - Butterfly.Util.PermissionDeniedException.#ctor
+  langs:
+  - csharp
+  - vb
+  name: PermissionDeniedException
+  nameWithType: PermissionDeniedException
+  fullName: Butterfly.Util.PermissionDeniedException
+  type: Class
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/UnauthorizedException.cs
+    id: PermissionDeniedException
+    path: ../Butterfly.Util/UnauthorizedException.cs
+    startLine: 12
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: 'public class PermissionDeniedException : Exception'
+    content.vb: >-
+      Public Class PermissionDeniedException
+          Inherits Exception
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - class
+  modifiers.vb:
+  - Public
+  - Class
+- uid: Butterfly.Util.PermissionDeniedException.#ctor
+  commentId: M:Butterfly.Util.PermissionDeniedException.#ctor
+  id: '#ctor'
+  parent: Butterfly.Util.PermissionDeniedException
+  langs:
+  - csharp
+  - vb
+  name: PermissionDeniedException()
+  nameWithType: PermissionDeniedException.PermissionDeniedException()
+  fullName: Butterfly.Util.PermissionDeniedException.PermissionDeniedException()
+  type: Constructor
+  source:
+    remote:
+      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/UnauthorizedException.cs
+    id: .ctor
+    path: ../Butterfly.Util/UnauthorizedException.cs
+    startLine: 13
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public PermissionDeniedException()
+    content.vb: Public Sub New
+  overload: Butterfly.Util.PermissionDeniedException.#ctor*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+references:
+- uid: Butterfly.Util
+  commentId: N:Butterfly.Util
+  name: Butterfly.Util
+  nameWithType: Butterfly.Util
+  fullName: Butterfly.Util
+- uid: System.Object
+  commentId: T:System.Object
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: Butterfly.Util.PermissionDeniedException.#ctor*
+  commentId: Overload:Butterfly.Util.PermissionDeniedException.#ctor
+  name: PermissionDeniedException
+  nameWithType: PermissionDeniedException.PermissionDeniedException
+  fullName: Butterfly.Util.PermissionDeniedException.PermissionDeniedException
+shouldSkipMarkup: true
