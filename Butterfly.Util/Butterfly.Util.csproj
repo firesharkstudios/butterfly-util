@@ -24,7 +24,7 @@
   <ItemGroup>
     <PackageReference Include="NLog" Version="4.6.7" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
-    <PackageReference Include="libphonenumber-csharp" Version="8.10.20" />
+    <PackageReference Include="libphonenumber-csharp" Version="8.10.21" />
     <PackageReference Include="Microsoft.CSharp" Version="4.6.0" />
   </ItemGroup>
 
