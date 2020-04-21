@@ -17,18 +17,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Butterfly.Util.CommandLineUtil.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Butterfly.Util.CommandLineUtil.html",
-          "hash": "J7UXmrrJF6ws/hCLCrf8YA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/Butterfly.Util.ConsoleUtil.yml",
       "output": {
         ".html": {
@@ -69,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Butterfly.Util.DictionaryX.html",
-          "hash": "xDpjq/5m3t9tP+Per3myhQ=="
+          "hash": "PiXyvJi6QGkEY6mHf7UiQQ=="
         }
       },
       "is_incremental": false,
@@ -132,7 +120,7 @@
           "hash": "I983SNu2QoBhWekrPOC2jw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -177,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Butterfly.Util.FileX.html",
-          "hash": "QHrWHOETQ/Ch+NDqWe5NrA=="
+          "hash": "Ym0V6UQmIOq+DRQog8q0AQ=="
         }
       },
       "is_incremental": false,
@@ -190,54 +178,6 @@
         ".html": {
           "relative_path": "api/Butterfly.Util.IEnumerableX.html",
           "hash": "Q9npDhe43fK55/qdM0be4Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Butterfly.Util.Job.IJob.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Butterfly.Util.Job.IJob.html",
-          "hash": "OVZIpbnRsR8xvhiIwoD6JA=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Butterfly.Util.Job.JobData.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Butterfly.Util.Job.JobData.html",
-          "hash": "9TLlaD5x293BikIijbu8TQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Butterfly.Util.Job.JobManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Butterfly.Util.Job.JobManager.html",
-          "hash": "ttCyl/lfx9yCmcEybAQ1MA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Butterfly.Util.Job.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Butterfly.Util.Job.html",
-          "hash": "l759smB5+iGtbAlMcIyh3Q=="
         }
       },
       "is_incremental": false,
@@ -341,11 +281,47 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Butterfly.Util.SecureUtil.yml",
+      "source_relative_path": "api/Butterfly.Util.ScheduledJob.IScheduledJob.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Butterfly.Util.SecureUtil.html",
-          "hash": "vVVKyiQNExU1TDvSaupttw=="
+          "relative_path": "api/Butterfly.Util.ScheduledJob.IScheduledJob.html",
+          "hash": "3VB1MaZX+OBj0xITi/Zzyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Butterfly.Util.ScheduledJob.JobData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Butterfly.Util.ScheduledJob.JobData.html",
+          "hash": "ghxpG/7z0gFgJsFi3KCcOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Butterfly.Util.ScheduledJob.ScheduledJobManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html",
+          "hash": "USQoNNtfCQzxPaSz0uDGZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Butterfly.Util.ScheduledJob.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Butterfly.Util.ScheduledJob.html",
+          "hash": "AHOC6l0L3qTio0ifVpDEzA=="
         }
       },
       "is_incremental": false,
@@ -453,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Butterfly.Util.html",
-          "hash": "1N+pE7KlDgOdXpjr31oFag=="
+          "hash": "3wY1qD8msh5ULyzf2tujRw=="
         }
       },
       "is_incremental": false,
@@ -468,7 +444,7 @@
           "hash": "Sen2qGv2X7XpYAkrSEOgtQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -477,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "F3iPKiIG+Giq8UrvXgHcdA=="
+          "hash": "RSB9Sw9p/NYH3WTdmvZRVw=="
         }
       },
       "is_incremental": false,
@@ -528,18 +504,12 @@
         "skipped_file_count": 0
       },
       "processors": {
-        "ResourceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
-          "incrementalPhase": "build",
-          "total_file_count": 38,
-          "skipped_file_count": 5
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
@@ -547,9 +517,15 @@
           "total_file_count": 2,
           "skipped_file_count": 2
         },
-        "TocDocumentProcessor": {
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 36,
+          "skipped_file_count": 1
+        },
+        "ResourceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0

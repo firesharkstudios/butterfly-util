@@ -38,41 +38,6 @@ references:
   isSpec: "True"
   fullName: Butterfly.Util.CleverNameX.Generate
   nameWithType: CleverNameX.Generate
-- uid: Butterfly.Util.CommandLineUtil
-  name: CommandLineUtil
-  href: api/Butterfly.Util.CommandLineUtil.html
-  commentId: T:Butterfly.Util.CommandLineUtil
-  fullName: Butterfly.Util.CommandLineUtil
-  nameWithType: CommandLineUtil
-- uid: Butterfly.Util.CommandLineUtil.Build(Dictionary{System.String,System.String})
-  name: Build(Dictionary<String, String>)
-  href: api/Butterfly.Util.CommandLineUtil.html#Butterfly_Util_CommandLineUtil_Build_Dictionary_System_String_System_String__
-  commentId: M:Butterfly.Util.CommandLineUtil.Build(Dictionary{System.String,System.String})
-  name.vb: Build(Dictionary(Of String, String))
-  fullName: Butterfly.Util.CommandLineUtil.Build(Dictionary<System.String, System.String>)
-  fullName.vb: Butterfly.Util.CommandLineUtil.Build(Dictionary(Of System.String, System.String))
-  nameWithType: CommandLineUtil.Build(Dictionary<String, String>)
-  nameWithType.vb: CommandLineUtil.Build(Dictionary(Of String, String))
-- uid: Butterfly.Util.CommandLineUtil.Build*
-  name: Build
-  href: api/Butterfly.Util.CommandLineUtil.html#Butterfly_Util_CommandLineUtil_Build_
-  commentId: Overload:Butterfly.Util.CommandLineUtil.Build
-  isSpec: "True"
-  fullName: Butterfly.Util.CommandLineUtil.Build
-  nameWithType: CommandLineUtil.Build
-- uid: Butterfly.Util.CommandLineUtil.Parse(System.String)
-  name: Parse(String)
-  href: api/Butterfly.Util.CommandLineUtil.html#Butterfly_Util_CommandLineUtil_Parse_System_String_
-  commentId: M:Butterfly.Util.CommandLineUtil.Parse(System.String)
-  fullName: Butterfly.Util.CommandLineUtil.Parse(System.String)
-  nameWithType: CommandLineUtil.Parse(String)
-- uid: Butterfly.Util.CommandLineUtil.Parse*
-  name: Parse
-  href: api/Butterfly.Util.CommandLineUtil.html#Butterfly_Util_CommandLineUtil_Parse_
-  commentId: Overload:Butterfly.Util.CommandLineUtil.Parse
-  isSpec: "True"
-  fullName: Butterfly.Util.CommandLineUtil.Parse
-  nameWithType: CommandLineUtil.Parse
 - uid: Butterfly.Util.ConsoleUtil
   name: ConsoleUtil
   href: api/Butterfly.Util.ConsoleUtil.html
@@ -334,6 +299,22 @@ references:
   isSpec: "True"
   fullName: Butterfly.Util.DictionaryX.ParseKeyValue
   nameWithType: DictionaryX.ParseKeyValue
+- uid: Butterfly.Util.DictionaryX.Remove*
+  name: Remove
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_Remove_
+  commentId: Overload:Butterfly.Util.DictionaryX.Remove
+  isSpec: "True"
+  fullName: Butterfly.Util.DictionaryX.Remove
+  nameWithType: DictionaryX.Remove
+- uid: Butterfly.Util.DictionaryX.Remove``2(Dictionary{``0,``1},``0[])
+  name: Remove<T, U>(Dictionary<T, U>, T[])
+  href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_Remove__2_Dictionary___0___1____0___
+  commentId: M:Butterfly.Util.DictionaryX.Remove``2(Dictionary{``0,``1},``0[])
+  name.vb: Remove(Of T, U)(Dictionary(Of T, U), T())
+  fullName: Butterfly.Util.DictionaryX.Remove<T, U>(Dictionary<T, U>, T[])
+  fullName.vb: Butterfly.Util.DictionaryX.Remove(Of T, U)(Dictionary(Of T, U), T())
+  nameWithType: DictionaryX.Remove<T, U>(Dictionary<T, U>, T[])
+  nameWithType.vb: DictionaryX.Remove(Of T, U)(Dictionary(Of T, U), T())
 - uid: Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},System.Char)
   name: SyncAsync(System.Collections.Generic.Dictionary<String, Object>[], System.Collections.Generic.Dictionary<String, Object>[], String[], Func<System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Func<System.Collections.Generic.Dictionary<String, Object>, System.Collections.Generic.Dictionary<String, Object>, Task<Boolean>>, Char)
   href: api/Butterfly.Util.DictionaryX.html#Butterfly_Util_DictionaryX_SyncAsync_System_Collections_Generic_Dictionary_System_String_System_Object____System_Collections_Generic_Dictionary_System_String_System_Object____System_String___Func_System_Collections_Generic_Dictionary_System_String_System_Object__Task_System_Boolean___Func_System_Collections_Generic_Dictionary_System_String_System_Object__System_Collections_Generic_Dictionary_System_String_System_Object__Task_System_Boolean___Func_System_Collections_Generic_Dictionary_System_String_System_Object__System_Collections_Generic_Dictionary_System_String_System_Object__Task_System_Boolean___System_Char_
@@ -768,6 +749,22 @@ references:
   commentId: T:Butterfly.Util.FileX
   fullName: Butterfly.Util.FileX
   nameWithType: FileX
+- uid: Butterfly.Util.FileX.FilterLines(System.String,System.String,Predicate{System.String})
+  name: FilterLines(String, String, Predicate<String>)
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_FilterLines_System_String_System_String_Predicate_System_String__
+  commentId: M:Butterfly.Util.FileX.FilterLines(System.String,System.String,Predicate{System.String})
+  name.vb: FilterLines(String, String, Predicate(Of String))
+  fullName: Butterfly.Util.FileX.FilterLines(System.String, System.String, Predicate<System.String>)
+  fullName.vb: Butterfly.Util.FileX.FilterLines(System.String, System.String, Predicate(Of System.String))
+  nameWithType: FileX.FilterLines(String, String, Predicate<String>)
+  nameWithType.vb: FileX.FilterLines(String, String, Predicate(Of String))
+- uid: Butterfly.Util.FileX.FilterLines*
+  name: FilterLines
+  href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_FilterLines_
+  commentId: Overload:Butterfly.Util.FileX.FilterLines
+  isSpec: "True"
+  fullName: Butterfly.Util.FileX.FilterLines
+  nameWithType: FileX.FilterLines
 - uid: Butterfly.Util.FileX.GetParentPathUntil(System.String,System.String)
   name: GetParentPathUntil(String, String)
   href: api/Butterfly.Util.FileX.html#Butterfly_Util_FileX_GetParentPathUntil_System_String_System_String_
@@ -894,169 +891,6 @@ references:
   fullName.vb: Butterfly.Util.IEnumerableX.HasSameElements(Of T)(ICollection(Of T), ICollection(Of T))
   nameWithType: IEnumerableX.HasSameElements<T>(ICollection<T>, ICollection<T>)
   nameWithType.vb: IEnumerableX.HasSameElements(Of T)(ICollection(Of T), ICollection(Of T))
-- uid: Butterfly.Util.Job
-  name: Butterfly.Util.Job
-  href: api/Butterfly.Util.Job.html
-  commentId: N:Butterfly.Util.Job
-  fullName: Butterfly.Util.Job
-  nameWithType: Butterfly.Util.Job
-- uid: Butterfly.Util.Job.IJob
-  name: IJob
-  href: api/Butterfly.Util.Job.IJob.html
-  commentId: T:Butterfly.Util.Job.IJob
-  fullName: Butterfly.Util.Job.IJob
-  nameWithType: IJob
-- uid: Butterfly.Util.Job.IJob.Run
-  name: Run()
-  href: api/Butterfly.Util.Job.IJob.html#Butterfly_Util_Job_IJob_Run
-  commentId: M:Butterfly.Util.Job.IJob.Run
-  fullName: Butterfly.Util.Job.IJob.Run()
-  nameWithType: IJob.Run()
-- uid: Butterfly.Util.Job.IJob.Run*
-  name: Run
-  href: api/Butterfly.Util.Job.IJob.html#Butterfly_Util_Job_IJob_Run_
-  commentId: Overload:Butterfly.Util.Job.IJob.Run
-  isSpec: "True"
-  fullName: Butterfly.Util.Job.IJob.Run
-  nameWithType: IJob.Run
-- uid: Butterfly.Util.Job.JobData
-  name: JobData
-  href: api/Butterfly.Util.Job.JobData.html
-  commentId: T:Butterfly.Util.Job.JobData
-  fullName: Butterfly.Util.Job.JobData
-  nameWithType: JobData
-- uid: Butterfly.Util.Job.JobData.#ctor(Butterfly.Util.Job.IJob,DateTime)
-  name: JobData(IJob, DateTime)
-  href: api/Butterfly.Util.Job.JobData.html#Butterfly_Util_Job_JobData__ctor_Butterfly_Util_Job_IJob_DateTime_
-  commentId: M:Butterfly.Util.Job.JobData.#ctor(Butterfly.Util.Job.IJob,DateTime)
-  fullName: Butterfly.Util.Job.JobData.JobData(Butterfly.Util.Job.IJob, DateTime)
-  nameWithType: JobData.JobData(IJob, DateTime)
-- uid: Butterfly.Util.Job.JobData.#ctor*
-  name: JobData
-  href: api/Butterfly.Util.Job.JobData.html#Butterfly_Util_Job_JobData__ctor_
-  commentId: Overload:Butterfly.Util.Job.JobData.#ctor
-  isSpec: "True"
-  fullName: Butterfly.Util.Job.JobData.JobData
-  nameWithType: JobData.JobData
-- uid: Butterfly.Util.Job.JobData.job
-  name: job
-  href: api/Butterfly.Util.Job.JobData.html#Butterfly_Util_Job_JobData_job
-  commentId: F:Butterfly.Util.Job.JobData.job
-  fullName: Butterfly.Util.Job.JobData.job
-  nameWithType: JobData.job
-- uid: Butterfly.Util.Job.JobData.nextRunAt
-  name: nextRunAt
-  href: api/Butterfly.Util.Job.JobData.html#Butterfly_Util_Job_JobData_nextRunAt
-  commentId: F:Butterfly.Util.Job.JobData.nextRunAt
-  fullName: Butterfly.Util.Job.JobData.nextRunAt
-  nameWithType: JobData.nextRunAt
-- uid: Butterfly.Util.Job.JobManager
-  name: JobManager
-  href: api/Butterfly.Util.Job.JobManager.html
-  commentId: T:Butterfly.Util.Job.JobManager
-  fullName: Butterfly.Util.Job.JobManager
-  nameWithType: JobManager
-- uid: Butterfly.Util.Job.JobManager.#ctor(System.Single,System.Single)
-  name: JobManager(Single, Single)
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager__ctor_System_Single_System_Single_
-  commentId: M:Butterfly.Util.Job.JobManager.#ctor(System.Single,System.Single)
-  fullName: Butterfly.Util.Job.JobManager.JobManager(System.Single, System.Single)
-  nameWithType: JobManager.JobManager(Single, Single)
-- uid: Butterfly.Util.Job.JobManager.#ctor*
-  name: JobManager
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager__ctor_
-  commentId: Overload:Butterfly.Util.Job.JobManager.#ctor
-  isSpec: "True"
-  fullName: Butterfly.Util.Job.JobManager.JobManager
-  nameWithType: JobManager.JobManager
-- uid: Butterfly.Util.Job.JobManager.AddJob(Butterfly.Util.Job.IJob,DateTime)
-  name: AddJob(IJob, DateTime)
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_AddJob_Butterfly_Util_Job_IJob_DateTime_
-  commentId: M:Butterfly.Util.Job.JobManager.AddJob(Butterfly.Util.Job.IJob,DateTime)
-  fullName: Butterfly.Util.Job.JobManager.AddJob(Butterfly.Util.Job.IJob, DateTime)
-  nameWithType: JobManager.AddJob(IJob, DateTime)
-- uid: Butterfly.Util.Job.JobManager.AddJob*
-  name: AddJob
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_AddJob_
-  commentId: Overload:Butterfly.Util.Job.JobManager.AddJob
-  isSpec: "True"
-  fullName: Butterfly.Util.Job.JobManager.AddJob
-  nameWithType: JobManager.AddJob
-- uid: Butterfly.Util.Job.JobManager.cancellationTokenSource
-  name: cancellationTokenSource
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_cancellationTokenSource
-  commentId: F:Butterfly.Util.Job.JobManager.cancellationTokenSource
-  fullName: Butterfly.Util.Job.JobManager.cancellationTokenSource
-  nameWithType: JobManager.cancellationTokenSource
-- uid: Butterfly.Util.Job.JobManager.firstRunDelaySeconds
-  name: firstRunDelaySeconds
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_firstRunDelaySeconds
-  commentId: F:Butterfly.Util.Job.JobManager.firstRunDelaySeconds
-  fullName: Butterfly.Util.Job.JobManager.firstRunDelaySeconds
-  nameWithType: JobManager.firstRunDelaySeconds
-- uid: Butterfly.Util.Job.JobManager.jobs
-  name: jobs
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_jobs
-  commentId: F:Butterfly.Util.Job.JobManager.jobs
-  fullName: Butterfly.Util.Job.JobManager.jobs
-  nameWithType: JobManager.jobs
-- uid: Butterfly.Util.Job.JobManager.logger
-  name: logger
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_logger
-  commentId: F:Butterfly.Util.Job.JobManager.logger
-  fullName: Butterfly.Util.Job.JobManager.logger
-  nameWithType: JobManager.logger
-- uid: Butterfly.Util.Job.JobManager.noJobsDelaySeconds
-  name: noJobsDelaySeconds
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_noJobsDelaySeconds
-  commentId: F:Butterfly.Util.Job.JobManager.noJobsDelaySeconds
-  fullName: Butterfly.Util.Job.JobManager.noJobsDelaySeconds
-  nameWithType: JobManager.noJobsDelaySeconds
-- uid: Butterfly.Util.Job.JobManager.Run
-  name: Run()
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Run
-  commentId: M:Butterfly.Util.Job.JobManager.Run
-  fullName: Butterfly.Util.Job.JobManager.Run()
-  nameWithType: JobManager.Run()
-- uid: Butterfly.Util.Job.JobManager.Run*
-  name: Run
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Run_
-  commentId: Overload:Butterfly.Util.Job.JobManager.Run
-  isSpec: "True"
-  fullName: Butterfly.Util.Job.JobManager.Run
-  nameWithType: JobManager.Run
-- uid: Butterfly.Util.Job.JobManager.Start
-  name: Start()
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Start
-  commentId: M:Butterfly.Util.Job.JobManager.Start
-  fullName: Butterfly.Util.Job.JobManager.Start()
-  nameWithType: JobManager.Start()
-- uid: Butterfly.Util.Job.JobManager.Start*
-  name: Start
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Start_
-  commentId: Overload:Butterfly.Util.Job.JobManager.Start
-  isSpec: "True"
-  fullName: Butterfly.Util.Job.JobManager.Start
-  nameWithType: JobManager.Start
-- uid: Butterfly.Util.Job.JobManager.Stop
-  name: Stop()
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Stop
-  commentId: M:Butterfly.Util.Job.JobManager.Stop
-  fullName: Butterfly.Util.Job.JobManager.Stop()
-  nameWithType: JobManager.Stop()
-- uid: Butterfly.Util.Job.JobManager.Stop*
-  name: Stop
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_Stop_
-  commentId: Overload:Butterfly.Util.Job.JobManager.Stop
-  isSpec: "True"
-  fullName: Butterfly.Util.Job.JobManager.Stop
-  nameWithType: JobManager.Stop
-- uid: Butterfly.Util.Job.JobManager.stopped
-  name: stopped
-  href: api/Butterfly.Util.Job.JobManager.html#Butterfly_Util_Job_JobManager_stopped
-  commentId: F:Butterfly.Util.Job.JobManager.stopped
-  fullName: Butterfly.Util.Job.JobManager.stopped
-  nameWithType: JobManager.stopped
 - uid: Butterfly.Util.JsonUtil
   name: JsonUtil
   href: api/Butterfly.Util.JsonUtil.html
@@ -1467,25 +1301,169 @@ references:
   isSpec: "True"
   fullName: Butterfly.Util.SafeUtil.ToSafeBase
   nameWithType: SafeUtil.ToSafeBase
-- uid: Butterfly.Util.SecureUtil
-  name: SecureUtil
-  href: api/Butterfly.Util.SecureUtil.html
-  commentId: T:Butterfly.Util.SecureUtil
-  fullName: Butterfly.Util.SecureUtil
-  nameWithType: SecureUtil
-- uid: Butterfly.Util.SecureUtil.CreateFromFiles(System.String,System.String)
-  name: CreateFromFiles(String, String)
-  href: api/Butterfly.Util.SecureUtil.html#Butterfly_Util_SecureUtil_CreateFromFiles_System_String_System_String_
-  commentId: M:Butterfly.Util.SecureUtil.CreateFromFiles(System.String,System.String)
-  fullName: Butterfly.Util.SecureUtil.CreateFromFiles(System.String, System.String)
-  nameWithType: SecureUtil.CreateFromFiles(String, String)
-- uid: Butterfly.Util.SecureUtil.CreateFromFiles*
-  name: CreateFromFiles
-  href: api/Butterfly.Util.SecureUtil.html#Butterfly_Util_SecureUtil_CreateFromFiles_
-  commentId: Overload:Butterfly.Util.SecureUtil.CreateFromFiles
+- uid: Butterfly.Util.ScheduledJob
+  name: Butterfly.Util.ScheduledJob
+  href: api/Butterfly.Util.ScheduledJob.html
+  commentId: N:Butterfly.Util.ScheduledJob
+  fullName: Butterfly.Util.ScheduledJob
+  nameWithType: Butterfly.Util.ScheduledJob
+- uid: Butterfly.Util.ScheduledJob.IScheduledJob
+  name: IScheduledJob
+  href: api/Butterfly.Util.ScheduledJob.IScheduledJob.html
+  commentId: T:Butterfly.Util.ScheduledJob.IScheduledJob
+  fullName: Butterfly.Util.ScheduledJob.IScheduledJob
+  nameWithType: IScheduledJob
+- uid: Butterfly.Util.ScheduledJob.IScheduledJob.Run
+  name: Run()
+  href: api/Butterfly.Util.ScheduledJob.IScheduledJob.html#Butterfly_Util_ScheduledJob_IScheduledJob_Run
+  commentId: M:Butterfly.Util.ScheduledJob.IScheduledJob.Run
+  fullName: Butterfly.Util.ScheduledJob.IScheduledJob.Run()
+  nameWithType: IScheduledJob.Run()
+- uid: Butterfly.Util.ScheduledJob.IScheduledJob.Run*
+  name: Run
+  href: api/Butterfly.Util.ScheduledJob.IScheduledJob.html#Butterfly_Util_ScheduledJob_IScheduledJob_Run_
+  commentId: Overload:Butterfly.Util.ScheduledJob.IScheduledJob.Run
   isSpec: "True"
-  fullName: Butterfly.Util.SecureUtil.CreateFromFiles
-  nameWithType: SecureUtil.CreateFromFiles
+  fullName: Butterfly.Util.ScheduledJob.IScheduledJob.Run
+  nameWithType: IScheduledJob.Run
+- uid: Butterfly.Util.ScheduledJob.JobData
+  name: JobData
+  href: api/Butterfly.Util.ScheduledJob.JobData.html
+  commentId: T:Butterfly.Util.ScheduledJob.JobData
+  fullName: Butterfly.Util.ScheduledJob.JobData
+  nameWithType: JobData
+- uid: Butterfly.Util.ScheduledJob.JobData.#ctor(Butterfly.Util.ScheduledJob.IScheduledJob,DateTime)
+  name: JobData(IScheduledJob, DateTime)
+  href: api/Butterfly.Util.ScheduledJob.JobData.html#Butterfly_Util_ScheduledJob_JobData__ctor_Butterfly_Util_ScheduledJob_IScheduledJob_DateTime_
+  commentId: M:Butterfly.Util.ScheduledJob.JobData.#ctor(Butterfly.Util.ScheduledJob.IScheduledJob,DateTime)
+  fullName: Butterfly.Util.ScheduledJob.JobData.JobData(Butterfly.Util.ScheduledJob.IScheduledJob, DateTime)
+  nameWithType: JobData.JobData(IScheduledJob, DateTime)
+- uid: Butterfly.Util.ScheduledJob.JobData.#ctor*
+  name: JobData
+  href: api/Butterfly.Util.ScheduledJob.JobData.html#Butterfly_Util_ScheduledJob_JobData__ctor_
+  commentId: Overload:Butterfly.Util.ScheduledJob.JobData.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.ScheduledJob.JobData.JobData
+  nameWithType: JobData.JobData
+- uid: Butterfly.Util.ScheduledJob.JobData.job
+  name: job
+  href: api/Butterfly.Util.ScheduledJob.JobData.html#Butterfly_Util_ScheduledJob_JobData_job
+  commentId: F:Butterfly.Util.ScheduledJob.JobData.job
+  fullName: Butterfly.Util.ScheduledJob.JobData.job
+  nameWithType: JobData.job
+- uid: Butterfly.Util.ScheduledJob.JobData.nextRunAt
+  name: nextRunAt
+  href: api/Butterfly.Util.ScheduledJob.JobData.html#Butterfly_Util_ScheduledJob_JobData_nextRunAt
+  commentId: F:Butterfly.Util.ScheduledJob.JobData.nextRunAt
+  fullName: Butterfly.Util.ScheduledJob.JobData.nextRunAt
+  nameWithType: JobData.nextRunAt
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager
+  name: ScheduledJobManager
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html
+  commentId: T:Butterfly.Util.ScheduledJob.ScheduledJobManager
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager
+  nameWithType: ScheduledJobManager
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.#ctor(System.Single,System.Single)
+  name: ScheduledJobManager(Single, Single)
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager__ctor_System_Single_System_Single_
+  commentId: M:Butterfly.Util.ScheduledJob.ScheduledJobManager.#ctor(System.Single,System.Single)
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.ScheduledJobManager(System.Single, System.Single)
+  nameWithType: ScheduledJobManager.ScheduledJobManager(Single, Single)
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.#ctor*
+  name: ScheduledJobManager
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager__ctor_
+  commentId: Overload:Butterfly.Util.ScheduledJob.ScheduledJobManager.#ctor
+  isSpec: "True"
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.ScheduledJobManager
+  nameWithType: ScheduledJobManager.ScheduledJobManager
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.AddScheduledJob(Butterfly.Util.ScheduledJob.IScheduledJob,DateTime)
+  name: AddScheduledJob(IScheduledJob, DateTime)
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_AddScheduledJob_Butterfly_Util_ScheduledJob_IScheduledJob_DateTime_
+  commentId: M:Butterfly.Util.ScheduledJob.ScheduledJobManager.AddScheduledJob(Butterfly.Util.ScheduledJob.IScheduledJob,DateTime)
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.AddScheduledJob(Butterfly.Util.ScheduledJob.IScheduledJob, DateTime)
+  nameWithType: ScheduledJobManager.AddScheduledJob(IScheduledJob, DateTime)
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.AddScheduledJob*
+  name: AddScheduledJob
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_AddScheduledJob_
+  commentId: Overload:Butterfly.Util.ScheduledJob.ScheduledJobManager.AddScheduledJob
+  isSpec: "True"
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.AddScheduledJob
+  nameWithType: ScheduledJobManager.AddScheduledJob
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.cancellationTokenSource
+  name: cancellationTokenSource
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_cancellationTokenSource
+  commentId: F:Butterfly.Util.ScheduledJob.ScheduledJobManager.cancellationTokenSource
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.cancellationTokenSource
+  nameWithType: ScheduledJobManager.cancellationTokenSource
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.firstRunDelaySeconds
+  name: firstRunDelaySeconds
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_firstRunDelaySeconds
+  commentId: F:Butterfly.Util.ScheduledJob.ScheduledJobManager.firstRunDelaySeconds
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.firstRunDelaySeconds
+  nameWithType: ScheduledJobManager.firstRunDelaySeconds
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.jobs
+  name: jobs
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_jobs
+  commentId: F:Butterfly.Util.ScheduledJob.ScheduledJobManager.jobs
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.jobs
+  nameWithType: ScheduledJobManager.jobs
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.logger
+  name: logger
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_logger
+  commentId: F:Butterfly.Util.ScheduledJob.ScheduledJobManager.logger
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.logger
+  nameWithType: ScheduledJobManager.logger
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.noJobsDelaySeconds
+  name: noJobsDelaySeconds
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_noJobsDelaySeconds
+  commentId: F:Butterfly.Util.ScheduledJob.ScheduledJobManager.noJobsDelaySeconds
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.noJobsDelaySeconds
+  nameWithType: ScheduledJobManager.noJobsDelaySeconds
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.Run
+  name: Run()
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_Run
+  commentId: M:Butterfly.Util.ScheduledJob.ScheduledJobManager.Run
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.Run()
+  nameWithType: ScheduledJobManager.Run()
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.Run*
+  name: Run
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_Run_
+  commentId: Overload:Butterfly.Util.ScheduledJob.ScheduledJobManager.Run
+  isSpec: "True"
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.Run
+  nameWithType: ScheduledJobManager.Run
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.Start
+  name: Start()
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_Start
+  commentId: M:Butterfly.Util.ScheduledJob.ScheduledJobManager.Start
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.Start()
+  nameWithType: ScheduledJobManager.Start()
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.Start*
+  name: Start
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_Start_
+  commentId: Overload:Butterfly.Util.ScheduledJob.ScheduledJobManager.Start
+  isSpec: "True"
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.Start
+  nameWithType: ScheduledJobManager.Start
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.Stop
+  name: Stop()
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_Stop
+  commentId: M:Butterfly.Util.ScheduledJob.ScheduledJobManager.Stop
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.Stop()
+  nameWithType: ScheduledJobManager.Stop()
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.Stop*
+  name: Stop
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_Stop_
+  commentId: Overload:Butterfly.Util.ScheduledJob.ScheduledJobManager.Stop
+  isSpec: "True"
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.Stop
+  nameWithType: ScheduledJobManager.Stop
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager.stopped
+  name: stopped
+  href: api/Butterfly.Util.ScheduledJob.ScheduledJobManager.html#Butterfly_Util_ScheduledJob_ScheduledJobManager_stopped
+  commentId: F:Butterfly.Util.ScheduledJob.ScheduledJobManager.stopped
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager.stopped
+  nameWithType: ScheduledJobManager.stopped
 - uid: Butterfly.Util.SlugUtil
   name: SlugUtil
   href: api/Butterfly.Util.SlugUtil.html
