@@ -17,7 +17,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/WebClientWithTimeout.cs
+      path: Butterfly.Util/WebClientWithTimeout.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: WebClientWithTimeout
     path: ../Butterfly.Util/WebClientWithTimeout.cs
     startLine: 4
@@ -28,7 +30,6 @@ items:
     content: 'public class WebClientWithTimeout : WebClient'
     content.vb: >-
       Public Class WebClientWithTimeout
-
           Inherits WebClient
   inheritance:
   - System.Object
@@ -51,7 +52,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/WebClientWithTimeout.cs
+      path: Butterfly.Util/WebClientWithTimeout.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: timeoutMillis
     path: ../Butterfly.Util/WebClientWithTimeout.cs
     startLine: 6
@@ -82,7 +85,9 @@ items:
   type: Constructor
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/WebClientWithTimeout.cs
+      path: Butterfly.Util/WebClientWithTimeout.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: .ctor
     path: ../Butterfly.Util/WebClientWithTimeout.cs
     startLine: 8
@@ -113,7 +118,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/WebClientWithTimeout.cs
+      path: Butterfly.Util/WebClientWithTimeout.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GetWebRequest
     path: ../Butterfly.Util/WebClientWithTimeout.cs
     startLine: 12

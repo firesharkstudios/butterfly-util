@@ -5,7 +5,6 @@ items:
   id: Butterfly.Util
   children:
   - Butterfly.Util.CleverNameX
-  - Butterfly.Util.CommandLineUtil
   - Butterfly.Util.ConsoleUtil
   - Butterfly.Util.DateTimeX
   - Butterfly.Util.DictionaryItemDisposable`2
@@ -22,7 +21,6 @@ items:
   - Butterfly.Util.RandomUtil
   - Butterfly.Util.RunEvery
   - Butterfly.Util.SafeUtil
-  - Butterfly.Util.SecureUtil
   - Butterfly.Util.SlugUtil
   - Butterfly.Util.StringX
   - Butterfly.Util.StructuredParser
@@ -46,11 +44,6 @@ references:
   name: CleverNameX
   nameWithType: CleverNameX
   fullName: Butterfly.Util.CleverNameX
-- uid: Butterfly.Util.CommandLineUtil
-  commentId: T:Butterfly.Util.CommandLineUtil
-  name: CommandLineUtil
-  nameWithType: CommandLineUtil
-  fullName: Butterfly.Util.CommandLineUtil
 - uid: Butterfly.Util.ConsoleUtil
   commentId: T:Butterfly.Util.ConsoleUtil
   name: ConsoleUtil
@@ -200,11 +193,6 @@ references:
   name: SafeUtil
   nameWithType: SafeUtil
   fullName: Butterfly.Util.SafeUtil
-- uid: Butterfly.Util.SecureUtil
-  commentId: T:Butterfly.Util.SecureUtil
-  name: SecureUtil
-  nameWithType: SecureUtil
-  fullName: Butterfly.Util.SecureUtil
 - uid: Butterfly.Util.SlugUtil
   commentId: T:Butterfly.Util.SlugUtil
   name: SlugUtil

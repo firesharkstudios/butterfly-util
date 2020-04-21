@@ -17,7 +17,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DynamicX.cs
+      path: Butterfly.Util/DynamicX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: DynamicX
     path: ../Butterfly.Util/DynamicX.cs
     startLine: 10
@@ -28,7 +30,6 @@ items:
     content: 'public static class DynamicX : object'
     content.vb: >-
       Public Module DynamicX
-
           Inherits Object
   inheritance:
   - System.Object
@@ -52,7 +53,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DynamicX.cs
+      path: Butterfly.Util/DynamicX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GetProperties
     path: ../Butterfly.Util/DynamicX.cs
     startLine: 11
@@ -87,7 +90,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DynamicX.cs
+      path: Butterfly.Util/DynamicX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GetKeys
     path: ../Butterfly.Util/DynamicX.cs
     startLine: 16
@@ -122,7 +127,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DynamicX.cs
+      path: Butterfly.Util/DynamicX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ToDictionary
     path: ../Butterfly.Util/DynamicX.cs
     startLine: 21

@@ -15,7 +15,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/IEnumerableX.cs
+      path: Butterfly.Util/IEnumerableX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: IEnumerableX
     path: ../Butterfly.Util/IEnumerableX.cs
     startLine: 4
@@ -26,7 +28,6 @@ items:
     content: 'public static class IEnumerableX : object'
     content.vb: >-
       Public Module IEnumerableX
-
           Inherits Object
   inheritance:
   - System.Object
@@ -51,7 +52,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/IEnumerableX.cs
+      path: Butterfly.Util/IEnumerableX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: HasSameElements
     path: ../Butterfly.Util/IEnumerableX.cs
     startLine: 6

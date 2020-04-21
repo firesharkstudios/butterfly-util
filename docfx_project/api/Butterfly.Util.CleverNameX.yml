@@ -17,7 +17,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/CleverNameX.cs
+      path: Butterfly.Util/CleverNameX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: CleverNameX
     path: ../Butterfly.Util/CleverNameX.cs
     startLine: 7
@@ -28,7 +30,6 @@ items:
     content: 'public static class CleverNameX : object'
     content.vb: >-
       Public Module CleverNameX
-
           Inherits Object
   inheritance:
   - System.Object
@@ -52,7 +53,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/CleverNameX.cs
+      path: Butterfly.Util/CleverNameX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Generate
     path: ../Butterfly.Util/CleverNameX.cs
     startLine: 10
@@ -84,7 +87,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/CleverNameX.cs
+      path: Butterfly.Util/CleverNameX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: COLORS
     path: ../Butterfly.Util/CleverNameX.cs
     startLine: 14
@@ -117,7 +122,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/CleverNameX.cs
+      path: Butterfly.Util/CleverNameX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ANIMALS
     path: ../Butterfly.Util/CleverNameX.cs
     startLine: 68

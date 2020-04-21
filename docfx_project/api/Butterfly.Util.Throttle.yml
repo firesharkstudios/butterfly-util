@@ -19,7 +19,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+      path: Butterfly.Util/Throttle.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Throttle
     path: ../Butterfly.Util/Throttle.cs
     startLine: 4
@@ -30,7 +32,6 @@ items:
     content: 'public class Throttle : object'
     content.vb: >-
       Public Class Throttle
-
           Inherits Object
   inheritance:
   - System.Object
@@ -53,7 +54,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+      path: Butterfly.Util/Throttle.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: dateTimesByKey
     path: ../Butterfly.Util/Throttle.cs
     startLine: 6
@@ -84,7 +87,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+      path: Butterfly.Util/Throttle.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: seconds
     path: ../Butterfly.Util/Throttle.cs
     startLine: 8
@@ -113,7 +118,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+      path: Butterfly.Util/Throttle.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: count
     path: ../Butterfly.Util/Throttle.cs
     startLine: 9
@@ -142,7 +149,9 @@ items:
   type: Constructor
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+      path: Butterfly.Util/Throttle.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: .ctor
     path: ../Butterfly.Util/Throttle.cs
     startLine: 11
@@ -175,7 +184,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Throttle.cs
+      path: Butterfly.Util/Throttle.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Check
     path: ../Butterfly.Util/Throttle.cs
     startLine: 16

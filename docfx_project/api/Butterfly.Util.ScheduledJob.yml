@@ -1,0 +1,41 @@
+### YamlMime:ManagedReference
+items:
+- uid: Butterfly.Util.ScheduledJob
+  commentId: N:Butterfly.Util.ScheduledJob
+  id: Butterfly.Util.ScheduledJob
+  children:
+  - Butterfly.Util.ScheduledJob.IScheduledJob
+  - Butterfly.Util.ScheduledJob.JobData
+  - Butterfly.Util.ScheduledJob.ScheduledJobManager
+  langs:
+  - csharp
+  - vb
+  name: Butterfly.Util.ScheduledJob
+  nameWithType: Butterfly.Util.ScheduledJob
+  fullName: Butterfly.Util.ScheduledJob
+  type: Namespace
+  assemblies:
+  - Butterfly.Util
+references:
+- uid: Butterfly.Util.ScheduledJob.IScheduledJob
+  commentId: T:Butterfly.Util.ScheduledJob.IScheduledJob
+  parent: Butterfly.Util.ScheduledJob
+  name: IScheduledJob
+  nameWithType: IScheduledJob
+  fullName: Butterfly.Util.ScheduledJob.IScheduledJob
+- uid: Butterfly.Util.ScheduledJob.ScheduledJobManager
+  commentId: T:Butterfly.Util.ScheduledJob.ScheduledJobManager
+  name: ScheduledJobManager
+  nameWithType: ScheduledJobManager
+  fullName: Butterfly.Util.ScheduledJob.ScheduledJobManager
+- uid: Butterfly.Util.ScheduledJob.JobData
+  commentId: T:Butterfly.Util.ScheduledJob.JobData
+  name: JobData
+  nameWithType: JobData
+  fullName: Butterfly.Util.ScheduledJob.JobData
+- uid: Butterfly.Util.ScheduledJob
+  commentId: N:Butterfly.Util.ScheduledJob
+  name: Butterfly.Util.ScheduledJob
+  nameWithType: Butterfly.Util.ScheduledJob
+  fullName: Butterfly.Util.ScheduledJob
+shouldSkipMarkup: true

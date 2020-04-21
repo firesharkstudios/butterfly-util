@@ -15,7 +15,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SlugUtil.cs
+      path: Butterfly.Util/SlugUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: SlugUtil
     path: ../Butterfly.Util/SlugUtil.cs
     startLine: 3
@@ -26,7 +28,6 @@ items:
     content: 'public static class SlugUtil : object'
     content.vb: >-
       Public Module SlugUtil
-
           Inherits Object
   inheritance:
   - System.Object
@@ -50,7 +51,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SlugUtil.cs
+      path: Butterfly.Util/SlugUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Slugify
     path: ../Butterfly.Util/SlugUtil.cs
     startLine: 7

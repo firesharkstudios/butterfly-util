@@ -14,6 +14,7 @@ items:
   - Butterfly.Util.DictionaryX.GetKeyValue(System.Collections.Generic.Dictionary{System.String,System.Object},System.String[],System.Char,System.Boolean)
   - Butterfly.Util.DictionaryX.IsSame``2(Dictionary{``0,``1},Dictionary{``0,``1})
   - Butterfly.Util.DictionaryX.ParseKeyValue(System.Object,System.String[],System.Char)
+  - Butterfly.Util.DictionaryX.Remove``2(Dictionary{``0,``1},``0[])
   - Butterfly.Util.DictionaryX.SyncAsync(System.Collections.Generic.Dictionary{System.String,System.Object}[],System.Collections.Generic.Dictionary{System.String,System.Object}[],System.String[],Func{System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},Func{System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Object},Task{System.Boolean}},System.Char)
   - Butterfly.Util.DictionaryX.ToString``2(Dictionary{``0,``1},System.String,System.String)
   - Butterfly.Util.DictionaryX.UpdateFrom``2(Dictionary{``0,``1},Dictionary{``0,``1})
@@ -26,7 +27,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: DictionaryX
     path: ../Butterfly.Util/DictionaryX.cs
     startLine: 15
@@ -37,7 +40,6 @@ items:
     content: 'public static class DictionaryX : object'
     content.vb: >-
       Public Module DictionaryX
-
           Inherits Object
   inheritance:
   - System.Object
@@ -62,7 +64,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: SyncAsync
     path: ../Butterfly.Util/DictionaryX.cs
     startLine: 17
@@ -116,7 +120,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ConcurrentSyncAsync
     path: ../Butterfly.Util/DictionaryX.cs
     startLine: 48
@@ -172,7 +178,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GetKeyValue
     path: ../Butterfly.Util/DictionaryX.cs
     startLine: 85
@@ -219,7 +227,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ParseKeyValue
     path: ../Butterfly.Util/DictionaryX.cs
     startLine: 103
@@ -262,7 +272,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ContainsAnyKey
     path: ../Butterfly.Util/DictionaryX.cs
     startLine: 121
@@ -309,7 +321,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ContainsAllKeys
     path: ../Butterfly.Util/DictionaryX.cs
     startLine: 128
@@ -342,6 +356,55 @@ items:
   - Shared
   fullName.vb: Butterfly.Util.DictionaryX.ContainsAllKeys(Of T, U)(Dictionary(Of T, U), T())
   name.vb: ContainsAllKeys(Of T, U)(Dictionary(Of T, U), T())
+- uid: Butterfly.Util.DictionaryX.Remove``2(Dictionary{``0,``1},``0[])
+  commentId: M:Butterfly.Util.DictionaryX.Remove``2(Dictionary{``0,``1},``0[])
+  id: Remove``2(Dictionary{``0,``1},``0[])
+  isExtensionMethod: true
+  parent: Butterfly.Util.DictionaryX
+  langs:
+  - csharp
+  - vb
+  name: Remove<T, U>(Dictionary<T, U>, T[])
+  nameWithType: DictionaryX.Remove<T, U>(Dictionary<T, U>, T[])
+  fullName: Butterfly.Util.DictionaryX.Remove<T, U>(Dictionary<T, U>, T[])
+  type: Method
+  source:
+    remote:
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
+    id: Remove
+    path: ../Butterfly.Util/DictionaryX.cs
+    startLine: 135
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static bool Remove<T, U>(this Dictionary<T, U> me, params T[] keys)
+    parameters:
+    - id: me
+      type: Dictionary{{T},{U}}
+    - id: keys
+      type: '{T}[]'
+    typeParameters:
+    - id: T
+    - id: U
+    return:
+      type: System.Boolean
+    content.vb: >-
+      <ExtensionAttribute>
+
+      Public Shared Function Remove(Of T, U)(me As Dictionary(Of T, U), ParamArray keys As T()) As Boolean
+  overload: Butterfly.Util.DictionaryX.Remove*
+  nameWithType.vb: DictionaryX.Remove(Of T, U)(Dictionary(Of T, U), T())
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.DictionaryX.Remove(Of T, U)(Dictionary(Of T, U), T())
+  name.vb: Remove(Of T, U)(Dictionary(Of T, U), T())
 - uid: Butterfly.Util.DictionaryX.ToString``2(Dictionary{``0,``1},System.String,System.String)
   commentId: M:Butterfly.Util.DictionaryX.ToString``2(Dictionary{``0,``1},System.String,System.String)
   id: ToString``2(Dictionary{``0,``1},System.String,System.String)
@@ -356,10 +419,12 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ToString
     path: ../Butterfly.Util/DictionaryX.cs
-    startLine: 135
+    startLine: 144
   assemblies:
   - Butterfly.Util
   namespace: Butterfly.Util
@@ -405,10 +470,12 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GetAs
     path: ../Butterfly.Util/DictionaryX.cs
-    startLine: 161
+    startLine: 170
   assemblies:
   - Butterfly.Util
   namespace: Butterfly.Util
@@ -465,10 +532,12 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Deconstruct
     path: ../Butterfly.Util/DictionaryX.cs
-    startLine: 196
+    startLine: 205
   assemblies:
   - Butterfly.Util
   namespace: Butterfly.Util
@@ -512,10 +581,12 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: UpdateFrom
     path: ../Butterfly.Util/DictionaryX.cs
-    startLine: 201
+    startLine: 210
   assemblies:
   - Butterfly.Util
   namespace: Butterfly.Util
@@ -559,10 +630,12 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: IsSame
     path: ../Butterfly.Util/DictionaryX.cs
-    startLine: 210
+    startLine: 219
   assemblies:
   - Butterfly.Util
   namespace: Butterfly.Util
@@ -606,10 +679,12 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryX.cs
+      path: Butterfly.Util/DictionaryX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Format
     path: ../Butterfly.Util/DictionaryX.cs
-    startLine: 231
+    startLine: 240
   assemblies:
   - Butterfly.Util
   namespace: Butterfly.Util
@@ -1576,6 +1651,11 @@ references:
   name: ContainsAllKeys
   nameWithType: DictionaryX.ContainsAllKeys
   fullName: Butterfly.Util.DictionaryX.ContainsAllKeys
+- uid: Butterfly.Util.DictionaryX.Remove*
+  commentId: Overload:Butterfly.Util.DictionaryX.Remove
+  name: Remove
+  nameWithType: DictionaryX.Remove
+  fullName: Butterfly.Util.DictionaryX.Remove
 - uid: Butterfly.Util.DictionaryX.ToString*
   commentId: Overload:Butterfly.Util.DictionaryX.ToString
   name: ToString

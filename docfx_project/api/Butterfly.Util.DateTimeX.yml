@@ -16,7 +16,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DateTimeX.cs
+      path: Butterfly.Util/DateTimeX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: DateTimeX
     path: ../Butterfly.Util/DateTimeX.cs
     startLine: 7
@@ -27,7 +29,6 @@ items:
     content: 'public static class DateTimeX : object'
     content.vb: >-
       Public Module DateTimeX
-
           Inherits Object
   inheritance:
   - System.Object
@@ -52,7 +53,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DateTimeX.cs
+      path: Butterfly.Util/DateTimeX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ToUnixTimestamp
     path: ../Butterfly.Util/DateTimeX.cs
     startLine: 11
@@ -90,7 +93,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DateTimeX.cs
+      path: Butterfly.Util/DateTimeX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: FromUnixTimestamp
     path: ../Butterfly.Util/DateTimeX.cs
     startLine: 16

@@ -18,7 +18,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StringX.cs
+      path: Butterfly.Util/StringX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: StringX
     path: ../Butterfly.Util/StringX.cs
     startLine: 11
@@ -29,7 +31,6 @@ items:
     content: 'public static class StringX : object'
     content.vb: >-
       Public Module StringX
-
           Inherits Object
   inheritance:
   - System.Object
@@ -54,7 +55,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StringX.cs
+      path: Butterfly.Util/StringX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Hash
     path: ../Butterfly.Util/StringX.cs
     startLine: 12
@@ -93,7 +96,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StringX.cs
+      path: Butterfly.Util/StringX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Abbreviate
     path: ../Butterfly.Util/StringX.cs
     startLine: 21
@@ -132,7 +137,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StringX.cs
+      path: Butterfly.Util/StringX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: SmartSplit
     path: ../Butterfly.Util/StringX.cs
     startLine: 39
@@ -176,7 +183,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StringX.cs
+      path: Butterfly.Util/StringX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: IsBalanced
     path: ../Butterfly.Util/StringX.cs
     startLine: 50

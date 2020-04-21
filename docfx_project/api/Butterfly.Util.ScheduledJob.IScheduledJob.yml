@@ -1,73 +1,77 @@
 ### YamlMime:ManagedReference
 items:
-- uid: Butterfly.Util.Job.IJob
-  commentId: T:Butterfly.Util.Job.IJob
-  id: IJob
-  parent: Butterfly.Util.Job
+- uid: Butterfly.Util.ScheduledJob.IScheduledJob
+  commentId: T:Butterfly.Util.ScheduledJob.IScheduledJob
+  id: IScheduledJob
+  parent: Butterfly.Util.ScheduledJob
   children:
-  - Butterfly.Util.Job.IJob.Run
+  - Butterfly.Util.ScheduledJob.IScheduledJob.Run
   langs:
   - csharp
   - vb
-  name: IJob
-  nameWithType: IJob
-  fullName: Butterfly.Util.Job.IJob
+  name: IScheduledJob
+  nameWithType: IScheduledJob
+  fullName: Butterfly.Util.ScheduledJob.IScheduledJob
   type: Interface
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Job/Job.cs
-    id: IJob
-    path: ../Butterfly.Util/Job/Job.cs
+      path: Butterfly.Util/ScheduledJob/ScheduledJob.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
+    id: IScheduledJob
+    path: ../Butterfly.Util/ScheduledJob/ScheduledJob.cs
     startLine: 8
   assemblies:
   - Butterfly.Util
-  namespace: Butterfly.Util.Job
+  namespace: Butterfly.Util.ScheduledJob
   syntax:
-    content: public interface IJob
-    content.vb: Public Interface IJob
+    content: public interface IScheduledJob
+    content.vb: Public Interface IScheduledJob
   modifiers.csharp:
   - public
   - interface
   modifiers.vb:
   - Public
   - Interface
-- uid: Butterfly.Util.Job.IJob.Run
-  commentId: M:Butterfly.Util.Job.IJob.Run
+- uid: Butterfly.Util.ScheduledJob.IScheduledJob.Run
+  commentId: M:Butterfly.Util.ScheduledJob.IScheduledJob.Run
   id: Run
-  parent: Butterfly.Util.Job.IJob
+  parent: Butterfly.Util.ScheduledJob.IScheduledJob
   langs:
   - csharp
   - vb
   name: Run()
-  nameWithType: IJob.Run()
-  fullName: Butterfly.Util.Job.IJob.Run()
+  nameWithType: IScheduledJob.Run()
+  fullName: Butterfly.Util.ScheduledJob.IScheduledJob.Run()
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Job/Job.cs
+      path: Butterfly.Util/ScheduledJob/ScheduledJob.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Run
-    path: ../Butterfly.Util/Job/Job.cs
+    path: ../Butterfly.Util/ScheduledJob/ScheduledJob.cs
     startLine: 9
   assemblies:
   - Butterfly.Util
-  namespace: Butterfly.Util.Job
+  namespace: Butterfly.Util.ScheduledJob
   syntax:
     content: Task<DateTime?> Run()
     return:
       type: Task{System.Nullable{DateTime}}
     content.vb: Function Run As Task(Of DateTime?)
-  overload: Butterfly.Util.Job.IJob.Run*
+  overload: Butterfly.Util.ScheduledJob.IScheduledJob.Run*
 references:
-- uid: Butterfly.Util.Job
-  commentId: N:Butterfly.Util.Job
-  name: Butterfly.Util.Job
-  nameWithType: Butterfly.Util.Job
-  fullName: Butterfly.Util.Job
-- uid: Butterfly.Util.Job.IJob.Run*
-  commentId: Overload:Butterfly.Util.Job.IJob.Run
+- uid: Butterfly.Util.ScheduledJob
+  commentId: N:Butterfly.Util.ScheduledJob
+  name: Butterfly.Util.ScheduledJob
+  nameWithType: Butterfly.Util.ScheduledJob
+  fullName: Butterfly.Util.ScheduledJob
+- uid: Butterfly.Util.ScheduledJob.IScheduledJob.Run*
+  commentId: Overload:Butterfly.Util.ScheduledJob.IScheduledJob.Run
   name: Run
-  nameWithType: IJob.Run
-  fullName: Butterfly.Util.Job.IJob.Run
+  nameWithType: IScheduledJob.Run
+  fullName: Butterfly.Util.ScheduledJob.IScheduledJob.Run
 - uid: Task{System.Nullable{DateTime}}
   commentId: '!:Task{System.Nullable{DateTime}}'
   definition: Task`1

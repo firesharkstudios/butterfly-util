@@ -5,8 +5,8 @@
 using System;
 using System.Threading.Tasks;
 
-namespace Butterfly.Util.Job {
-    public interface IJob {
+namespace Butterfly.Util.ScheduledJob {
+    public interface IScheduledJob {
         Task<DateTime?> Run();
     }
 }

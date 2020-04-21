@@ -69,5 +69,19 @@ namespace Butterfly.Util {
             }
         }
 
+        public static async Task<bool> FilterLines(string file, string newFile, Predicate<string> filter) {
+            var changed = false;
+            using (var newStreamWriter = new StreamWriter(newFile))
+            using (var existingStreamReader = new StreamReader(file)) {
+                var line = await existingStreamReader.ReadLineAsync();
+                if (filter(line)) {
+                    await newStreamWriter.WriteLineAsync(line);
+                }
+                else {
+                    changed = true;
+                }
+            }
+            return changed;
+        }
     }
 }

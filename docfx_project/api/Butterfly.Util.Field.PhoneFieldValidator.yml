@@ -22,7 +22,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/PhoneFieldValidator.cs
+      path: Butterfly.Util/Field/PhoneFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: PhoneFieldValidator
     path: ../Butterfly.Util/Field/PhoneFieldValidator.cs
     startLine: 11
@@ -33,9 +35,7 @@ items:
     content: 'public class PhoneFieldValidator : object, IFieldValidator'
     content.vb: >-
       Public Class PhoneFieldValidator
-
           Inherits Object
-
           Implements IFieldValidator
   inheritance:
   - System.Object
@@ -60,7 +60,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/PhoneFieldValidator.cs
+      path: Butterfly.Util/Field/PhoneFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: logger
     path: ../Butterfly.Util/Field/PhoneFieldValidator.cs
     startLine: 12
@@ -93,7 +95,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/PhoneFieldValidator.cs
+      path: Butterfly.Util/Field/PhoneFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: name
     path: ../Butterfly.Util/Field/PhoneFieldValidator.cs
     startLine: 14
@@ -124,7 +128,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/PhoneFieldValidator.cs
+      path: Butterfly.Util/Field/PhoneFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: allowNull
     path: ../Butterfly.Util/Field/PhoneFieldValidator.cs
     startLine: 15
@@ -155,7 +161,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/PhoneFieldValidator.cs
+      path: Butterfly.Util/Field/PhoneFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: NON_PHONE_CHARS
     path: ../Butterfly.Util/Field/PhoneFieldValidator.cs
     startLine: 17
@@ -188,7 +196,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/PhoneFieldValidator.cs
+      path: Butterfly.Util/Field/PhoneFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: PHONE_NUMBER_UTIL
     path: ../Butterfly.Util/Field/PhoneFieldValidator.cs
     startLine: 19
@@ -221,7 +231,9 @@ items:
   type: Constructor
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/PhoneFieldValidator.cs
+      path: Butterfly.Util/Field/PhoneFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: .ctor
     path: ../Butterfly.Util/Field/PhoneFieldValidator.cs
     startLine: 21
@@ -254,7 +266,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/PhoneFieldValidator.cs
+      path: Butterfly.Util/Field/PhoneFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Validate
     path: ../Butterfly.Util/Field/PhoneFieldValidator.cs
     startLine: 26
@@ -289,7 +303,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/PhoneFieldValidator.cs
+      path: Butterfly.Util/Field/PhoneFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Format
     path: ../Butterfly.Util/Field/PhoneFieldValidator.cs
     startLine: 42

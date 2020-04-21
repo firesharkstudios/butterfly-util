@@ -20,7 +20,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+      path: Butterfly.Util/SafeUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: SafeUtil
     path: ../Butterfly.Util/SafeUtil.cs
     startLine: 15
@@ -31,7 +33,6 @@ items:
     content: 'public static class SafeUtil : object'
     content.vb: >-
       Public Module SafeUtil
-
           Inherits Object
   inheritance:
   - System.Object
@@ -55,7 +56,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+      path: Butterfly.Util/SafeUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: FULL_SAFE_BASE_ALPHABET
     path: ../Butterfly.Util/SafeUtil.cs
     startLine: 16
@@ -86,7 +89,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+      path: Butterfly.Util/SafeUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GetRandom
     path: ../Butterfly.Util/SafeUtil.cs
     startLine: 18
@@ -123,7 +128,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+      path: Butterfly.Util/SafeUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ToSafeBase
     path: ../Butterfly.Util/SafeUtil.cs
     startLine: 28
@@ -160,7 +167,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+      path: Butterfly.Util/SafeUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: FromSafeBase
     path: ../Butterfly.Util/SafeUtil.cs
     startLine: 39
@@ -197,7 +206,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+      path: Butterfly.Util/SafeUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Scrub
     path: ../Butterfly.Util/SafeUtil.cs
     startLine: 48
@@ -234,7 +245,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/SafeUtil.cs
+      path: Butterfly.Util/SafeUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: InvalidCharacterMatch
     path: ../Butterfly.Util/SafeUtil.cs
     startLine: 53

@@ -21,7 +21,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+      path: Butterfly.Util/JsonUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: JsonUtil
     path: ../Butterfly.Util/JsonUtil.cs
     startLine: 14
@@ -32,7 +34,6 @@ items:
     content: 'public static class JsonUtil : object'
     content.vb: >-
       Public Module JsonUtil
-
           Inherits Object
   inheritance:
   - System.Object
@@ -56,7 +57,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+      path: Butterfly.Util/JsonUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Deserialize
     path: ../Butterfly.Util/JsonUtil.cs
     startLine: 24
@@ -96,7 +99,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+      path: Butterfly.Util/JsonUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Deserialize
     path: ../Butterfly.Util/JsonUtil.cs
     startLine: 31
@@ -136,7 +141,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+      path: Butterfly.Util/JsonUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Deserialize
     path: ../Butterfly.Util/JsonUtil.cs
     startLine: 36
@@ -173,7 +180,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+      path: Butterfly.Util/JsonUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ReadJsonFile
     path: ../Butterfly.Util/JsonUtil.cs
     startLine: 46
@@ -215,7 +224,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+      path: Butterfly.Util/JsonUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: WriteToFile
     path: ../Butterfly.Util/JsonUtil.cs
     startLine: 59
@@ -254,7 +265,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+      path: Butterfly.Util/JsonUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: WriteToStream
     path: ../Butterfly.Util/JsonUtil.cs
     startLine: 73
@@ -293,7 +306,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/JsonUtil.cs
+      path: Butterfly.Util/JsonUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Serialize
     path: ../Butterfly.Util/JsonUtil.cs
     startLine: 85

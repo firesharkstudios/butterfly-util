@@ -15,7 +15,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/UnauthorizedException.cs
+      path: Butterfly.Util/UnauthorizedException.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: UnauthorizedException
     path: ../Butterfly.Util/UnauthorizedException.cs
     startLine: 7
@@ -26,7 +28,6 @@ items:
     content: 'public class UnauthorizedException : Exception'
     content.vb: >-
       Public Class UnauthorizedException
-
           Inherits Exception
   inheritance:
   - System.Object
@@ -49,7 +50,9 @@ items:
   type: Constructor
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/UnauthorizedException.cs
+      path: Butterfly.Util/UnauthorizedException.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: .ctor
     path: ../Butterfly.Util/UnauthorizedException.cs
     startLine: 8

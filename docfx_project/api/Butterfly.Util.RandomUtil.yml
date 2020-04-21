@@ -15,7 +15,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/RandomUtil.cs
+      path: Butterfly.Util/RandomUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: RandomUtil
     path: ../Butterfly.Util/RandomUtil.cs
     startLine: 8
@@ -26,7 +28,6 @@ items:
     content: 'public static class RandomUtil : object'
     content.vb: >-
       Public Module RandomUtil
-
           Inherits Object
   inheritance:
   - System.Object
@@ -50,7 +51,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/RandomUtil.cs
+      path: Butterfly.Util/RandomUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Next
     path: ../Butterfly.Util/RandomUtil.cs
     startLine: 11

@@ -4,8 +4,6 @@
   items:
   - uid: Butterfly.Util.CleverNameX
     name: CleverNameX
-  - uid: Butterfly.Util.CommandLineUtil
-    name: CommandLineUtil
   - uid: Butterfly.Util.ConsoleUtil
     name: ConsoleUtil
   - uid: Butterfly.Util.DateTimeX
@@ -40,8 +38,6 @@
     name: RunEvery
   - uid: Butterfly.Util.SafeUtil
     name: SafeUtil
-  - uid: Butterfly.Util.SecureUtil
-    name: SecureUtil
   - uid: Butterfly.Util.SlugUtil
     name: SlugUtil
   - uid: Butterfly.Util.StringX
@@ -71,12 +67,12 @@
     name: PhoneFieldValidator
   - uid: Butterfly.Util.Field.TextFieldValidator
     name: TextFieldValidator
-- uid: Butterfly.Util.Job
-  name: Butterfly.Util.Job
+- uid: Butterfly.Util.ScheduledJob
+  name: Butterfly.Util.ScheduledJob
   items:
-  - uid: Butterfly.Util.Job.IJob
-    name: IJob
-  - uid: Butterfly.Util.Job.JobData
+  - uid: Butterfly.Util.ScheduledJob.IScheduledJob
+    name: IScheduledJob
+  - uid: Butterfly.Util.ScheduledJob.JobData
     name: JobData
-  - uid: Butterfly.Util.Job.JobManager
-    name: JobManager
+  - uid: Butterfly.Util.ScheduledJob.ScheduledJobManager
+    name: ScheduledJobManager

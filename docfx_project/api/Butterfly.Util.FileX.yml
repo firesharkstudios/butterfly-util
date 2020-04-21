@@ -5,6 +5,7 @@ items:
   id: FileX
   parent: Butterfly.Util
   children:
+  - Butterfly.Util.FileX.FilterLines(System.String,System.String,Predicate{System.String})
   - Butterfly.Util.FileX.GetParentPathUntil(System.String,System.String)
   - Butterfly.Util.FileX.GetReadFileStream(System.String,System.Boolean)
   - Butterfly.Util.FileX.GetWriteFileStream(System.String,System.Boolean)
@@ -22,7 +23,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/FileX.cs
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: FileX
     path: ../Butterfly.Util/FileX.cs
     startLine: 11
@@ -33,7 +36,6 @@ items:
     content: 'public static class FileX : object'
     content.vb: >-
       Public Module FileX
-
           Inherits Object
   inheritance:
   - System.Object
@@ -57,7 +59,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/FileX.cs
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GetParentPathUntil
     path: ../Butterfly.Util/FileX.cs
     startLine: 12
@@ -94,7 +98,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/FileX.cs
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Resolve
     path: ../Butterfly.Util/FileX.cs
     startLine: 22
@@ -129,7 +135,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/FileX.cs
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: WriteTextAsync
     path: ../Butterfly.Util/FileX.cs
     startLine: 26
@@ -166,7 +174,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/FileX.cs
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ReadTextAsync
     path: ../Butterfly.Util/FileX.cs
     startLine: 34
@@ -201,7 +211,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/FileX.cs
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GetReadFileStream
     path: ../Butterfly.Util/FileX.cs
     startLine: 49
@@ -238,7 +250,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/FileX.cs
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GetWriteFileStream
     path: ../Butterfly.Util/FileX.cs
     startLine: 54
@@ -275,7 +289,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/FileX.cs
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: LoadResourceAsText
     path: ../Butterfly.Util/FileX.cs
     startLine: 59
@@ -312,7 +328,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/FileX.cs
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: LoadResourceAsTextAsync
     path: ../Butterfly.Util/FileX.cs
     startLine: 65
@@ -336,6 +354,50 @@ items:
   modifiers.vb:
   - Public
   - Shared
+- uid: Butterfly.Util.FileX.FilterLines(System.String,System.String,Predicate{System.String})
+  commentId: M:Butterfly.Util.FileX.FilterLines(System.String,System.String,Predicate{System.String})
+  id: FilterLines(System.String,System.String,Predicate{System.String})
+  parent: Butterfly.Util.FileX
+  langs:
+  - csharp
+  - vb
+  name: FilterLines(String, String, Predicate<String>)
+  nameWithType: FileX.FilterLines(String, String, Predicate<String>)
+  fullName: Butterfly.Util.FileX.FilterLines(System.String, System.String, Predicate<System.String>)
+  type: Method
+  source:
+    remote:
+      path: Butterfly.Util/FileX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
+    id: FilterLines
+    path: ../Butterfly.Util/FileX.cs
+    startLine: 71
+  assemblies:
+  - Butterfly.Util
+  namespace: Butterfly.Util
+  syntax:
+    content: public static Task<bool> FilterLines(string file, string newFile, Predicate<string> filter)
+    parameters:
+    - id: file
+      type: System.String
+    - id: newFile
+      type: System.String
+    - id: filter
+      type: Predicate{System.String}
+    return:
+      type: Task{System.Boolean}
+    content.vb: Public Shared Function FilterLines(file As String, newFile As String, filter As Predicate(Of String)) As Task(Of Boolean)
+  overload: Butterfly.Util.FileX.FilterLines*
+  nameWithType.vb: FileX.FilterLines(String, String, Predicate(Of String))
+  modifiers.csharp:
+  - public
+  - static
+  modifiers.vb:
+  - Public
+  - Shared
+  fullName.vb: Butterfly.Util.FileX.FilterLines(System.String, System.String, Predicate(Of System.String))
+  name.vb: FilterLines(String, String, Predicate(Of String))
 references:
 - uid: Butterfly.Util
   commentId: N:Butterfly.Util
@@ -494,4 +556,134 @@ references:
   name: LoadResourceAsTextAsync
   nameWithType: FileX.LoadResourceAsTextAsync
   fullName: Butterfly.Util.FileX.LoadResourceAsTextAsync
+- uid: Butterfly.Util.FileX.FilterLines*
+  commentId: Overload:Butterfly.Util.FileX.FilterLines
+  name: FilterLines
+  nameWithType: FileX.FilterLines
+  fullName: Butterfly.Util.FileX.FilterLines
+- uid: Predicate{System.String}
+  commentId: '!:Predicate{System.String}'
+  definition: Predicate`1
+  name: Predicate<String>
+  nameWithType: Predicate<String>
+  fullName: Predicate<System.String>
+  nameWithType.vb: Predicate(Of String)
+  fullName.vb: Predicate(Of System.String)
+  name.vb: Predicate(Of String)
+  spec.csharp:
+  - uid: Predicate`1
+    name: Predicate
+    nameWithType: Predicate
+    fullName: Predicate
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Predicate`1
+    name: Predicate
+    nameWithType: Predicate
+    fullName: Predicate
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.String
+    name: String
+    nameWithType: String
+    fullName: System.String
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Task{System.Boolean}
+  commentId: '!:Task{System.Boolean}'
+  definition: Task`1
+  name: Task<Boolean>
+  nameWithType: Task<Boolean>
+  fullName: Task<System.Boolean>
+  nameWithType.vb: Task(Of Boolean)
+  fullName.vb: Task(Of System.Boolean)
+  name.vb: Task(Of Boolean)
+  spec.csharp:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Task`1
+    name: Task
+    nameWithType: Task
+    fullName: Task
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - uid: System.Boolean
+    name: Boolean
+    nameWithType: Boolean
+    fullName: System.Boolean
+    isExternal: true
+  - name: )
+    nameWithType: )
+    fullName: )
+- uid: Predicate`1
+  commentId: '!:Predicate`1'
+  isExternal: true
+  name: Predicate<>
+  nameWithType: Predicate<>
+  fullName: Predicate<>
+  nameWithType.vb: Predicate(Of )
+  fullName.vb: Predicate(Of )
+  name.vb: Predicate(Of )
+  spec.csharp:
+  - uid: Predicate`1
+    name: Predicate
+    nameWithType: Predicate
+    fullName: Predicate
+    isExternal: true
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: Predicate`1
+    name: Predicate
+    nameWithType: Predicate
+    fullName: Predicate
+    isExternal: true
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: ''
+    nameWithType: ''
+    fullName: ''
+  - name: )
+    nameWithType: )
+    fullName: )
 shouldSkipMarkup: true

@@ -15,7 +15,9 @@ items:
   type: Interface
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/IFieldValidator.cs
+      path: Butterfly.Util/Field/IFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: IFieldValidator
     path: ../Butterfly.Util/Field/IFieldValidator.cs
     startLine: 5
@@ -44,7 +46,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/IFieldValidator.cs
+      path: Butterfly.Util/Field/IFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Validate
     path: ../Butterfly.Util/Field/IFieldValidator.cs
     startLine: 7

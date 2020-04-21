@@ -9,8 +9,8 @@ using System.Threading.Tasks;
 
 using NLog;
 
-namespace Butterfly.Util.Job {
-    public class JobManager {
+namespace Butterfly.Util.ScheduledJob {
+    public class ScheduledJobManager {
 
         protected static readonly Logger logger = LogManager.GetCurrentClassLogger();
 
@@ -19,12 +19,12 @@ namespace Butterfly.Util.Job {
         protected readonly float firstRunDelaySeconds;
         protected readonly float noJobsDelaySeconds;
 
-        public JobManager(float firstRunDelaySeconds = 15.0f, float noJobsDelaySeconds = 0.5f) {
+        public ScheduledJobManager(float firstRunDelaySeconds = 15.0f, float noJobsDelaySeconds = 0.5f) {
             this.firstRunDelaySeconds = firstRunDelaySeconds;
             this.noJobsDelaySeconds = noJobsDelaySeconds;
         }
 
-        public void AddJob(IJob job, DateTime nextRunAt) {
+        public void AddScheduledJob(IScheduledJob job, DateTime nextRunAt) {
             this.jobs.Add(new JobData(job, nextRunAt));
         }
 
@@ -74,10 +74,10 @@ namespace Butterfly.Util.Job {
     }
 
     public class JobData {
-        public readonly IJob job;
+        public readonly IScheduledJob job;
         public DateTime nextRunAt;
 
-        public JobData(IJob job, DateTime nextRunAt) {
+        public JobData(IScheduledJob job, DateTime nextRunAt) {
             this.job = job;
             this.nextRunAt = nextRunAt;
         }

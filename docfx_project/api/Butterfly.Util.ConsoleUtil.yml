@@ -15,7 +15,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/ConsoleUtil.cs
+      path: Butterfly.Util/ConsoleUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ConsoleUtil
     path: ../Butterfly.Util/ConsoleUtil.cs
     startLine: 8
@@ -26,7 +28,6 @@ items:
     content: 'public static class ConsoleUtil : object'
     content.vb: >-
       Public Module ConsoleUtil
-
           Inherits Object
   inheritance:
   - System.Object
@@ -50,7 +51,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/ConsoleUtil.cs
+      path: Butterfly.Util/ConsoleUtil.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: WaitForCancelKey
     path: ../Butterfly.Util/ConsoleUtil.cs
     startLine: 9

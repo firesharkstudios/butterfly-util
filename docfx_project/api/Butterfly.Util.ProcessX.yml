@@ -20,7 +20,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/ProcessX.cs
+      path: Butterfly.Util/ProcessX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: ProcessX
     path: ../Butterfly.Util/ProcessX.cs
     startLine: 11
@@ -31,7 +33,6 @@ items:
     content: 'public static class ProcessX : object'
     content.vb: >-
       Public Module ProcessX
-
           Inherits Object
   inheritance:
   - System.Object
@@ -55,7 +56,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/ProcessX.cs
+      path: Butterfly.Util/ProcessX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: OpenBrowser
     path: ../Butterfly.Util/ProcessX.cs
     startLine: 15
@@ -88,7 +91,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/ProcessX.cs
+      path: Butterfly.Util/ProcessX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: AddHttpUrlAclIfNeeded
     path: ../Butterfly.Util/ProcessX.cs
     startLine: 37
@@ -121,7 +126,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/ProcessX.cs
+      path: Butterfly.Util/ProcessX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: AddHttpUrlAcl
     path: ../Butterfly.Util/ProcessX.cs
     startLine: 44
@@ -154,7 +161,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/ProcessX.cs
+      path: Butterfly.Util/ProcessX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: HasHttpUrlAcl
     path: ../Butterfly.Util/ProcessX.cs
     startLine: 58
@@ -190,7 +199,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/ProcessX.cs
+      path: Butterfly.Util/ProcessX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: WaitForExitAsync
     path: ../Butterfly.Util/ProcessX.cs
     startLine: 81
@@ -230,7 +241,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/ProcessX.cs
+      path: Butterfly.Util/ProcessX.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: WaitAndCaptureAsync
     path: ../Butterfly.Util/ProcessX.cs
     startLine: 107

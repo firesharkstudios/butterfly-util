@@ -21,7 +21,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/EmailFieldValidator.cs
+      path: Butterfly.Util/Field/EmailFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: EmailFieldValidator
     path: ../Butterfly.Util/Field/EmailFieldValidator.cs
     startLine: 9
@@ -32,9 +34,7 @@ items:
     content: 'public class EmailFieldValidator : object, IFieldValidator'
     content.vb: >-
       Public Class EmailFieldValidator
-
           Inherits Object
-
           Implements IFieldValidator
   inheritance:
   - System.Object
@@ -59,7 +59,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/EmailFieldValidator.cs
+      path: Butterfly.Util/Field/EmailFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: logger
     path: ../Butterfly.Util/Field/EmailFieldValidator.cs
     startLine: 10
@@ -92,7 +94,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/EmailFieldValidator.cs
+      path: Butterfly.Util/Field/EmailFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: name
     path: ../Butterfly.Util/Field/EmailFieldValidator.cs
     startLine: 12
@@ -123,7 +127,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/EmailFieldValidator.cs
+      path: Butterfly.Util/Field/EmailFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: allowNull
     path: ../Butterfly.Util/Field/EmailFieldValidator.cs
     startLine: 13
@@ -154,7 +160,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/EmailFieldValidator.cs
+      path: Butterfly.Util/Field/EmailFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: stripName
     path: ../Butterfly.Util/Field/EmailFieldValidator.cs
     startLine: 14
@@ -185,7 +193,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/EmailFieldValidator.cs
+      path: Butterfly.Util/Field/EmailFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: REGEX
     path: ../Butterfly.Util/Field/EmailFieldValidator.cs
     startLine: 16
@@ -218,7 +228,9 @@ items:
   type: Constructor
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/EmailFieldValidator.cs
+      path: Butterfly.Util/Field/EmailFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: .ctor
     path: ../Butterfly.Util/Field/EmailFieldValidator.cs
     startLine: 18
@@ -253,7 +265,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/EmailFieldValidator.cs
+      path: Butterfly.Util/Field/EmailFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Validate
     path: ../Butterfly.Util/Field/EmailFieldValidator.cs
     startLine: 24

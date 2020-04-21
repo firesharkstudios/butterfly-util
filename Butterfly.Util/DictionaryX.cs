@@ -133,6 +133,15 @@ namespace Butterfly.Util {
             return true;
         }
 
+        public static bool Remove<T, U>(this Dictionary<T, U> me, params T[] keys) {
+            bool changed = false;
+            foreach (var key in keys) {
+                bool found = me.Remove(key);
+                if (found) changed = true;
+            }
+            return changed;
+        }
+
         public static string ToString<T, U>(this Dictionary<T, U> me, string keyValueDelim, string itemDelim) {
             return string.Join(itemDelim, me.Select(x => $"{x.Key}{keyValueDelim}{x.Value}"));
         }

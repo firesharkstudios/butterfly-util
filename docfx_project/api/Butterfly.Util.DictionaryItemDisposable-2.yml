@@ -18,7 +18,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryItemDisposable.cs
+      path: Butterfly.Util/DictionaryItemDisposable.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: DictionaryItemDisposable
     path: ../Butterfly.Util/DictionaryItemDisposable.cs
     startLine: 8
@@ -32,7 +34,6 @@ items:
     - id: U
     content.vb: >-
       Public Class DictionaryItemDisposable(Of T, U)
-
           Inherits IDisposable
   inheritance:
   - System.Object
@@ -58,7 +59,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryItemDisposable.cs
+      path: Butterfly.Util/DictionaryItemDisposable.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: dictionary
     path: ../Butterfly.Util/DictionaryItemDisposable.cs
     startLine: 10
@@ -91,7 +94,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryItemDisposable.cs
+      path: Butterfly.Util/DictionaryItemDisposable.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: key
     path: ../Butterfly.Util/DictionaryItemDisposable.cs
     startLine: 11
@@ -124,7 +129,9 @@ items:
   type: Constructor
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryItemDisposable.cs
+      path: Butterfly.Util/DictionaryItemDisposable.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: .ctor
     path: ../Butterfly.Util/DictionaryItemDisposable.cs
     startLine: 13
@@ -162,7 +169,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/DictionaryItemDisposable.cs
+      path: Butterfly.Util/DictionaryItemDisposable.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Dispose
     path: ../Butterfly.Util/DictionaryItemDisposable.cs
     startLine: 19

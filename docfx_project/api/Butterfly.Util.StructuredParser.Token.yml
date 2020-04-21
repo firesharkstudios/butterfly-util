@@ -18,7 +18,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+      path: Butterfly.Util/StructuredParser.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Token
     path: ../Butterfly.Util/StructuredParser.cs
     startLine: 59
@@ -29,7 +31,6 @@ items:
     content: 'public class Token : object'
     content.vb: >-
       Public Class Token
-
           Inherits Object
   inheritance:
   - System.Object
@@ -52,7 +53,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+      path: Butterfly.Util/StructuredParser.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: name
     path: ../Butterfly.Util/StructuredParser.cs
     startLine: 60
@@ -83,7 +86,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+      path: Butterfly.Util/StructuredParser.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: regex
     path: ../Butterfly.Util/StructuredParser.cs
     startLine: 61
@@ -114,7 +119,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+      path: Butterfly.Util/StructuredParser.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: required
     path: ../Butterfly.Util/StructuredParser.cs
     startLine: 62
@@ -145,7 +152,9 @@ items:
   type: Constructor
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/StructuredParser.cs
+      path: Butterfly.Util/StructuredParser.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: .ctor
     path: ../Butterfly.Util/StructuredParser.cs
     startLine: 64

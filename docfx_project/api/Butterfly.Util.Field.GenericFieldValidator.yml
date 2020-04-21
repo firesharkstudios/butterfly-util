@@ -22,7 +22,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/GenericFieldValidator.cs
+      path: Butterfly.Util/Field/GenericFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: GenericFieldValidator
     path: ../Butterfly.Util/Field/GenericFieldValidator.cs
     startLine: 8
@@ -33,9 +35,7 @@ items:
     content: 'public class GenericFieldValidator : object, IFieldValidator'
     content.vb: >-
       Public Class GenericFieldValidator
-
           Inherits Object
-
           Implements IFieldValidator
   inheritance:
   - System.Object
@@ -60,7 +60,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/GenericFieldValidator.cs
+      path: Butterfly.Util/Field/GenericFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: fieldName
     path: ../Butterfly.Util/Field/GenericFieldValidator.cs
     startLine: 9
@@ -91,7 +93,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/GenericFieldValidator.cs
+      path: Butterfly.Util/Field/GenericFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: regex
     path: ../Butterfly.Util/Field/GenericFieldValidator.cs
     startLine: 10
@@ -122,7 +126,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/GenericFieldValidator.cs
+      path: Butterfly.Util/Field/GenericFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: allowNull
     path: ../Butterfly.Util/Field/GenericFieldValidator.cs
     startLine: 11
@@ -153,7 +159,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/GenericFieldValidator.cs
+      path: Butterfly.Util/Field/GenericFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: forceLowerCase
     path: ../Butterfly.Util/Field/GenericFieldValidator.cs
     startLine: 12
@@ -184,7 +192,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/GenericFieldValidator.cs
+      path: Butterfly.Util/Field/GenericFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: trim
     path: ../Butterfly.Util/Field/GenericFieldValidator.cs
     startLine: 13
@@ -215,7 +225,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/GenericFieldValidator.cs
+      path: Butterfly.Util/Field/GenericFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: includeValueInError
     path: ../Butterfly.Util/Field/GenericFieldValidator.cs
     startLine: 14
@@ -246,7 +258,9 @@ items:
   type: Constructor
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/GenericFieldValidator.cs
+      path: Butterfly.Util/Field/GenericFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: .ctor
     path: ../Butterfly.Util/Field/GenericFieldValidator.cs
     startLine: 16
@@ -287,7 +301,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/GenericFieldValidator.cs
+      path: Butterfly.Util/Field/GenericFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Validate
     path: ../Butterfly.Util/Field/GenericFieldValidator.cs
     startLine: 25

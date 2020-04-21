@@ -25,7 +25,9 @@ items:
   type: Class
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: TextFieldValidator
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 10
@@ -36,9 +38,7 @@ items:
     content: 'public class TextFieldValidator : object, IFieldValidator'
     content.vb: >-
       Public Class TextFieldValidator
-
           Inherits Object
-
           Implements IFieldValidator
   inheritance:
   - System.Object
@@ -63,7 +63,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: logger
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 11
@@ -96,7 +98,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: name
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 13
@@ -127,7 +131,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: allowNull
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 14
@@ -158,7 +164,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: trim
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 15
@@ -189,7 +197,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: forceLower
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 16
@@ -220,7 +230,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: forceUpper
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 17
@@ -251,7 +263,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: maxLength
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 18
@@ -282,7 +296,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: validRegex
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 19
@@ -313,7 +329,9 @@ items:
   type: Field
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: removeRegex
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 20
@@ -344,7 +362,9 @@ items:
   type: Constructor
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: .ctor
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 22
@@ -389,7 +409,9 @@ items:
   type: Method
   source:
     remote:
-      path: C:/Users/kent1/Documents/Visual Studio 2019/Projects/Butterfly.Util/Butterfly.Util/Field/TextFieldValidator.cs
+      path: Butterfly.Util/Field/TextFieldValidator.cs
+      branch: master
+      repo: https://github.com/firesharkstudios/butterfly-util
     id: Validate
     path: ../Butterfly.Util/Field/TextFieldValidator.cs
     startLine: 33
